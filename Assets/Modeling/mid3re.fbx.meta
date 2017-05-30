@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 1468c4b2668a047c5aed01caba9b419e
+timeCreated: 1495379220
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box754
+    100002: Box755
+    100004: Box756
+    100006: Box757
+    100008: Box758
+    100010: Box759
+    100012: Box760
+    100014: Box761
+    100016: Box762
+    100018: Box763
+    100020: Box764
+    100022: Box765
+    100024: Box766
+    100026: Box767
+    100028: Box768
+    100030: Box769
+    100032: Capsule_2_027
+    100034: Capsule_2_028
+    100036: Capsule_2_029
+    100038: ChamferBox012
+    100040: ChamferBox013
+    100042: ChamferBox014
+    100044: ChamferBox015
+    100046: ChamferBox016
+    100048: ChamferBox017
+    100050: ChamferBox018
+    100052: ChamferBox019
+    100054: ChamferBox020
+    100056: ChamferBox021
+    100058: ChamferBox022
+    100060: Cylinde590
+    100062: Cylinde591
+    100064: Cylinde592
+    100066: Cylinder319
+    100068: Cylinder320
+    100070: Cylinder321
+    100072: Cylinder322
+    100074: Cylinder323
+    100076: Cylinder324
+    100078: Cylinder325
+    100080: Cylinder326
+    100082: Cylinder327
+    100084: Cylinder328
+    100086: Cylinder329
+    100088: Cylinder330
+    100090: Cylinder331
+    100092: Cylinder332
+    100094: Cylinder333
+    100096: Cylinder334
+    100098: Cylinder335
+    100100: Cylinder336
+    100102: Cylinder337
+    100104: Cylinder338
+    100106: Cylinder339
+    100108: Cylinder340
+    100110: Cylinder341
+    100112: Cylinder342
+    100114: Cylinder343
+    100116: Cylinder344
+    100118: Cylinder345
+    100120: Cylinder346
+    100122: Cylinder347
+    100124: Cylinder348
+    100126: Cylinder349
+    100128: Cylinder350
+    100130: Cylinder351
+    100132: Cylinder352
+    100134: Cylinder353
+    100136: G charge p010
+    100138: G charge p011
+    100140: G charge p012
+    100142: G charge p013
+    100144: G charge p014
+    100146: G charge p015
+    100148: G charge p016
+    100150: G charge p017
+    100152: G washer 011
+    100154: G washer 012
+    100156: G washer 013
+    100158: G washer 014
+    100160: G washer 015
+    100162: G washer 016
+    100164: G washer 017
+    100166: G washer 018
+    100168: G washer 019
+    100170: G washer 020
+    100172: Group4494
+    100174: Line1324
+    100176: Line1325
+    100178: Line1326
+    100180: Line1327
+    100182: Line1328
+    100184: Line1329
+    100186: Line1330
+    100188: Line1331
+    100190: Line1332
+    100192: Line1333
+    100194: Line1334
+    100196: Line1335
+    100198: Line1336
+    100200: Line1337
+    100202: //RootNode
+    100204: Sphere006
+    100206: Sphere007
+    100208: Sphere008
+    100210: Sphere009
+    100212: Sphere010
+    100214: Tube035
+    100216: Tube_036
+    100218: Tube_037
+    100220: Tube_038
+    400000: Box754
+    400002: Box755
+    400004: Box756
+    400006: Box757
+    400008: Box758
+    400010: Box759
+    400012: Box760
+    400014: Box761
+    400016: Box762
+    400018: Box763
+    400020: Box764
+    400022: Box765
+    400024: Box766
+    400026: Box767
+    400028: Box768
+    400030: Box769
+    400032: Capsule_2_027
+    400034: Capsule_2_028
+    400036: Capsule_2_029
+    400038: ChamferBox012
+    400040: ChamferBox013
+    400042: ChamferBox014
+    400044: ChamferBox015
+    400046: ChamferBox016
+    400048: ChamferBox017
+    400050: ChamferBox018
+    400052: ChamferBox019
+    400054: ChamferBox020
+    400056: ChamferBox021
+    400058: ChamferBox022
+    400060: Cylinde590
+    400062: Cylinde591
+    400064: Cylinde592
+    400066: Cylinder319
+    400068: Cylinder320
+    400070: Cylinder321
+    400072: Cylinder322
+    400074: Cylinder323
+    400076: Cylinder324
+    400078: Cylinder325
+    400080: Cylinder326
+    400082: Cylinder327
+    400084: Cylinder328
+    400086: Cylinder329
+    400088: Cylinder330
+    400090: Cylinder331
+    400092: Cylinder332
+    400094: Cylinder333
+    400096: Cylinder334
+    400098: Cylinder335
+    400100: Cylinder336
+    400102: Cylinder337
+    400104: Cylinder338
+    400106: Cylinder339
+    400108: Cylinder340
+    400110: Cylinder341
+    400112: Cylinder342
+    400114: Cylinder343
+    400116: Cylinder344
+    400118: Cylinder345
+    400120: Cylinder346
+    400122: Cylinder347
+    400124: Cylinder348
+    400126: Cylinder349
+    400128: Cylinder350
+    400130: Cylinder351
+    400132: Cylinder352
+    400134: Cylinder353
+    400136: G charge p010
+    400138: G charge p011
+    400140: G charge p012
+    400142: G charge p013
+    400144: G charge p014
+    400146: G charge p015
+    400148: G charge p016
+    400150: G charge p017
+    400152: G washer 011
+    400154: G washer 012
+    400156: G washer 013
+    400158: G washer 014
+    400160: G washer 015
+    400162: G washer 016
+    400164: G washer 017
+    400166: G washer 018
+    400168: G washer 019
+    400170: G washer 020
+    400172: Group4494
+    400174: Line1324
+    400176: Line1325
+    400178: Line1326
+    400180: Line1327
+    400182: Line1328
+    400184: Line1329
+    400186: Line1330
+    400188: Line1331
+    400190: Line1332
+    400192: Line1333
+    400194: Line1334
+    400196: Line1335
+    400198: Line1336
+    400200: Line1337
+    400202: //RootNode
+    400204: Sphere006
+    400206: Sphere007
+    400208: Sphere008
+    400210: Sphere009
+    400212: Sphere010
+    400214: Tube035
+    400216: Tube_036
+    400218: Tube_037
+    400220: Tube_038
+    2300000: Box754
+    2300002: Box755
+    2300004: Box756
+    2300006: Box757
+    2300008: Box758
+    2300010: Box759
+    2300012: Box760
+    2300014: Box761
+    2300016: Box762
+    2300018: Box763
+    2300020: Box764
+    2300022: Box765
+    2300024: Box766
+    2300026: Box767
+    2300028: Box768
+    2300030: Box769
+    2300032: Capsule_2_027
+    2300034: Capsule_2_028
+    2300036: Capsule_2_029
+    2300038: ChamferBox012
+    2300040: ChamferBox013
+    2300042: ChamferBox014
+    2300044: ChamferBox015
+    2300046: ChamferBox016
+    2300048: ChamferBox017
+    2300050: ChamferBox018
+    2300052: ChamferBox019
+    2300054: ChamferBox020
+    2300056: ChamferBox021
+    2300058: ChamferBox022
+    2300060: Cylinde590
+    2300062: Cylinde591
+    2300064: Cylinde592
+    2300066: Cylinder319
+    2300068: Cylinder320
+    2300070: Cylinder321
+    2300072: Cylinder322
+    2300074: Cylinder323
+    2300076: Cylinder324
+    2300078: Cylinder325
+    2300080: Cylinder326
+    2300082: Cylinder327
+    2300084: Cylinder328
+    2300086: Cylinder329
+    2300088: Cylinder330
+    2300090: Cylinder331
+    2300092: Cylinder332
+    2300094: Cylinder333
+    2300096: Cylinder334
+    2300098: Cylinder335
+    2300100: Cylinder336
+    2300102: Cylinder337
+    2300104: Cylinder338
+    2300106: Cylinder339
+    2300108: Cylinder340
+    2300110: Cylinder341
+    2300112: Cylinder342
+    2300114: Cylinder343
+    2300116: Cylinder344
+    2300118: Cylinder345
+    2300120: Cylinder346
+    2300122: Cylinder347
+    2300124: Cylinder348
+    2300126: Cylinder349
+    2300128: Cylinder350
+    2300130: Cylinder351
+    2300132: Cylinder352
+    2300134: Cylinder353
+    2300136: G charge p010
+    2300138: G charge p011
+    2300140: G charge p012
+    2300142: G charge p013
+    2300144: G charge p014
+    2300146: G charge p015
+    2300148: G charge p016
+    2300150: G charge p017
+    2300152: G washer 011
+    2300154: G washer 012
+    2300156: G washer 013
+    2300158: G washer 014
+    2300160: G washer 015
+    2300162: G washer 016
+    2300164: G washer 017
+    2300166: G washer 018
+    2300168: G washer 019
+    2300170: G washer 020
+    2300172: Line1324
+    2300174: Line1325
+    2300176: Line1326
+    2300178: Line1327
+    2300180: Line1328
+    2300182: Line1329
+    2300184: Line1330
+    2300186: Line1331
+    2300188: Line1332
+    2300190: Line1333
+    2300192: Line1334
+    2300194: Line1335
+    2300196: Line1336
+    2300198: Line1337
+    2300200: Sphere006
+    2300202: Sphere007
+    2300204: Sphere008
+    2300206: Sphere009
+    2300208: Sphere010
+    2300210: Tube035
+    2300212: Tube_036
+    2300214: Tube_037
+    2300216: Tube_038
+    3300000: Box754
+    3300002: Box755
+    3300004: Box756
+    3300006: Box757
+    3300008: Box758
+    3300010: Box759
+    3300012: Box760
+    3300014: Box761
+    3300016: Box762
+    3300018: Box763
+    3300020: Box764
+    3300022: Box765
+    3300024: Box766
+    3300026: Box767
+    3300028: Box768
+    3300030: Box769
+    3300032: Capsule_2_027
+    3300034: Capsule_2_028
+    3300036: Capsule_2_029
+    3300038: ChamferBox012
+    3300040: ChamferBox013
+    3300042: ChamferBox014
+    3300044: ChamferBox015
+    3300046: ChamferBox016
+    3300048: ChamferBox017
+    3300050: ChamferBox018
+    3300052: ChamferBox019
+    3300054: ChamferBox020
+    3300056: ChamferBox021
+    3300058: ChamferBox022
+    3300060: Cylinde590
+    3300062: Cylinde591
+    3300064: Cylinde592
+    3300066: Cylinder319
+    3300068: Cylinder320
+    3300070: Cylinder321
+    3300072: Cylinder322
+    3300074: Cylinder323
+    3300076: Cylinder324
+    3300078: Cylinder325
+    3300080: Cylinder326
+    3300082: Cylinder327
+    3300084: Cylinder328
+    3300086: Cylinder329
+    3300088: Cylinder330
+    3300090: Cylinder331
+    3300092: Cylinder332
+    3300094: Cylinder333
+    3300096: Cylinder334
+    3300098: Cylinder335
+    3300100: Cylinder336
+    3300102: Cylinder337
+    3300104: Cylinder338
+    3300106: Cylinder339
+    3300108: Cylinder340
+    3300110: Cylinder341
+    3300112: Cylinder342
+    3300114: Cylinder343
+    3300116: Cylinder344
+    3300118: Cylinder345
+    3300120: Cylinder346
+    3300122: Cylinder347
+    3300124: Cylinder348
+    3300126: Cylinder349
+    3300128: Cylinder350
+    3300130: Cylinder351
+    3300132: Cylinder352
+    3300134: Cylinder353
+    3300136: G charge p010
+    3300138: G charge p011
+    3300140: G charge p012
+    3300142: G charge p013
+    3300144: G charge p014
+    3300146: G charge p015
+    3300148: G charge p016
+    3300150: G charge p017
+    3300152: G washer 011
+    3300154: G washer 012
+    3300156: G washer 013
+    3300158: G washer 014
+    3300160: G washer 015
+    3300162: G washer 016
+    3300164: G washer 017
+    3300166: G washer 018
+    3300168: G washer 019
+    3300170: G washer 020
+    3300172: Line1324
+    3300174: Line1325
+    3300176: Line1326
+    3300178: Line1327
+    3300180: Line1328
+    3300182: Line1329
+    3300184: Line1330
+    3300186: Line1331
+    3300188: Line1332
+    3300190: Line1333
+    3300192: Line1334
+    3300194: Line1335
+    3300196: Line1336
+    3300198: Line1337
+    3300200: Sphere006
+    3300202: Sphere007
+    3300204: Sphere008
+    3300206: Sphere009
+    3300208: Sphere010
+    3300210: Tube035
+    3300212: Tube_036
+    3300214: Tube_037
+    3300216: Tube_038
+    4300000: G charge p010
+    4300002: Cylinder319
+    4300004: Cylinder320
+    4300006: G charge p011
+    4300008: G charge p012
+    4300010: G charge p013
+    4300012: Cylinder321
+    4300014: Cylinder322
+    4300016: Cylinder323
+    4300018: Cylinder324
+    4300020: Line1324
+    4300022: Capsule_2_027
+    4300024: Cylinder325
+    4300026: Cylinder326
+    4300028: Cylinder327
+    4300030: Cylinder328
+    4300032: Cylinder329
+    4300034: Tube_036
+    4300036: Cylinder330
+    4300038: Cylinder331
+    4300040: Box756
+    4300042: ChamferBox012
+    4300044: Cylinder332
+    4300046: Line1325
+    4300048: Box757
+    4300050: Line1326
+    4300052: Line1327
+    4300054: Line1328
+    4300056: Cylinder333
+    4300058: Box758
+    4300060: Line1329
+    4300062: Line1330
+    4300064: Line1331
+    4300066: Box759
+    4300068: G washer 011
+    4300070: G washer 012
+    4300072: Cylinder334
+    4300074: Cylinder335
+    4300076: Cylinder336
+    4300078: Sphere006
+    4300080: Cylinder337
+    4300082: Box760
+    4300084: Cylinder338
+    4300086: G washer 013
+    4300088: Cylinder339
+    4300090: Tube_037
+    4300092: Line1332
+    4300094: Cylinder340
+    4300096: Cylinder341
+    4300098: Cylinder342
+    4300100: Line1333
+    4300102: Cylinder343
+    4300104: G washer 014
+    4300106: ChamferBox013
+    4300108: ChamferBox014
+    4300110: Cylinder344
+    4300112: G charge p014
+    4300114: ChamferBox015
+    4300116: ChamferBox016
+    4300118: Cylinder345
+    4300120: Capsule_2_028
+    4300122: G washer 015
+    4300124: Cylinder346
+    4300126: Line1334
+    4300128: Sphere007
+    4300130: G washer 016
+    4300132: G washer 017
+    4300134: Capsule_2_029
+    4300136: ChamferBox017
+    4300138: Cylinder347
+    4300140: Sphere008
+    4300142: G charge p015
+    4300144: Tube_038
+    4300146: Cylinder348
+    4300148: G charge p016
+    4300150: G charge p017
+    4300152: Cylinder349
+    4300154: Cylinder350
+    4300156: ChamferBox018
+    4300158: ChamferBox019
+    4300160: ChamferBox020
+    4300162: Line1335
+    4300164: Line1336
+    4300166: Cylinder351
+    4300168: G washer 018
+    4300170: G washer 019
+    4300172: Sphere009
+    4300174: Sphere010
+    4300176: Cylinder352
+    4300178: ChamferBox021
+    4300180: Line1337
+    4300182: G washer 020
+    4300184: ChamferBox022
+    4300186: Cylinder353
+    4300188: Box754
+    4300190: Cylinde590
+    4300192: Cylinde591
+    4300194: Box755
+    4300196: Box761
+    4300198: Box762
+    4300200: Box763
+    4300202: Cylinde592
+    4300204: Tube035
+    4300206: Box764
+    4300208: Box765
+    4300210: Box766
+    4300212: Box767
+    4300214: Box768
+    4300216: Box769
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

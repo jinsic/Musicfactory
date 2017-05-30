@@ -1,0 +1,1893 @@
+fileFormatVersion: 2
+guid: 6b52e87dc225e42999601bad7cc89f45
+timeCreated: 1495349324
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box005
+    100008: Box006
+    100010: Box007
+    100012: Box008
+    100014: Box017
+    100016: Box018
+    100018: Box019
+    100020: Box020
+    100022: Box021
+    100024: Box022
+    100026: Box023
+    100028: Box024
+    100030: Box025
+    100032: Box026
+    100034: Box027
+    100036: Box028
+    100038: Box029
+    100040: Box030
+    100042: Box031
+    100044: Box032
+    100046: Box033
+    100048: Box034
+    100050: Box035
+    100052: Box036
+    100054: Box037
+    100056: Box038
+    100058: Box039
+    100060: Box040
+    100062: Box041
+    100064: Box042
+    100066: Box06
+    100068: Box15
+    100070: Box16
+    100072: C-Ext004
+    100074: C-Ext03
+    100076: ChamferBox002
+    100078: ChamferBox003
+    100080: ChamferBox004
+    100082: ChamferBox005
+    100084: ChamferBox006
+    100086: ChamferBox007
+    100088: ChamferBox008
+    100090: ChamferBox009
+    100092: ChamferBox010
+    100094: ChamferBox011
+    100096: ChamferBox012
+    100098: ChamferBox013
+    100100: ChamferBox014
+    100102: ChamferBox015
+    100104: ChamferBox016
+    100106: ChamferBox017
+    100108: ChamferBox018
+    100110: ChamferBox019
+    100112: ChamferBox020
+    100114: ChamferBox021
+    100116: ChamferBox022
+    100118: ChamferBox023
+    100120: ChamferBox024
+    100122: ChamferBox025
+    100124: ChamferBox026
+    100126: ChamferBox027
+    100128: ChamferBox028
+    100130: ChamferBox029
+    100132: ChamferBox030
+    100134: ChamferBox031
+    100136: ChamferBox032
+    100138: ChamferBox033
+    100140: ChamferBox034
+    100142: ChamferBox035
+    100144: ChamferBox036
+    100146: ChamferBox037
+    100148: ChamferBox038
+    100150: ChamferBox039
+    100152: ChamferBox040
+    100154: ChamferBox041
+    100156: ChamferBox042
+    100158: ChamferBox043
+    100160: ChamferBox044
+    100162: ChamferBox045
+    100164: ChamferBox046
+    100166: ChamferBox047
+    100168: ChamferBox048
+    100170: ChamferBox049
+    100172: ChamferBox050
+    100174: ChamferBox051
+    100176: ChamferBox052
+    100178: ChamferBox053
+    100180: ChamferBox054
+    100182: ChamferBox055
+    100184: ChamferBox056
+    100186: ChamferBox057
+    100188: ChamferBox058
+    100190: ChamferBox059
+    100192: ChamferBox060
+    100194: ChamferBox061
+    100196: ChamferBox062
+    100198: ChamferBox063
+    100200: ChamferBox064
+    100202: ChamferBox065
+    100204: ChamferCyl014
+    100206: ChamferCyl024
+    100208: ChamferCyl025
+    100210: ChamferCyl026
+    100212: ChamferCyl027
+    100214: ChamferCyl028
+    100216: ChamferCyl029
+    100218: ChamferCyl030
+    100220: Cylinder001
+    100222: Cylinder007
+    100224: Cylinder019
+    100226: Cylinder020
+    100228: Cylinder022
+    100230: Cylinder023
+    100232: Cylinder024
+    100234: Cylinder026
+    100236: Cylinder027
+    100238: Cylinder028
+    100240: Cylinder029
+    100242: Cylinder030
+    100244: Cylinder031
+    100246: Cylinder032
+    100248: Cylinder033
+    100250: Cylinder034
+    100252: Cylinder035
+    100254: Cylinder036
+    100256: Cylinder05
+    100258: Cylinder063
+    100260: Cylinder064
+    100262: Cylinder065
+    100264: Cylinder066
+    100266: Cylinder068
+    100268: Cylinder069
+    100270: Cylinder070
+    100272: Cylinder071
+    100274: Cylinder072
+    100276: Cylinder073
+    100278: Cylinder074
+    100280: Cylinder075
+    100282: Cylinder076
+    100284: Cylinder077
+    100286: Cylinder078
+    100288: Cylinder079
+    100290: Cylinder080
+    100292: Cylinder081
+    100294: Cylinder082
+    100296: Cylinder083
+    100298: Cylinder084
+    100300: Cylinder085
+    100302: Cylinder086
+    100304: Cylinder087
+    100306: Cylinder088
+    100308: Cylinder089
+    100310: Cylinder09
+    100312: Cylinder090
+    100314: Cylinder091
+    100316: Cylinder092
+    100318: Cylinder093
+    100320: Cylinder094
+    100322: Cylinder095
+    100324: Cylinder096
+    100326: Cylinder097
+    100328: Cylinder098
+    100330: Cylinder099
+    100332: Cylinder10
+    100334: Cylinder100
+    100336: Cylinder101
+    100338: Cylinder102
+    100340: Cylinder103
+    100342: Cylinder104
+    100344: Cylinder105
+    100346: Cylinder106
+    100348: Cylinder107
+    100350: Cylinder108
+    100352: Cylinder109
+    100354: Cylinder110
+    100356: Cylinder111
+    100358: Cylinder112
+    100360: Cylinder113
+    100362: Cylinder114
+    100364: Cylinder115
+    100366: Cylinder116
+    100368: Cylinder117
+    100370: Cylinder118
+    100372: Cylinder22
+    100374: Cylinder29
+    100376: Cylinder30
+    100378: Cylinder31
+    100380: Cylinder32
+    100382: Cylinder33
+    100384: Cylinder34
+    100386: Cylinder56
+    100388: Cylinder57
+    100390: Cylinder58
+    100392: Cylinder59
+    100394: Cylinder60
+    100396: Cylinder61
+    100398: Cylinder62
+    100400: Ellipse004
+    100402: Ellipse03
+    100404: G charge p
+    100406: G charge p001
+    100408: G charge p006
+    100410: G charge p007
+    100412: G charge p008
+    100414: G charge p009
+    100416: G charge p010
+    100418: G charge p012
+    100420: G charge p013
+    100422: G charge p015
+    100424: G charge p016
+    100426: G charge p018
+    100428: G charge p019
+    100430: G charge p020
+    100432: G charge p021
+    100434: G charge p022
+    100436: G charge p023
+    100438: G charge p024
+    100440: G charge p025
+    100442: G charge p026
+    100444: G charge p027
+    100446: G charge p028
+    100448: G charge p029
+    100450: G charge p030
+    100452: G charge p031
+    100454: G charge p032
+    100456: G charge p033
+    100458: G charge p034
+    100460: G charge p035
+    100462: G charge p036
+    100464: G charge p037
+    100466: G charge p038
+    100468: G charge p039
+    100470: G charge p040
+    100472: G charge p041
+    100474: G charge p042
+    100476: G charge p043
+    100478: G charge p044
+    100480: G charge p045
+    100482: G charge p046
+    100484: G charge p047
+    100486: G charge p048
+    100488: G charge p049
+    100490: G charge p050
+    100492: G charge p051
+    100494: G charge p052
+    100496: G eye base
+    100498: G eye base001
+    100500: G eye base002
+    100502: G eye base003
+    100504: G eye base004
+    100506: G eye base005
+    100508: G eye base006
+    100510: G eye base007
+    100512: G eye base008
+    100514: G eye base009
+    100516: G eye blac
+    100518: G eye blac001
+    100520: G eye main
+    100522: G eye main001
+    100524: G eye main002
+    100526: G eye main003
+    100528: G eye main004
+    100530: G eye main005
+    100532: G eye main006
+    100534: G eye main007
+    100536: G eye main008
+    100538: G eye main009
+    100540: G eye nut0
+    100542: G eye nut003
+    100544: G eye nut004
+    100546: G eye nut005
+    100548: G eye nut006
+    100550: G eye nut007
+    100552: G eye nut008
+    100554: G eye nut009
+    100556: G eye nut010
+    100558: G eye nut011
+    100560: G eye nut012
+    100562: G eye nut013
+    100564: G eye nut014
+    100566: G eye nut015
+    100568: G eye nut1
+    100570: G eye nut2
+    100572: gonk eye g
+    100574: gonk eye g001
+    100576: Gonk top b001
+    100578: Gonk top b002
+    100580: L-Ext006
+    100582: L-Ext05
+    100584: Line001
+    100586: Line002
+    100588: Line004
+    100590: Line008
+    100592: Line009
+    100594: Line010
+    100596: Line011
+    100598: Line012
+    100600: Line013
+    100602: Line014
+    100604: Line015
+    100606: Line016
+    100608: Line017
+    100610: Line018
+    100612: Line019
+    100614: Line020
+    100616: Line021
+    100618: Line022
+    100620: Line023
+    100622: Line024
+    100624: Line025
+    100626: Line026
+    100628: Line027
+    100630: Line028
+    100632: Line029
+    100634: Line030
+    100636: Line031
+    100638: Line032
+    100640: Line033
+    100642: Line034
+    100644: Line035
+    100646: Line036
+    100648: Line037
+    100650: Line038
+    100652: Line039
+    100654: Line040
+    100656: Line06
+    100658: Line07
+    100660: //RootNode
+    100662: Object142
+    100664: Object152
+    100666: Object154
+    100668: Object234
+    100670: Object235
+    100672: Object236
+    100674: Object237
+    100676: Object238
+    100678: Object239
+    100680: Object240
+    100682: Sphere002
+    100684: Sphere003
+    100686: Sphere009
+    100688: Sphere010
+    100690: Sphere011
+    100692: Sphere012
+    100694: Sphere013
+    100696: Sphere014
+    100698: Sphere015
+    100700: Sphere016
+    100702: Sphere017
+    100704: Sphere018
+    100706: Sphere019
+    100708: Sphere020
+    100710: Sphere021
+    100712: Sphere022
+    100714: Sphere023
+    100716: Sphere024
+    100718: Sphere025
+    100720: Sphere026
+    100722: Sphere027
+    100724: Sphere028
+    100726: Sphere029
+    100728: Sphere030
+    100730: Sphere031
+    100732: Sphere032
+    100734: Sphere033
+    100736: Sphere034
+    100738: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-013
+    100740: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-014
+    100742: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-015
+    100744: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-016
+    100746: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-017
+    100748: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-018
+    100750: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-019
+    100752: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-12
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box005
+    400008: Box006
+    400010: Box007
+    400012: Box008
+    400014: Box017
+    400016: Box018
+    400018: Box019
+    400020: Box020
+    400022: Box021
+    400024: Box022
+    400026: Box023
+    400028: Box024
+    400030: Box025
+    400032: Box026
+    400034: Box027
+    400036: Box028
+    400038: Box029
+    400040: Box030
+    400042: Box031
+    400044: Box032
+    400046: Box033
+    400048: Box034
+    400050: Box035
+    400052: Box036
+    400054: Box037
+    400056: Box038
+    400058: Box039
+    400060: Box040
+    400062: Box041
+    400064: Box042
+    400066: Box06
+    400068: Box15
+    400070: Box16
+    400072: C-Ext004
+    400074: C-Ext03
+    400076: ChamferBox002
+    400078: ChamferBox003
+    400080: ChamferBox004
+    400082: ChamferBox005
+    400084: ChamferBox006
+    400086: ChamferBox007
+    400088: ChamferBox008
+    400090: ChamferBox009
+    400092: ChamferBox010
+    400094: ChamferBox011
+    400096: ChamferBox012
+    400098: ChamferBox013
+    400100: ChamferBox014
+    400102: ChamferBox015
+    400104: ChamferBox016
+    400106: ChamferBox017
+    400108: ChamferBox018
+    400110: ChamferBox019
+    400112: ChamferBox020
+    400114: ChamferBox021
+    400116: ChamferBox022
+    400118: ChamferBox023
+    400120: ChamferBox024
+    400122: ChamferBox025
+    400124: ChamferBox026
+    400126: ChamferBox027
+    400128: ChamferBox028
+    400130: ChamferBox029
+    400132: ChamferBox030
+    400134: ChamferBox031
+    400136: ChamferBox032
+    400138: ChamferBox033
+    400140: ChamferBox034
+    400142: ChamferBox035
+    400144: ChamferBox036
+    400146: ChamferBox037
+    400148: ChamferBox038
+    400150: ChamferBox039
+    400152: ChamferBox040
+    400154: ChamferBox041
+    400156: ChamferBox042
+    400158: ChamferBox043
+    400160: ChamferBox044
+    400162: ChamferBox045
+    400164: ChamferBox046
+    400166: ChamferBox047
+    400168: ChamferBox048
+    400170: ChamferBox049
+    400172: ChamferBox050
+    400174: ChamferBox051
+    400176: ChamferBox052
+    400178: ChamferBox053
+    400180: ChamferBox054
+    400182: ChamferBox055
+    400184: ChamferBox056
+    400186: ChamferBox057
+    400188: ChamferBox058
+    400190: ChamferBox059
+    400192: ChamferBox060
+    400194: ChamferBox061
+    400196: ChamferBox062
+    400198: ChamferBox063
+    400200: ChamferBox064
+    400202: ChamferBox065
+    400204: ChamferCyl014
+    400206: ChamferCyl024
+    400208: ChamferCyl025
+    400210: ChamferCyl026
+    400212: ChamferCyl027
+    400214: ChamferCyl028
+    400216: ChamferCyl029
+    400218: ChamferCyl030
+    400220: Cylinder001
+    400222: Cylinder007
+    400224: Cylinder019
+    400226: Cylinder020
+    400228: Cylinder022
+    400230: Cylinder023
+    400232: Cylinder024
+    400234: Cylinder026
+    400236: Cylinder027
+    400238: Cylinder028
+    400240: Cylinder029
+    400242: Cylinder030
+    400244: Cylinder031
+    400246: Cylinder032
+    400248: Cylinder033
+    400250: Cylinder034
+    400252: Cylinder035
+    400254: Cylinder036
+    400256: Cylinder05
+    400258: Cylinder063
+    400260: Cylinder064
+    400262: Cylinder065
+    400264: Cylinder066
+    400266: Cylinder068
+    400268: Cylinder069
+    400270: Cylinder070
+    400272: Cylinder071
+    400274: Cylinder072
+    400276: Cylinder073
+    400278: Cylinder074
+    400280: Cylinder075
+    400282: Cylinder076
+    400284: Cylinder077
+    400286: Cylinder078
+    400288: Cylinder079
+    400290: Cylinder080
+    400292: Cylinder081
+    400294: Cylinder082
+    400296: Cylinder083
+    400298: Cylinder084
+    400300: Cylinder085
+    400302: Cylinder086
+    400304: Cylinder087
+    400306: Cylinder088
+    400308: Cylinder089
+    400310: Cylinder09
+    400312: Cylinder090
+    400314: Cylinder091
+    400316: Cylinder092
+    400318: Cylinder093
+    400320: Cylinder094
+    400322: Cylinder095
+    400324: Cylinder096
+    400326: Cylinder097
+    400328: Cylinder098
+    400330: Cylinder099
+    400332: Cylinder10
+    400334: Cylinder100
+    400336: Cylinder101
+    400338: Cylinder102
+    400340: Cylinder103
+    400342: Cylinder104
+    400344: Cylinder105
+    400346: Cylinder106
+    400348: Cylinder107
+    400350: Cylinder108
+    400352: Cylinder109
+    400354: Cylinder110
+    400356: Cylinder111
+    400358: Cylinder112
+    400360: Cylinder113
+    400362: Cylinder114
+    400364: Cylinder115
+    400366: Cylinder116
+    400368: Cylinder117
+    400370: Cylinder118
+    400372: Cylinder22
+    400374: Cylinder29
+    400376: Cylinder30
+    400378: Cylinder31
+    400380: Cylinder32
+    400382: Cylinder33
+    400384: Cylinder34
+    400386: Cylinder56
+    400388: Cylinder57
+    400390: Cylinder58
+    400392: Cylinder59
+    400394: Cylinder60
+    400396: Cylinder61
+    400398: Cylinder62
+    400400: Ellipse004
+    400402: Ellipse03
+    400404: G charge p
+    400406: G charge p001
+    400408: G charge p006
+    400410: G charge p007
+    400412: G charge p008
+    400414: G charge p009
+    400416: G charge p010
+    400418: G charge p012
+    400420: G charge p013
+    400422: G charge p015
+    400424: G charge p016
+    400426: G charge p018
+    400428: G charge p019
+    400430: G charge p020
+    400432: G charge p021
+    400434: G charge p022
+    400436: G charge p023
+    400438: G charge p024
+    400440: G charge p025
+    400442: G charge p026
+    400444: G charge p027
+    400446: G charge p028
+    400448: G charge p029
+    400450: G charge p030
+    400452: G charge p031
+    400454: G charge p032
+    400456: G charge p033
+    400458: G charge p034
+    400460: G charge p035
+    400462: G charge p036
+    400464: G charge p037
+    400466: G charge p038
+    400468: G charge p039
+    400470: G charge p040
+    400472: G charge p041
+    400474: G charge p042
+    400476: G charge p043
+    400478: G charge p044
+    400480: G charge p045
+    400482: G charge p046
+    400484: G charge p047
+    400486: G charge p048
+    400488: G charge p049
+    400490: G charge p050
+    400492: G charge p051
+    400494: G charge p052
+    400496: G eye base
+    400498: G eye base001
+    400500: G eye base002
+    400502: G eye base003
+    400504: G eye base004
+    400506: G eye base005
+    400508: G eye base006
+    400510: G eye base007
+    400512: G eye base008
+    400514: G eye base009
+    400516: G eye blac
+    400518: G eye blac001
+    400520: G eye main
+    400522: G eye main001
+    400524: G eye main002
+    400526: G eye main003
+    400528: G eye main004
+    400530: G eye main005
+    400532: G eye main006
+    400534: G eye main007
+    400536: G eye main008
+    400538: G eye main009
+    400540: G eye nut0
+    400542: G eye nut003
+    400544: G eye nut004
+    400546: G eye nut005
+    400548: G eye nut006
+    400550: G eye nut007
+    400552: G eye nut008
+    400554: G eye nut009
+    400556: G eye nut010
+    400558: G eye nut011
+    400560: G eye nut012
+    400562: G eye nut013
+    400564: G eye nut014
+    400566: G eye nut015
+    400568: G eye nut1
+    400570: G eye nut2
+    400572: gonk eye g
+    400574: gonk eye g001
+    400576: Gonk top b001
+    400578: Gonk top b002
+    400580: L-Ext006
+    400582: L-Ext05
+    400584: Line001
+    400586: Line002
+    400588: Line004
+    400590: Line008
+    400592: Line009
+    400594: Line010
+    400596: Line011
+    400598: Line012
+    400600: Line013
+    400602: Line014
+    400604: Line015
+    400606: Line016
+    400608: Line017
+    400610: Line018
+    400612: Line019
+    400614: Line020
+    400616: Line021
+    400618: Line022
+    400620: Line023
+    400622: Line024
+    400624: Line025
+    400626: Line026
+    400628: Line027
+    400630: Line028
+    400632: Line029
+    400634: Line030
+    400636: Line031
+    400638: Line032
+    400640: Line033
+    400642: Line034
+    400644: Line035
+    400646: Line036
+    400648: Line037
+    400650: Line038
+    400652: Line039
+    400654: Line040
+    400656: Line06
+    400658: Line07
+    400660: //RootNode
+    400662: Object142
+    400664: Object152
+    400666: Object154
+    400668: Object234
+    400670: Object235
+    400672: Object236
+    400674: Object237
+    400676: Object238
+    400678: Object239
+    400680: Object240
+    400682: Sphere002
+    400684: Sphere003
+    400686: Sphere009
+    400688: Sphere010
+    400690: Sphere011
+    400692: Sphere012
+    400694: Sphere013
+    400696: Sphere014
+    400698: Sphere015
+    400700: Sphere016
+    400702: Sphere017
+    400704: Sphere018
+    400706: Sphere019
+    400708: Sphere020
+    400710: Sphere021
+    400712: Sphere022
+    400714: Sphere023
+    400716: Sphere024
+    400718: Sphere025
+    400720: Sphere026
+    400722: Sphere027
+    400724: Sphere028
+    400726: Sphere029
+    400728: Sphere030
+    400730: Sphere031
+    400732: Sphere032
+    400734: Sphere033
+    400736: Sphere034
+    400738: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-013
+    400740: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-014
+    400742: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-015
+    400744: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-016
+    400746: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-017
+    400748: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-018
+    400750: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-019
+    400752: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-12
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box017
+    2300016: Box018
+    2300018: Box019
+    2300020: Box020
+    2300022: Box021
+    2300024: Box022
+    2300026: Box023
+    2300028: Box024
+    2300030: Box025
+    2300032: Box026
+    2300034: Box027
+    2300036: Box028
+    2300038: Box029
+    2300040: Box030
+    2300042: Box031
+    2300044: Box032
+    2300046: Box033
+    2300048: Box034
+    2300050: Box035
+    2300052: Box036
+    2300054: Box037
+    2300056: Box038
+    2300058: Box039
+    2300060: Box040
+    2300062: Box041
+    2300064: Box042
+    2300066: Box06
+    2300068: Box15
+    2300070: Box16
+    2300072: ChamferBox002
+    2300074: ChamferBox003
+    2300076: ChamferBox004
+    2300078: ChamferBox005
+    2300080: ChamferBox006
+    2300082: ChamferBox007
+    2300084: ChamferBox008
+    2300086: ChamferBox009
+    2300088: ChamferBox010
+    2300090: ChamferBox011
+    2300092: ChamferBox012
+    2300094: ChamferBox013
+    2300096: ChamferBox014
+    2300098: ChamferBox015
+    2300100: ChamferBox016
+    2300102: ChamferBox017
+    2300104: ChamferBox018
+    2300106: ChamferBox019
+    2300108: ChamferBox020
+    2300110: ChamferBox021
+    2300112: ChamferBox022
+    2300114: ChamferBox023
+    2300116: ChamferBox024
+    2300118: ChamferBox025
+    2300120: ChamferBox026
+    2300122: ChamferBox027
+    2300124: ChamferBox028
+    2300126: ChamferBox029
+    2300128: ChamferBox030
+    2300130: ChamferBox031
+    2300132: ChamferBox032
+    2300134: ChamferBox033
+    2300136: ChamferBox034
+    2300138: ChamferBox035
+    2300140: ChamferBox036
+    2300142: ChamferBox037
+    2300144: ChamferBox038
+    2300146: ChamferBox039
+    2300148: ChamferBox040
+    2300150: ChamferBox041
+    2300152: ChamferBox042
+    2300154: ChamferBox043
+    2300156: ChamferBox044
+    2300158: ChamferBox045
+    2300160: ChamferBox046
+    2300162: ChamferBox047
+    2300164: ChamferBox048
+    2300166: ChamferBox049
+    2300168: ChamferBox050
+    2300170: ChamferBox051
+    2300172: ChamferBox052
+    2300174: ChamferBox053
+    2300176: ChamferBox054
+    2300178: ChamferBox055
+    2300180: ChamferBox056
+    2300182: ChamferBox057
+    2300184: ChamferBox058
+    2300186: ChamferBox059
+    2300188: ChamferBox060
+    2300190: ChamferBox061
+    2300192: ChamferBox062
+    2300194: ChamferBox063
+    2300196: ChamferBox064
+    2300198: ChamferBox065
+    2300200: ChamferCyl014
+    2300202: ChamferCyl024
+    2300204: ChamferCyl025
+    2300206: ChamferCyl026
+    2300208: ChamferCyl027
+    2300210: ChamferCyl028
+    2300212: ChamferCyl029
+    2300214: ChamferCyl030
+    2300216: Cylinder001
+    2300218: Cylinder007
+    2300220: Cylinder019
+    2300222: Cylinder020
+    2300224: Cylinder022
+    2300226: Cylinder023
+    2300228: Cylinder024
+    2300230: Cylinder026
+    2300232: Cylinder027
+    2300234: Cylinder028
+    2300236: Cylinder029
+    2300238: Cylinder030
+    2300240: Cylinder031
+    2300242: Cylinder032
+    2300244: Cylinder033
+    2300246: Cylinder034
+    2300248: Cylinder035
+    2300250: Cylinder036
+    2300252: Cylinder05
+    2300254: Cylinder063
+    2300256: Cylinder064
+    2300258: Cylinder065
+    2300260: Cylinder066
+    2300262: Cylinder068
+    2300264: Cylinder069
+    2300266: Cylinder070
+    2300268: Cylinder071
+    2300270: Cylinder072
+    2300272: Cylinder073
+    2300274: Cylinder074
+    2300276: Cylinder075
+    2300278: Cylinder076
+    2300280: Cylinder077
+    2300282: Cylinder078
+    2300284: Cylinder079
+    2300286: Cylinder080
+    2300288: Cylinder081
+    2300290: Cylinder082
+    2300292: Cylinder083
+    2300294: Cylinder084
+    2300296: Cylinder085
+    2300298: Cylinder086
+    2300300: Cylinder087
+    2300302: Cylinder088
+    2300304: Cylinder089
+    2300306: Cylinder09
+    2300308: Cylinder090
+    2300310: Cylinder091
+    2300312: Cylinder092
+    2300314: Cylinder093
+    2300316: Cylinder094
+    2300318: Cylinder095
+    2300320: Cylinder096
+    2300322: Cylinder097
+    2300324: Cylinder098
+    2300326: Cylinder099
+    2300328: Cylinder10
+    2300330: Cylinder100
+    2300332: Cylinder101
+    2300334: Cylinder102
+    2300336: Cylinder103
+    2300338: Cylinder104
+    2300340: Cylinder105
+    2300342: Cylinder106
+    2300344: Cylinder107
+    2300346: Cylinder108
+    2300348: Cylinder109
+    2300350: Cylinder110
+    2300352: Cylinder111
+    2300354: Cylinder112
+    2300356: Cylinder113
+    2300358: Cylinder114
+    2300360: Cylinder115
+    2300362: Cylinder116
+    2300364: Cylinder117
+    2300366: Cylinder118
+    2300368: Cylinder22
+    2300370: Cylinder29
+    2300372: Cylinder30
+    2300374: Cylinder31
+    2300376: Cylinder32
+    2300378: Cylinder33
+    2300380: Cylinder34
+    2300382: Cylinder56
+    2300384: Cylinder57
+    2300386: Cylinder58
+    2300388: Cylinder59
+    2300390: Cylinder60
+    2300392: Cylinder61
+    2300394: Cylinder62
+    2300396: Ellipse004
+    2300398: Ellipse03
+    2300400: G charge p
+    2300402: G charge p001
+    2300404: G charge p006
+    2300406: G charge p007
+    2300408: G charge p008
+    2300410: G charge p009
+    2300412: G charge p010
+    2300414: G charge p012
+    2300416: G charge p013
+    2300418: G charge p015
+    2300420: G charge p016
+    2300422: G charge p018
+    2300424: G charge p019
+    2300426: G charge p020
+    2300428: G charge p021
+    2300430: G charge p022
+    2300432: G charge p023
+    2300434: G charge p024
+    2300436: G charge p025
+    2300438: G charge p026
+    2300440: G charge p027
+    2300442: G charge p028
+    2300444: G charge p029
+    2300446: G charge p030
+    2300448: G charge p031
+    2300450: G charge p032
+    2300452: G charge p033
+    2300454: G charge p034
+    2300456: G charge p035
+    2300458: G charge p036
+    2300460: G charge p037
+    2300462: G charge p038
+    2300464: G charge p039
+    2300466: G charge p040
+    2300468: G charge p041
+    2300470: G charge p042
+    2300472: G charge p043
+    2300474: G charge p044
+    2300476: G charge p045
+    2300478: G charge p046
+    2300480: G charge p047
+    2300482: G charge p048
+    2300484: G charge p049
+    2300486: G charge p050
+    2300488: G charge p051
+    2300490: G charge p052
+    2300492: G eye base
+    2300494: G eye base001
+    2300496: G eye base002
+    2300498: G eye base003
+    2300500: G eye base004
+    2300502: G eye base005
+    2300504: G eye base006
+    2300506: G eye base007
+    2300508: G eye base008
+    2300510: G eye base009
+    2300512: G eye blac
+    2300514: G eye blac001
+    2300516: G eye main
+    2300518: G eye main001
+    2300520: G eye main002
+    2300522: G eye main003
+    2300524: G eye main004
+    2300526: G eye main005
+    2300528: G eye main006
+    2300530: G eye main007
+    2300532: G eye main008
+    2300534: G eye main009
+    2300536: G eye nut0
+    2300538: G eye nut003
+    2300540: G eye nut004
+    2300542: G eye nut005
+    2300544: G eye nut006
+    2300546: G eye nut007
+    2300548: G eye nut008
+    2300550: G eye nut009
+    2300552: G eye nut010
+    2300554: G eye nut011
+    2300556: G eye nut012
+    2300558: G eye nut013
+    2300560: G eye nut014
+    2300562: G eye nut015
+    2300564: G eye nut1
+    2300566: G eye nut2
+    2300568: Gonk top b001
+    2300570: Gonk top b002
+    2300572: L-Ext006
+    2300574: L-Ext05
+    2300576: Line001
+    2300578: Line002
+    2300580: Line004
+    2300582: Line008
+    2300584: Line014
+    2300586: Line015
+    2300588: Line016
+    2300590: Line020
+    2300592: Line021
+    2300594: Line022
+    2300596: Line023
+    2300598: Line024
+    2300600: Line025
+    2300602: Line027
+    2300604: Line028
+    2300606: Line034
+    2300608: Line037
+    2300610: Line038
+    2300612: Line039
+    2300614: Line07
+    2300616: Object142
+    2300618: Object152
+    2300620: Object154
+    2300622: Object234
+    2300624: Object235
+    2300626: Object236
+    2300628: Object237
+    2300630: Object238
+    2300632: Object239
+    2300634: Object240
+    2300636: Sphere002
+    2300638: Sphere003
+    2300640: Sphere009
+    2300642: Sphere010
+    2300644: Sphere011
+    2300646: Sphere012
+    2300648: Sphere013
+    2300650: Sphere014
+    2300652: Sphere015
+    2300654: Sphere016
+    2300656: Sphere017
+    2300658: Sphere018
+    2300660: Sphere019
+    2300662: Sphere020
+    2300664: Sphere021
+    2300666: Sphere022
+    2300668: Sphere023
+    2300670: Sphere024
+    2300672: Sphere025
+    2300674: Sphere026
+    2300676: Sphere027
+    2300678: Sphere028
+    2300680: Sphere029
+    2300682: Sphere030
+    2300684: Sphere031
+    2300686: Sphere032
+    2300688: Sphere033
+    2300690: Sphere034
+    2300692: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-013
+    2300694: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-014
+    2300696: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-015
+    2300698: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-016
+    2300700: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-017
+    2300702: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-018
+    2300704: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-019
+    2300706: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-12
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box017
+    3300016: Box018
+    3300018: Box019
+    3300020: Box020
+    3300022: Box021
+    3300024: Box022
+    3300026: Box023
+    3300028: Box024
+    3300030: Box025
+    3300032: Box026
+    3300034: Box027
+    3300036: Box028
+    3300038: Box029
+    3300040: Box030
+    3300042: Box031
+    3300044: Box032
+    3300046: Box033
+    3300048: Box034
+    3300050: Box035
+    3300052: Box036
+    3300054: Box037
+    3300056: Box038
+    3300058: Box039
+    3300060: Box040
+    3300062: Box041
+    3300064: Box042
+    3300066: Box06
+    3300068: Box15
+    3300070: Box16
+    3300072: ChamferBox002
+    3300074: ChamferBox003
+    3300076: ChamferBox004
+    3300078: ChamferBox005
+    3300080: ChamferBox006
+    3300082: ChamferBox007
+    3300084: ChamferBox008
+    3300086: ChamferBox009
+    3300088: ChamferBox010
+    3300090: ChamferBox011
+    3300092: ChamferBox012
+    3300094: ChamferBox013
+    3300096: ChamferBox014
+    3300098: ChamferBox015
+    3300100: ChamferBox016
+    3300102: ChamferBox017
+    3300104: ChamferBox018
+    3300106: ChamferBox019
+    3300108: ChamferBox020
+    3300110: ChamferBox021
+    3300112: ChamferBox022
+    3300114: ChamferBox023
+    3300116: ChamferBox024
+    3300118: ChamferBox025
+    3300120: ChamferBox026
+    3300122: ChamferBox027
+    3300124: ChamferBox028
+    3300126: ChamferBox029
+    3300128: ChamferBox030
+    3300130: ChamferBox031
+    3300132: ChamferBox032
+    3300134: ChamferBox033
+    3300136: ChamferBox034
+    3300138: ChamferBox035
+    3300140: ChamferBox036
+    3300142: ChamferBox037
+    3300144: ChamferBox038
+    3300146: ChamferBox039
+    3300148: ChamferBox040
+    3300150: ChamferBox041
+    3300152: ChamferBox042
+    3300154: ChamferBox043
+    3300156: ChamferBox044
+    3300158: ChamferBox045
+    3300160: ChamferBox046
+    3300162: ChamferBox047
+    3300164: ChamferBox048
+    3300166: ChamferBox049
+    3300168: ChamferBox050
+    3300170: ChamferBox051
+    3300172: ChamferBox052
+    3300174: ChamferBox053
+    3300176: ChamferBox054
+    3300178: ChamferBox055
+    3300180: ChamferBox056
+    3300182: ChamferBox057
+    3300184: ChamferBox058
+    3300186: ChamferBox059
+    3300188: ChamferBox060
+    3300190: ChamferBox061
+    3300192: ChamferBox062
+    3300194: ChamferBox063
+    3300196: ChamferBox064
+    3300198: ChamferBox065
+    3300200: ChamferCyl014
+    3300202: ChamferCyl024
+    3300204: ChamferCyl025
+    3300206: ChamferCyl026
+    3300208: ChamferCyl027
+    3300210: ChamferCyl028
+    3300212: ChamferCyl029
+    3300214: ChamferCyl030
+    3300216: Cylinder001
+    3300218: Cylinder007
+    3300220: Cylinder019
+    3300222: Cylinder020
+    3300224: Cylinder022
+    3300226: Cylinder023
+    3300228: Cylinder024
+    3300230: Cylinder026
+    3300232: Cylinder027
+    3300234: Cylinder028
+    3300236: Cylinder029
+    3300238: Cylinder030
+    3300240: Cylinder031
+    3300242: Cylinder032
+    3300244: Cylinder033
+    3300246: Cylinder034
+    3300248: Cylinder035
+    3300250: Cylinder036
+    3300252: Cylinder05
+    3300254: Cylinder063
+    3300256: Cylinder064
+    3300258: Cylinder065
+    3300260: Cylinder066
+    3300262: Cylinder068
+    3300264: Cylinder069
+    3300266: Cylinder070
+    3300268: Cylinder071
+    3300270: Cylinder072
+    3300272: Cylinder073
+    3300274: Cylinder074
+    3300276: Cylinder075
+    3300278: Cylinder076
+    3300280: Cylinder077
+    3300282: Cylinder078
+    3300284: Cylinder079
+    3300286: Cylinder080
+    3300288: Cylinder081
+    3300290: Cylinder082
+    3300292: Cylinder083
+    3300294: Cylinder084
+    3300296: Cylinder085
+    3300298: Cylinder086
+    3300300: Cylinder087
+    3300302: Cylinder088
+    3300304: Cylinder089
+    3300306: Cylinder09
+    3300308: Cylinder090
+    3300310: Cylinder091
+    3300312: Cylinder092
+    3300314: Cylinder093
+    3300316: Cylinder094
+    3300318: Cylinder095
+    3300320: Cylinder096
+    3300322: Cylinder097
+    3300324: Cylinder098
+    3300326: Cylinder099
+    3300328: Cylinder10
+    3300330: Cylinder100
+    3300332: Cylinder101
+    3300334: Cylinder102
+    3300336: Cylinder103
+    3300338: Cylinder104
+    3300340: Cylinder105
+    3300342: Cylinder106
+    3300344: Cylinder107
+    3300346: Cylinder108
+    3300348: Cylinder109
+    3300350: Cylinder110
+    3300352: Cylinder111
+    3300354: Cylinder112
+    3300356: Cylinder113
+    3300358: Cylinder114
+    3300360: Cylinder115
+    3300362: Cylinder116
+    3300364: Cylinder117
+    3300366: Cylinder118
+    3300368: Cylinder22
+    3300370: Cylinder29
+    3300372: Cylinder30
+    3300374: Cylinder31
+    3300376: Cylinder32
+    3300378: Cylinder33
+    3300380: Cylinder34
+    3300382: Cylinder56
+    3300384: Cylinder57
+    3300386: Cylinder58
+    3300388: Cylinder59
+    3300390: Cylinder60
+    3300392: Cylinder61
+    3300394: Cylinder62
+    3300396: Ellipse004
+    3300398: Ellipse03
+    3300400: G charge p
+    3300402: G charge p001
+    3300404: G charge p006
+    3300406: G charge p007
+    3300408: G charge p008
+    3300410: G charge p009
+    3300412: G charge p010
+    3300414: G charge p012
+    3300416: G charge p013
+    3300418: G charge p015
+    3300420: G charge p016
+    3300422: G charge p018
+    3300424: G charge p019
+    3300426: G charge p020
+    3300428: G charge p021
+    3300430: G charge p022
+    3300432: G charge p023
+    3300434: G charge p024
+    3300436: G charge p025
+    3300438: G charge p026
+    3300440: G charge p027
+    3300442: G charge p028
+    3300444: G charge p029
+    3300446: G charge p030
+    3300448: G charge p031
+    3300450: G charge p032
+    3300452: G charge p033
+    3300454: G charge p034
+    3300456: G charge p035
+    3300458: G charge p036
+    3300460: G charge p037
+    3300462: G charge p038
+    3300464: G charge p039
+    3300466: G charge p040
+    3300468: G charge p041
+    3300470: G charge p042
+    3300472: G charge p043
+    3300474: G charge p044
+    3300476: G charge p045
+    3300478: G charge p046
+    3300480: G charge p047
+    3300482: G charge p048
+    3300484: G charge p049
+    3300486: G charge p050
+    3300488: G charge p051
+    3300490: G charge p052
+    3300492: G eye base
+    3300494: G eye base001
+    3300496: G eye base002
+    3300498: G eye base003
+    3300500: G eye base004
+    3300502: G eye base005
+    3300504: G eye base006
+    3300506: G eye base007
+    3300508: G eye base008
+    3300510: G eye base009
+    3300512: G eye blac
+    3300514: G eye blac001
+    3300516: G eye main
+    3300518: G eye main001
+    3300520: G eye main002
+    3300522: G eye main003
+    3300524: G eye main004
+    3300526: G eye main005
+    3300528: G eye main006
+    3300530: G eye main007
+    3300532: G eye main008
+    3300534: G eye main009
+    3300536: G eye nut0
+    3300538: G eye nut003
+    3300540: G eye nut004
+    3300542: G eye nut005
+    3300544: G eye nut006
+    3300546: G eye nut007
+    3300548: G eye nut008
+    3300550: G eye nut009
+    3300552: G eye nut010
+    3300554: G eye nut011
+    3300556: G eye nut012
+    3300558: G eye nut013
+    3300560: G eye nut014
+    3300562: G eye nut015
+    3300564: G eye nut1
+    3300566: G eye nut2
+    3300568: Gonk top b001
+    3300570: Gonk top b002
+    3300572: L-Ext006
+    3300574: L-Ext05
+    3300576: Line001
+    3300578: Line002
+    3300580: Line004
+    3300582: Line008
+    3300584: Line014
+    3300586: Line015
+    3300588: Line016
+    3300590: Line020
+    3300592: Line021
+    3300594: Line022
+    3300596: Line023
+    3300598: Line024
+    3300600: Line025
+    3300602: Line027
+    3300604: Line028
+    3300606: Line034
+    3300608: Line037
+    3300610: Line038
+    3300612: Line039
+    3300614: Line07
+    3300616: Object142
+    3300618: Object152
+    3300620: Object154
+    3300622: Object234
+    3300624: Object235
+    3300626: Object236
+    3300628: Object237
+    3300630: Object238
+    3300632: Object239
+    3300634: Object240
+    3300636: Sphere002
+    3300638: Sphere003
+    3300640: Sphere009
+    3300642: Sphere010
+    3300644: Sphere011
+    3300646: Sphere012
+    3300648: Sphere013
+    3300650: Sphere014
+    3300652: Sphere015
+    3300654: Sphere016
+    3300656: Sphere017
+    3300658: Sphere018
+    3300660: Sphere019
+    3300662: Sphere020
+    3300664: Sphere021
+    3300666: Sphere022
+    3300668: Sphere023
+    3300670: Sphere024
+    3300672: Sphere025
+    3300674: Sphere026
+    3300676: Sphere027
+    3300678: Sphere028
+    3300680: Sphere029
+    3300682: Sphere030
+    3300684: Sphere031
+    3300686: Sphere032
+    3300688: Sphere033
+    3300690: Sphere034
+    3300692: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-013
+    3300694: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-014
+    3300696: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-015
+    3300698: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-016
+    3300700: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-017
+    3300702: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-018
+    3300704: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-019
+    3300706: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-12
+    4300000: Sphere009
+    4300002: Box005
+    4300004: Line004
+    4300006: Box003
+    4300008: Box002
+    4300010: Sphere003
+    4300012: Sphere002
+    4300014: Line002
+    4300016: Line001
+    4300018: Box001
+    4300020: Box006
+    4300022: Sphere010
+    4300024: Object142
+    4300026: Object152
+    4300028: Object154
+    4300030: Object234
+    4300032: Cylinder001
+    4300034: Cylinder007
+    4300036: ChamferBox002
+    4300038: G eye nut0
+    4300040: G eye nut1
+    4300042: G eye nut2
+    4300044: G eye blac
+    4300046: G eye main
+    4300048: G eye base
+    4300050: G eye nut003
+    4300052: G eye main001
+    4300054: G eye nut004
+    4300056: G eye base001
+    4300058: G eye main002
+    4300060: G eye nut005
+    4300062: G eye base002
+    4300064: G eye main003
+    4300066: G eye nut006
+    4300068: G eye base003
+    4300070: G eye main004
+    4300072: G eye nut007
+    4300074: G eye base004
+    4300076: G charge p
+    4300078: G charge p001
+    4300080: ChamferCyl014
+    4300082: Line008
+    4300084: Cylinder019
+    4300086: Cylinder020
+    4300088: Cylinder022
+    4300090: Cylinder023
+    4300092: Cylinder024
+    4300094: Box007
+    4300096: Box008
+    4300098: Cylinder026
+    4300100: Cylinder027
+    4300102: ChamferCyl024
+    4300104: Cylinder028
+    4300106: Cylinder029
+    4300108: Cylinder030
+    4300110: ChamferCyl025
+    4300112: Cylinder031
+    4300114: Cylinder032
+    4300116: Cylinder033
+    4300118: ChamferCyl026
+    4300120: Cylinder034
+    4300122: G charge p006
+    4300124: G charge p007
+    4300126: G charge p008
+    4300128: G charge p009
+    4300130: Cylinder035
+    4300132: Gonk top b001
+    4300134: Cylinder036
+    4300136: Cylinder34
+    4300138: Cylinder33
+    4300140: Cylinder32
+    4300142: Cylinder31
+    4300144: Cylinder30
+    4300146: Cylinder29
+    4300148: Box16
+    4300150: Ellipse03
+    4300152: Cylinder05
+    4300154: Cylinder22
+    4300156: Line015
+    4300158: Line014
+    4300160: Cylinder62
+    4300162: L-Ext05
+    4300164: Cylinder60
+    4300166: Line07
+    4300168: Cylinder61
+    4300170: Box15
+    4300172: Box06
+    4300174: Cylinder09
+    4300176: Cylinder56
+    4300178: Cylinder57
+    4300180: Cylinder10
+    4300182: Cylinder58
+    4300184: Cylinder59
+    4300186: Box017
+    4300188: Sphere011
+    4300190: Sphere012
+    4300192: Cylinder063
+    4300194: Cylinder064
+    4300196: Cylinder065
+    4300198: Box018
+    4300200: Box019
+    4300202: Object235
+    4300204: Cylinder066
+    4300206: Sphere013
+    4300208: Sphere014
+    4300210: Cylinder068
+    4300212: Line016
+    4300214: G charge p010
+    4300216: G charge p012
+    4300218: G charge p013
+    4300220: G charge p015
+    4300222: G charge p016
+    4300224: G charge p018
+    4300226: Cylinder069
+    4300228: Cylinder070
+    4300230: Box020
+    4300232: Sphere015
+    4300234: G charge p019
+    4300236: G charge p020
+    4300238: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-12
+    4300240: Sphere016
+    4300242: Sphere017
+    4300244: Sphere018
+    4300246: Sphere019
+    4300248: Sphere020
+    4300250: Box021
+    4300252: ChamferBox003
+    4300254: ChamferBox004
+    4300256: ChamferBox005
+    4300258: ChamferBox006
+    4300260: ChamferBox007
+    4300262: ChamferBox008
+    4300264: ChamferBox009
+    4300266: ChamferBox010
+    4300268: ChamferBox011
+    4300270: ChamferBox012
+    4300272: ChamferBox013
+    4300274: ChamferBox014
+    4300276: ChamferBox015
+    4300278: ChamferBox016
+    4300280: ChamferBox017
+    4300282: ChamferBox018
+    4300284: ChamferBox019
+    4300286: ChamferBox020
+    4300288: ChamferBox021
+    4300290: ChamferBox022
+    4300292: ChamferBox023
+    4300294: ChamferBox024
+    4300296: ChamferBox025
+    4300298: ChamferBox026
+    4300300: ChamferBox027
+    4300302: ChamferBox028
+    4300304: Box022
+    4300306: ChamferBox029
+    4300308: ChamferBox030
+    4300310: ChamferBox031
+    4300312: ChamferBox032
+    4300314: G charge p021
+    4300316: Box023
+    4300318: G charge p022
+    4300320: G charge p023
+    4300322: G charge p024
+    4300324: G charge p025
+    4300326: G charge p026
+    4300328: G charge p027
+    4300330: G charge p028
+    4300332: ChamferBox033
+    4300334: Cylinder071
+    4300336: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-013
+    4300338: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-014
+    4300340: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-015
+    4300342: Line020
+    4300344: Line021
+    4300346: G charge p029
+    4300348: Cylinder072
+    4300350: Box024
+    4300352: Cylinder073
+    4300354: Sphere021
+    4300356: Box025
+    4300358: Box026
+    4300360: Sphere022
+    4300362: Line022
+    4300364: Box027
+    4300366: Line023
+    4300368: Box028
+    4300370: Sphere023
+    4300372: Sphere024
+    4300374: Box029
+    4300376: Line024
+    4300378: ChamferBox034
+    4300380: ChamferBox035
+    4300382: ChamferBox036
+    4300384: Object236
+    4300386: Object237
+    4300388: Object238
+    4300390: ChamferBox037
+    4300392: ChamferBox038
+    4300394: Object239
+    4300396: ChamferBox039
+    4300398: Cylinder074
+    4300400: Cylinder075
+    4300402: ChamferBox040
+    4300404: Cylinder076
+    4300406: Sphere025
+    4300408: Sphere026
+    4300410: Sphere027
+    4300412: G charge p030
+    4300414: Line025
+    4300416: ChamferCyl027
+    4300418: G charge p031
+    4300420: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-016
+    4300422: Cylinder077
+    4300424: ChamferBox041
+    4300426: Box030
+    4300428: Cylinder078
+    4300430: Box031
+    4300432: Cylinder079
+    4300434: Ellipse004
+    4300436: Cylinder080
+    4300438: Cylinder081
+    4300440: Cylinder082
+    4300442: Line027
+    4300444: Cylinder083
+    4300446: Line028
+    4300448: ChamferCyl028
+    4300450: G charge p032
+    4300452: ChamferCyl029
+    4300454: G charge p033
+    4300456: Cylinder084
+    4300458: G charge p034
+    4300460: Gonk top b002
+    4300462: Cylinder085
+    4300464: Cylinder086
+    4300466: G charge p035
+    4300468: Cylinder087
+    4300470: ChamferCyl030
+    4300472: Cylinder088
+    4300474: Cylinder089
+    4300476: Cylinder090
+    4300478: Cylinder091
+    4300480: Cylinder092
+    4300482: Box032
+    4300484: Cylinder093
+    4300486: Cylinder094
+    4300488: Cylinder095
+    4300490: Cylinder096
+    4300492: Cylinder097
+    4300494: Cylinder098
+    4300496: Cylinder099
+    4300498: G charge p036
+    4300500: Cylinder100
+    4300502: Box033
+    4300504: Cylinder101
+    4300506: Line034
+    4300508: G charge p037
+    4300510: Sphere028
+    4300512: Sphere029
+    4300514: Cylinder102
+    4300516: Cylinder103
+    4300518: Line037
+    4300520: Cylinder104
+    4300522: Box034
+    4300524: Cylinder105
+    4300526: Cylinder106
+    4300528: Cylinder107
+    4300530: Object240
+    4300532: Cylinder108
+    4300534: Cylinder109
+    4300536: Cylinder110
+    4300538: Box035
+    4300540: Sphere030
+    4300542: Cylinder111
+    4300544: Box036
+    4300546: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-017
+    4300548: G charge p038
+    4300550: G charge p039
+    4300552: Box037
+    4300554: Sphere031
+    4300556: G charge p040
+    4300558: Cylinder112
+    4300560: Sphere032
+    4300562: G charge p041
+    4300564: Cylinder113
+    4300566: Cylinder114
+    4300568: Cylinder115
+    4300570: Box038
+    4300572: G charge p042
+    4300574: G charge p043
+    4300576: Box039
+    4300578: Box040
+    4300580: ChamferBox042
+    4300582: ChamferBox043
+    4300584: ChamferBox044
+    4300586: ChamferBox045
+    4300588: ChamferBox046
+    4300590: ChamferBox047
+    4300592: ChamferBox048
+    4300594: ChamferBox049
+    4300596: Sphere033
+    4300598: ChamferBox050
+    4300600: ChamferBox051
+    4300602: ChamferBox052
+    4300604: ChamferBox053
+    4300606: Sphere034
+    4300608: ChamferBox054
+    4300610: ChamferBox055
+    4300612: Box041
+    4300614: ChamferBox056
+    4300616: Cylinder116
+    4300618: ChamferBox057
+    4300620: ChamferBox058
+    4300622: ChamferBox059
+    4300624: ChamferBox060
+    4300626: ChamferBox061
+    4300628: ChamferBox062
+    4300630: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-018
+    4300632: Line038
+    4300634: Cylinder117
+    4300636: Line039
+    4300638: G charge p044
+    4300640: ChamferBox063
+    4300642: G charge p045
+    4300644: G charge p046
+    4300646: ChamferBox064
+    4300648: G charge p047
+    4300650: Box042
+    4300652: G charge p048
+    4300654: G charge p049
+    4300656: G charge p050
+    4300658: G charge p051
+    4300660: G charge p052
+    4300662: ChamferBox065
+    4300664: Cylinder118
+    4300666: VALVE ANGLE GLOBE 1.5in NPT FISHER TYP N410-019
+    4300668: L-Ext006
+    4300670: G eye base005
+    4300672: G eye main005
+    4300674: G eye nut008
+    4300676: G eye nut009
+    4300678: G eye blac001
+    4300680: G eye nut010
+    4300682: G eye nut011
+    4300684: G eye main006
+    4300686: G eye nut012
+    4300688: G eye base006
+    4300690: G eye nut013
+    4300692: G eye main007
+    4300694: G eye main008
+    4300696: G eye base007
+    4300698: G eye main009
+    4300700: G eye nut014
+    4300702: G eye base008
+    4300704: G eye nut015
+    4300706: G eye base009
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

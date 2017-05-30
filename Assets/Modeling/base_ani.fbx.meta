@@ -1,0 +1,3169 @@
+fileFormatVersion: 2
+guid: 9993cc40b75e84ccca95d8e5fe982ff4
+timeCreated: 1495348289
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: adidas
+    100002: adidas_1
+    100004: adidas_2
+    100006: adidas_3
+    100008: adidas_4
+    100010: //RootNode
+    100012: Capsule
+    100014: Capsule_1
+    100016: Capsule_10
+    100018: Capsule_11
+    100020: Capsule_12
+    100022: Capsule_13
+    100024: Capsule_14
+    100026: Capsule_15
+    100028: Capsule_16
+    100030: Capsule_17
+    100032: Capsule_18
+    100034: Capsule_19
+    100036: Capsule_2
+    100038: Capsule_20
+    100040: Capsule_21
+    100042: Capsule_21_2
+    100044: Capsule_21_3
+    100046: Capsule_22
+    100048: Capsule_22_2
+    100050: Capsule_22_3
+    100052: Capsule_23
+    100054: Capsule_23_2
+    100056: Capsule_23_3
+    100058: Capsule_24
+    100060: Capsule_24_2
+    100062: Capsule_24_3
+    100064: Capsule_25
+    100066: Capsule_25_2
+    100068: Capsule_25_3
+    100070: Capsule_26
+    100072: Capsule_26_2
+    100074: Capsule_26_3
+    100076: Capsule_27
+    100078: Capsule_27_2
+    100080: Capsule_27_3
+    100082: Capsule_28
+    100084: Capsule_28_2
+    100086: Capsule_28_3
+    100088: Capsule_29
+    100090: Capsule_29_2
+    100092: Capsule_29_3
+    100094: Capsule_3
+    100096: Capsule_30
+    100098: Capsule_30_2
+    100100: Capsule_30_3
+    100102: Capsule_31
+    100104: Capsule_31_2
+    100106: Capsule_31_3
+    100108: Capsule_32
+    100110: Capsule_32_2
+    100112: Capsule_32_3
+    100114: Capsule_33
+    100116: Capsule_33_2
+    100118: Capsule_33_3
+    100120: Capsule_34
+    100122: Capsule_34_2
+    100124: Capsule_35
+    100126: Capsule_35_2
+    100128: Capsule_36
+    100130: Capsule_36_2
+    100132: Capsule_4
+    100134: Capsule_5
+    100136: Capsule_6
+    100138: Capsule_7
+    100140: Capsule_8
+    100142: Capsule_9
+    100144: CINEMA_4D_Editor
+    100146: Cone
+    100148: cone1
+    100150: cone2
+    100152: cone3
+    100154: cone4
+    100156: Cone_1
+    100158: Cone_10
+    100160: Cone_10_2
+    100162: Cone_10_3
+    100164: Cone_13
+    100166: Cone_13_2
+    100168: Cone_14
+    100170: Cone_14_2
+    100172: Cone_15
+    100174: Cone_15_2
+    100176: Cone_16
+    100178: Cone_16_2
+    100180: Cone_17
+    100182: Cone_17_2
+    100184: Cone_18
+    100186: Cone_18_2
+    100188: Cone_2
+    100190: Cone_21
+    100192: Cone_21_2
+    100194: Cone_21_3
+    100196: Cone_3
+    100198: Cone_4
+    100200: Cone_5
+    100202: Cone_6
+    100204: Cone_6_2
+    100206: Cone_6_3
+    100208: Cone_7
+    100210: Cone_7_2
+    100212: Cone_7_3
+    100214: Cone_8
+    100216: Cone_8_2
+    100218: Cone_8_3
+    100220: Cone_9
+    100222: Cone_9_2
+    100224: Cone_9_3
+    100226: Cube
+    100228: Cube_1
+    100230: Cube_10
+    100232: Cube_10_2
+    100234: Cube_11
+    100236: Cube_11_2
+    100238: Cube_12
+    100240: Cube_12_2
+    100242: Cube_13
+    100244: Cube_13_2
+    100246: Cube_14
+    100248: Cube_14_2
+    100250: Cube_2
+    100252: Cube_3
+    100254: Cube_4
+    100256: Cube_5
+    100258: Cube_6
+    100260: Cube_7
+    100262: Cube_7_2
+    100264: Cube_7_3
+    100266: Cube_7_4
+    100268: Cube_7_5
+    100270: Cube_7_6
+    100272: Cube_7_7
+    100274: Cube_8
+    100276: Cube_8_2
+    100278: Cube_8_3
+    100280: Cube_8_4
+    100282: Cube_8_5
+    100284: Cube_8_6
+    100286: Cube_8_7
+    100288: Cube_9
+    100290: Cube_9_2
+    100292: Cube_9_3
+    100294: Cube_9_4
+    100296: Cube_9_5
+    100298: Cube_9_6
+    100300: Cube_9_7
+    100302: Cylinder
+    100304: Cylinder_1
+    100306: Cylinder_10
+    100308: Cylinder_11
+    100310: Cylinder_12
+    100312: Cylinder_13
+    100314: Cylinder_14
+    100316: Cylinder_15
+    100318: Cylinder_16
+    100320: Cylinder_17
+    100322: Cylinder_17_2
+    100324: Cylinder_17_3
+    100326: Cylinder_17_4
+    100328: Cylinder_17_5
+    100330: Cylinder_2
+    100332: Cylinder_22
+    100334: Cylinder_22_2
+    100336: Cylinder_22_3
+    100338: Cylinder_22_4
+    100340: Cylinder_22_5
+    100342: Cylinder_29
+    100344: Cylinder_29_2
+    100346: Cylinder_29_3
+    100348: Cylinder_29_4
+    100350: Cylinder_29_5
+    100352: Cylinder_3
+    100354: Cylinder_30
+    100356: Cylinder_31
+    100358: Cylinder_32
+    100360: Cylinder_33
+    100362: Cylinder_34
+    100364: Cylinder_34_2
+    100366: Cylinder_34_3
+    100368: Cylinder_35
+    100370: Cylinder_35_2
+    100372: Cylinder_35_3
+    100374: Cylinder_36
+    100376: Cylinder_36_2
+    100378: Cylinder_36_3
+    100380: Cylinder_37
+    100382: Cylinder_37_2
+    100384: Cylinder_37_3
+    100386: Cylinder_38
+    100388: Cylinder_38_2
+    100390: Cylinder_38_3
+    100392: Cylinder_39
+    100394: Cylinder_39_2
+    100396: Cylinder_39_3
+    100398: Cylinder_4
+    100400: Cylinder_40
+    100402: Cylinder_40_2
+    100404: Cylinder_40_3
+    100406: Cylinder_41
+    100408: Cylinder_41_2
+    100410: Cylinder_41_3
+    100412: Cylinder_42
+    100414: Cylinder_42_2
+    100416: Cylinder_42_3
+    100418: Cylinder_43
+    100420: Cylinder_43_2
+    100422: Cylinder_44
+    100424: Cylinder_44_2
+    100426: Cylinder_45
+    100428: Cylinder_45_2
+    100430: Cylinder_46
+    100432: Cylinder_46_2
+    100434: Cylinder_47
+    100436: Cylinder_47_2
+    100438: Cylinder_48
+    100440: Cylinder_48_2
+    100442: Cylinder_49
+    100444: Cylinder_49_2
+    100446: Cylinder_5
+    100448: Cylinder_50
+    100450: Cylinder_50_2
+    100452: Cylinder_51
+    100454: Cylinder_51_2
+    100456: Cylinder_52
+    100458: Cylinder_52_2
+    100460: Cylinder_53
+    100462: Cylinder_53_2
+    100464: Cylinder_54
+    100466: Cylinder_54_2
+    100468: Cylinder_55
+    100470: Cylinder_55_2
+    100472: Cylinder_56
+    100474: Cylinder_56_2
+    100476: Cylinder_57
+    100478: Cylinder_57_2
+    100480: Cylinder_58
+    100482: Cylinder_58_2
+    100484: Cylinder_59
+    100486: Cylinder_59_2
+    100488: Cylinder_6
+    100490: Cylinder_60
+    100492: Cylinder_60_2
+    100494: Cylinder_61
+    100496: Cylinder_61_2
+    100498: Cylinder_62
+    100500: Cylinder_62_2
+    100502: Cylinder_63
+    100504: Cylinder_63_2
+    100506: Cylinder_64
+    100508: Cylinder_64_2
+    100510: Cylinder_65
+    100512: Cylinder_65_2
+    100514: Cylinder_66
+    100516: Cylinder_66_2
+    100518: Cylinder_67
+    100520: Cylinder_67_2
+    100522: Cylinder_68
+    100524: Cylinder_68_2
+    100526: Cylinder_69
+    100528: Cylinder_69_2
+    100530: Cylinder_7
+    100532: Cylinder_70
+    100534: Cylinder_70_2
+    100536: Cylinder_71
+    100538: Cylinder_71_2
+    100540: Cylinder_72
+    100542: Cylinder_72_2
+    100544: Cylinder_73
+    100546: Cylinder_73_2
+    100548: Cylinder_74
+    100550: Cylinder_74_2
+    100552: Cylinder_75
+    100554: Cylinder_75_2
+    100556: Cylinder_76
+    100558: Cylinder_76_2
+    100560: Cylinder_77
+    100562: Cylinder_77_2
+    100564: Cylinder_78
+    100566: Cylinder_78_2
+    100568: Cylinder_79
+    100570: Cylinder_79_2
+    100572: Cylinder_8
+    100574: Cylinder_80
+    100576: Cylinder_80_2
+    100578: Cylinder_81
+    100580: Cylinder_81_2
+    100582: Cylinder_82
+    100584: Cylinder_82_2
+    100586: Cylinder_83
+    100588: Cylinder_83_2
+    100590: Cylinder_84
+    100592: Cylinder_84_2
+    100594: Cylinder_9
+    100596: Extrude
+    100598: Extrude_14
+    100600: Extrude_14_2
+    100602: Extrude_14_3
+    100604: Extrude_14_4
+    100606: Extrude_14_5
+    100608: Extrude_15
+    100610: Extrude_15_2
+    100612: Extrude_15_3
+    100614: Extrude_15_4
+    100616: Extrude_15_5
+    100618: Extrude_16
+    100620: Extrude_16_2
+    100622: Extrude_16_3
+    100624: Extrude_16_4
+    100626: Extrude_16_5
+    100628: Extrude_17
+    100630: Extrude_17_2
+    100632: Extrude_17_3
+    100634: Extrude_17_4
+    100636: Extrude_17_5
+    100638: Extrude_18
+    100640: Extrude_18_2
+    100642: Extrude_18_3
+    100644: Extrude_18_4
+    100646: Extrude_18_5
+    100648: Extrude_19
+    100650: Extrude_19_2
+    100652: Extrude_19_3
+    100654: Extrude_19_4
+    100656: Extrude_19_5
+    100658: Null
+    100660: Null_1
+    100662: Null_1_2
+    100664: Null_1_3
+    100666: Null_1_4
+    100668: Null_1_5
+    100670: Null_1_6
+    100672: Null_2
+    100674: Null_2_2
+    100676: Null_3
+    100678: Null_3_2
+    100680: Null_4
+    100682: Null_4_2
+    100684: Null_5
+    100686: Null_6
+    100688: piston1
+    100690: piston2
+    100692: sewing_pipes_10
+    100694: sewing_pipes_5
+    100696: sewing_pipes_7
+    100698: sewing_pipes_9
+    100700: Sphere_11
+    100702: Sphere_11_2
+    100704: Sphere_11_3
+    100706: Sphere_14
+    100708: Sphere_14_2
+    100710: Sphere_14_3
+    100712: Sphere_17
+    100714: Sphere_17_2
+    100716: Sphere_18
+    100718: Sphere_18_2
+    100720: Sphere_19
+    100722: Sphere_19_2
+    100724: Sphere_2
+    100726: Sphere_20
+    100728: Sphere_20_2
+    100730: Sphere_21
+    100732: Sphere_21_2
+    100734: Sphere_21_3
+    100736: Sphere_2_2
+    100738: Sphere_2_3
+    100740: Sphere_6
+    100742: Sphere_6_2
+    100744: Sphere_6_3
+    100746: Sphere_6_4
+    100748: Sphere_6_5
+    100750: Sphere_7
+    100752: Sphere_7_2
+    100754: Sphere_7_3
+    100756: Sphere_7_4
+    100758: Sphere_7_5
+    100760: Sphere_8
+    100762: Sphere_8_2
+    100764: Sphere_8_3
+    100766: Torus
+    100768: Torus_1
+    100770: Torus_10
+    100772: Torus_11
+    100774: Torus_12
+    100776: Torus_13
+    100778: Torus_14
+    100780: Torus_15
+    100782: Torus_16
+    100784: Torus_17
+    100786: Torus_18
+    100788: Torus_19
+    100790: Torus_2
+    100792: Torus_20
+    100794: Torus_21
+    100796: Torus_21_2
+    100798: Torus_21_3
+    100800: Torus_21_4
+    100802: Torus_21_5
+    100804: Torus_22
+    100806: Torus_22_2
+    100808: Torus_22_3
+    100810: Torus_22_4
+    100812: Torus_22_5
+    100814: Torus_23
+    100816: Torus_24
+    100818: Torus_25
+    100820: Torus_26
+    100822: Torus_26_2
+    100824: Torus_26_3
+    100826: Torus_27
+    100828: Torus_27_2
+    100830: Torus_27_3
+    100832: Torus_28
+    100834: Torus_28_2
+    100836: Torus_28_3
+    100838: Torus_29
+    100840: Torus_29_2
+    100842: Torus_29_3
+    100844: Torus_3
+    100846: Torus_30
+    100848: Torus_30_2
+    100850: Torus_30_3
+    100852: Torus_31
+    100854: Torus_32
+    100856: Torus_33
+    100858: Torus_4
+    100860: Torus_5
+    100862: Torus_6
+    100864: Torus_7
+    100866: Torus_8
+    100868: Torus_9
+    100870: tower1
+    100872: tower1_1
+    100874: Tube
+    100876: Tube_1
+    100878: Tube_10
+    100880: Tube_11
+    100882: Tube_12
+    100884: Tube_13
+    100886: Tube_14
+    100888: Tube_2
+    100890: Tube_3
+    100892: Tube_4
+    100894: Tube_5
+    100896: Tube_6
+    100898: Tube_7
+    100900: Tube_8
+    100902: Tube_9
+    400000: adidas
+    400002: adidas_1
+    400004: adidas_2
+    400006: adidas_3
+    400008: adidas_4
+    400010: //RootNode
+    400012: Capsule
+    400014: Capsule_1
+    400016: Capsule_10
+    400018: Capsule_11
+    400020: Capsule_12
+    400022: Capsule_13
+    400024: Capsule_14
+    400026: Capsule_15
+    400028: Capsule_16
+    400030: Capsule_17
+    400032: Capsule_18
+    400034: Capsule_19
+    400036: Capsule_2
+    400038: Capsule_20
+    400040: Capsule_21
+    400042: Capsule_21_2
+    400044: Capsule_21_3
+    400046: Capsule_22
+    400048: Capsule_22_2
+    400050: Capsule_22_3
+    400052: Capsule_23
+    400054: Capsule_23_2
+    400056: Capsule_23_3
+    400058: Capsule_24
+    400060: Capsule_24_2
+    400062: Capsule_24_3
+    400064: Capsule_25
+    400066: Capsule_25_2
+    400068: Capsule_25_3
+    400070: Capsule_26
+    400072: Capsule_26_2
+    400074: Capsule_26_3
+    400076: Capsule_27
+    400078: Capsule_27_2
+    400080: Capsule_27_3
+    400082: Capsule_28
+    400084: Capsule_28_2
+    400086: Capsule_28_3
+    400088: Capsule_29
+    400090: Capsule_29_2
+    400092: Capsule_29_3
+    400094: Capsule_3
+    400096: Capsule_30
+    400098: Capsule_30_2
+    400100: Capsule_30_3
+    400102: Capsule_31
+    400104: Capsule_31_2
+    400106: Capsule_31_3
+    400108: Capsule_32
+    400110: Capsule_32_2
+    400112: Capsule_32_3
+    400114: Capsule_33
+    400116: Capsule_33_2
+    400118: Capsule_33_3
+    400120: Capsule_34
+    400122: Capsule_34_2
+    400124: Capsule_35
+    400126: Capsule_35_2
+    400128: Capsule_36
+    400130: Capsule_36_2
+    400132: Capsule_4
+    400134: Capsule_5
+    400136: Capsule_6
+    400138: Capsule_7
+    400140: Capsule_8
+    400142: Capsule_9
+    400144: CINEMA_4D_Editor
+    400146: Cone
+    400148: cone1
+    400150: cone2
+    400152: cone3
+    400154: cone4
+    400156: Cone_1
+    400158: Cone_10
+    400160: Cone_10_2
+    400162: Cone_10_3
+    400164: Cone_13
+    400166: Cone_13_2
+    400168: Cone_14
+    400170: Cone_14_2
+    400172: Cone_15
+    400174: Cone_15_2
+    400176: Cone_16
+    400178: Cone_16_2
+    400180: Cone_17
+    400182: Cone_17_2
+    400184: Cone_18
+    400186: Cone_18_2
+    400188: Cone_2
+    400190: Cone_21
+    400192: Cone_21_2
+    400194: Cone_21_3
+    400196: Cone_3
+    400198: Cone_4
+    400200: Cone_5
+    400202: Cone_6
+    400204: Cone_6_2
+    400206: Cone_6_3
+    400208: Cone_7
+    400210: Cone_7_2
+    400212: Cone_7_3
+    400214: Cone_8
+    400216: Cone_8_2
+    400218: Cone_8_3
+    400220: Cone_9
+    400222: Cone_9_2
+    400224: Cone_9_3
+    400226: Cube
+    400228: Cube_1
+    400230: Cube_10
+    400232: Cube_10_2
+    400234: Cube_11
+    400236: Cube_11_2
+    400238: Cube_12
+    400240: Cube_12_2
+    400242: Cube_13
+    400244: Cube_13_2
+    400246: Cube_14
+    400248: Cube_14_2
+    400250: Cube_2
+    400252: Cube_3
+    400254: Cube_4
+    400256: Cube_5
+    400258: Cube_6
+    400260: Cube_7
+    400262: Cube_7_2
+    400264: Cube_7_3
+    400266: Cube_7_4
+    400268: Cube_7_5
+    400270: Cube_7_6
+    400272: Cube_7_7
+    400274: Cube_8
+    400276: Cube_8_2
+    400278: Cube_8_3
+    400280: Cube_8_4
+    400282: Cube_8_5
+    400284: Cube_8_6
+    400286: Cube_8_7
+    400288: Cube_9
+    400290: Cube_9_2
+    400292: Cube_9_3
+    400294: Cube_9_4
+    400296: Cube_9_5
+    400298: Cube_9_6
+    400300: Cube_9_7
+    400302: Cylinder
+    400304: Cylinder_1
+    400306: Cylinder_10
+    400308: Cylinder_11
+    400310: Cylinder_12
+    400312: Cylinder_13
+    400314: Cylinder_14
+    400316: Cylinder_15
+    400318: Cylinder_16
+    400320: Cylinder_17
+    400322: Cylinder_17_2
+    400324: Cylinder_17_3
+    400326: Cylinder_17_4
+    400328: Cylinder_17_5
+    400330: Cylinder_2
+    400332: Cylinder_22
+    400334: Cylinder_22_2
+    400336: Cylinder_22_3
+    400338: Cylinder_22_4
+    400340: Cylinder_22_5
+    400342: Cylinder_29
+    400344: Cylinder_29_2
+    400346: Cylinder_29_3
+    400348: Cylinder_29_4
+    400350: Cylinder_29_5
+    400352: Cylinder_3
+    400354: Cylinder_30
+    400356: Cylinder_31
+    400358: Cylinder_32
+    400360: Cylinder_33
+    400362: Cylinder_34
+    400364: Cylinder_34_2
+    400366: Cylinder_34_3
+    400368: Cylinder_35
+    400370: Cylinder_35_2
+    400372: Cylinder_35_3
+    400374: Cylinder_36
+    400376: Cylinder_36_2
+    400378: Cylinder_36_3
+    400380: Cylinder_37
+    400382: Cylinder_37_2
+    400384: Cylinder_37_3
+    400386: Cylinder_38
+    400388: Cylinder_38_2
+    400390: Cylinder_38_3
+    400392: Cylinder_39
+    400394: Cylinder_39_2
+    400396: Cylinder_39_3
+    400398: Cylinder_4
+    400400: Cylinder_40
+    400402: Cylinder_40_2
+    400404: Cylinder_40_3
+    400406: Cylinder_41
+    400408: Cylinder_41_2
+    400410: Cylinder_41_3
+    400412: Cylinder_42
+    400414: Cylinder_42_2
+    400416: Cylinder_42_3
+    400418: Cylinder_43
+    400420: Cylinder_43_2
+    400422: Cylinder_44
+    400424: Cylinder_44_2
+    400426: Cylinder_45
+    400428: Cylinder_45_2
+    400430: Cylinder_46
+    400432: Cylinder_46_2
+    400434: Cylinder_47
+    400436: Cylinder_47_2
+    400438: Cylinder_48
+    400440: Cylinder_48_2
+    400442: Cylinder_49
+    400444: Cylinder_49_2
+    400446: Cylinder_5
+    400448: Cylinder_50
+    400450: Cylinder_50_2
+    400452: Cylinder_51
+    400454: Cylinder_51_2
+    400456: Cylinder_52
+    400458: Cylinder_52_2
+    400460: Cylinder_53
+    400462: Cylinder_53_2
+    400464: Cylinder_54
+    400466: Cylinder_54_2
+    400468: Cylinder_55
+    400470: Cylinder_55_2
+    400472: Cylinder_56
+    400474: Cylinder_56_2
+    400476: Cylinder_57
+    400478: Cylinder_57_2
+    400480: Cylinder_58
+    400482: Cylinder_58_2
+    400484: Cylinder_59
+    400486: Cylinder_59_2
+    400488: Cylinder_6
+    400490: Cylinder_60
+    400492: Cylinder_60_2
+    400494: Cylinder_61
+    400496: Cylinder_61_2
+    400498: Cylinder_62
+    400500: Cylinder_62_2
+    400502: Cylinder_63
+    400504: Cylinder_63_2
+    400506: Cylinder_64
+    400508: Cylinder_64_2
+    400510: Cylinder_65
+    400512: Cylinder_65_2
+    400514: Cylinder_66
+    400516: Cylinder_66_2
+    400518: Cylinder_67
+    400520: Cylinder_67_2
+    400522: Cylinder_68
+    400524: Cylinder_68_2
+    400526: Cylinder_69
+    400528: Cylinder_69_2
+    400530: Cylinder_7
+    400532: Cylinder_70
+    400534: Cylinder_70_2
+    400536: Cylinder_71
+    400538: Cylinder_71_2
+    400540: Cylinder_72
+    400542: Cylinder_72_2
+    400544: Cylinder_73
+    400546: Cylinder_73_2
+    400548: Cylinder_74
+    400550: Cylinder_74_2
+    400552: Cylinder_75
+    400554: Cylinder_75_2
+    400556: Cylinder_76
+    400558: Cylinder_76_2
+    400560: Cylinder_77
+    400562: Cylinder_77_2
+    400564: Cylinder_78
+    400566: Cylinder_78_2
+    400568: Cylinder_79
+    400570: Cylinder_79_2
+    400572: Cylinder_8
+    400574: Cylinder_80
+    400576: Cylinder_80_2
+    400578: Cylinder_81
+    400580: Cylinder_81_2
+    400582: Cylinder_82
+    400584: Cylinder_82_2
+    400586: Cylinder_83
+    400588: Cylinder_83_2
+    400590: Cylinder_84
+    400592: Cylinder_84_2
+    400594: Cylinder_9
+    400596: Extrude
+    400598: Extrude_14
+    400600: Extrude_14_2
+    400602: Extrude_14_3
+    400604: Extrude_14_4
+    400606: Extrude_14_5
+    400608: Extrude_15
+    400610: Extrude_15_2
+    400612: Extrude_15_3
+    400614: Extrude_15_4
+    400616: Extrude_15_5
+    400618: Extrude_16
+    400620: Extrude_16_2
+    400622: Extrude_16_3
+    400624: Extrude_16_4
+    400626: Extrude_16_5
+    400628: Extrude_17
+    400630: Extrude_17_2
+    400632: Extrude_17_3
+    400634: Extrude_17_4
+    400636: Extrude_17_5
+    400638: Extrude_18
+    400640: Extrude_18_2
+    400642: Extrude_18_3
+    400644: Extrude_18_4
+    400646: Extrude_18_5
+    400648: Extrude_19
+    400650: Extrude_19_2
+    400652: Extrude_19_3
+    400654: Extrude_19_4
+    400656: Extrude_19_5
+    400658: Null
+    400660: Null_1
+    400662: Null_1_2
+    400664: Null_1_3
+    400666: Null_1_4
+    400668: Null_1_5
+    400670: Null_1_6
+    400672: Null_2
+    400674: Null_2_2
+    400676: Null_3
+    400678: Null_3_2
+    400680: Null_4
+    400682: Null_4_2
+    400684: Null_5
+    400686: Null_6
+    400688: piston1
+    400690: piston2
+    400692: sewing_pipes_10
+    400694: sewing_pipes_5
+    400696: sewing_pipes_7
+    400698: sewing_pipes_9
+    400700: Sphere_11
+    400702: Sphere_11_2
+    400704: Sphere_11_3
+    400706: Sphere_14
+    400708: Sphere_14_2
+    400710: Sphere_14_3
+    400712: Sphere_17
+    400714: Sphere_17_2
+    400716: Sphere_18
+    400718: Sphere_18_2
+    400720: Sphere_19
+    400722: Sphere_19_2
+    400724: Sphere_2
+    400726: Sphere_20
+    400728: Sphere_20_2
+    400730: Sphere_21
+    400732: Sphere_21_2
+    400734: Sphere_21_3
+    400736: Sphere_2_2
+    400738: Sphere_2_3
+    400740: Sphere_6
+    400742: Sphere_6_2
+    400744: Sphere_6_3
+    400746: Sphere_6_4
+    400748: Sphere_6_5
+    400750: Sphere_7
+    400752: Sphere_7_2
+    400754: Sphere_7_3
+    400756: Sphere_7_4
+    400758: Sphere_7_5
+    400760: Sphere_8
+    400762: Sphere_8_2
+    400764: Sphere_8_3
+    400766: Torus
+    400768: Torus_1
+    400770: Torus_10
+    400772: Torus_11
+    400774: Torus_12
+    400776: Torus_13
+    400778: Torus_14
+    400780: Torus_15
+    400782: Torus_16
+    400784: Torus_17
+    400786: Torus_18
+    400788: Torus_19
+    400790: Torus_2
+    400792: Torus_20
+    400794: Torus_21
+    400796: Torus_21_2
+    400798: Torus_21_3
+    400800: Torus_21_4
+    400802: Torus_21_5
+    400804: Torus_22
+    400806: Torus_22_2
+    400808: Torus_22_3
+    400810: Torus_22_4
+    400812: Torus_22_5
+    400814: Torus_23
+    400816: Torus_24
+    400818: Torus_25
+    400820: Torus_26
+    400822: Torus_26_2
+    400824: Torus_26_3
+    400826: Torus_27
+    400828: Torus_27_2
+    400830: Torus_27_3
+    400832: Torus_28
+    400834: Torus_28_2
+    400836: Torus_28_3
+    400838: Torus_29
+    400840: Torus_29_2
+    400842: Torus_29_3
+    400844: Torus_3
+    400846: Torus_30
+    400848: Torus_30_2
+    400850: Torus_30_3
+    400852: Torus_31
+    400854: Torus_32
+    400856: Torus_33
+    400858: Torus_4
+    400860: Torus_5
+    400862: Torus_6
+    400864: Torus_7
+    400866: Torus_8
+    400868: Torus_9
+    400870: tower1
+    400872: tower1_1
+    400874: Tube
+    400876: Tube_1
+    400878: Tube_10
+    400880: Tube_11
+    400882: Tube_12
+    400884: Tube_13
+    400886: Tube_14
+    400888: Tube_2
+    400890: Tube_3
+    400892: Tube_4
+    400894: Tube_5
+    400896: Tube_6
+    400898: Tube_7
+    400900: Tube_8
+    400902: Tube_9
+    2300000: Capsule
+    2300002: Capsule_1
+    2300004: Capsule_10
+    2300006: Capsule_11
+    2300008: Capsule_12
+    2300010: Capsule_13
+    2300012: Capsule_14
+    2300014: Capsule_15
+    2300016: Capsule_16
+    2300018: Capsule_17
+    2300020: Capsule_18
+    2300022: Capsule_19
+    2300024: Capsule_2
+    2300026: Capsule_20
+    2300028: Capsule_21
+    2300030: Capsule_21_2
+    2300032: Capsule_21_3
+    2300034: Capsule_22
+    2300036: Capsule_22_2
+    2300038: Capsule_22_3
+    2300040: Capsule_23
+    2300042: Capsule_23_2
+    2300044: Capsule_23_3
+    2300046: Capsule_24
+    2300048: Capsule_24_2
+    2300050: Capsule_24_3
+    2300052: Capsule_25
+    2300054: Capsule_25_2
+    2300056: Capsule_25_3
+    2300058: Capsule_26
+    2300060: Capsule_26_2
+    2300062: Capsule_26_3
+    2300064: Capsule_27
+    2300066: Capsule_27_2
+    2300068: Capsule_27_3
+    2300070: Capsule_28
+    2300072: Capsule_28_2
+    2300074: Capsule_28_3
+    2300076: Capsule_29
+    2300078: Capsule_29_2
+    2300080: Capsule_29_3
+    2300082: Capsule_3
+    2300084: Capsule_30
+    2300086: Capsule_30_2
+    2300088: Capsule_30_3
+    2300090: Capsule_31
+    2300092: Capsule_31_2
+    2300094: Capsule_31_3
+    2300096: Capsule_32
+    2300098: Capsule_32_2
+    2300100: Capsule_32_3
+    2300102: Capsule_33
+    2300104: Capsule_33_2
+    2300106: Capsule_33_3
+    2300108: Capsule_34
+    2300110: Capsule_34_2
+    2300112: Capsule_35
+    2300114: Capsule_35_2
+    2300116: Capsule_36
+    2300118: Capsule_36_2
+    2300120: Capsule_4
+    2300122: Capsule_5
+    2300124: Capsule_6
+    2300126: Capsule_7
+    2300128: Capsule_8
+    2300130: Capsule_9
+    2300132: Cone
+    2300134: Cone_1
+    2300136: Cone_10
+    2300138: Cone_10_2
+    2300140: Cone_10_3
+    2300142: Cone_13
+    2300144: Cone_13_2
+    2300146: Cone_14
+    2300148: Cone_14_2
+    2300150: Cone_15
+    2300152: Cone_15_2
+    2300154: Cone_16
+    2300156: Cone_16_2
+    2300158: Cone_17
+    2300160: Cone_17_2
+    2300162: Cone_18
+    2300164: Cone_18_2
+    2300166: Cone_2
+    2300168: Cone_21
+    2300170: Cone_21_2
+    2300172: Cone_21_3
+    2300174: Cone_3
+    2300176: Cone_4
+    2300178: Cone_5
+    2300180: Cone_6
+    2300182: Cone_6_2
+    2300184: Cone_6_3
+    2300186: Cone_7
+    2300188: Cone_7_2
+    2300190: Cone_7_3
+    2300192: Cone_8
+    2300194: Cone_8_2
+    2300196: Cone_8_3
+    2300198: Cone_9
+    2300200: Cone_9_2
+    2300202: Cone_9_3
+    2300204: Cube
+    2300206: Cube_1
+    2300208: Cube_10
+    2300210: Cube_10_2
+    2300212: Cube_11
+    2300214: Cube_11_2
+    2300216: Cube_12
+    2300218: Cube_12_2
+    2300220: Cube_13
+    2300222: Cube_13_2
+    2300224: Cube_14
+    2300226: Cube_14_2
+    2300228: Cube_2
+    2300230: Cube_3
+    2300232: Cube_4
+    2300234: Cube_5
+    2300236: Cube_6
+    2300238: Cube_7
+    2300240: Cube_7_2
+    2300242: Cube_7_3
+    2300244: Cube_7_4
+    2300246: Cube_7_5
+    2300248: Cube_7_6
+    2300250: Cube_7_7
+    2300252: Cube_8
+    2300254: Cube_8_2
+    2300256: Cube_8_3
+    2300258: Cube_8_4
+    2300260: Cube_8_5
+    2300262: Cube_8_6
+    2300264: Cube_8_7
+    2300266: Cube_9
+    2300268: Cube_9_2
+    2300270: Cube_9_3
+    2300272: Cube_9_4
+    2300274: Cube_9_5
+    2300276: Cube_9_6
+    2300278: Cube_9_7
+    2300280: Cylinder
+    2300282: Cylinder_1
+    2300284: Cylinder_10
+    2300286: Cylinder_11
+    2300288: Cylinder_12
+    2300290: Cylinder_13
+    2300292: Cylinder_14
+    2300294: Cylinder_15
+    2300296: Cylinder_16
+    2300298: Cylinder_17
+    2300300: Cylinder_17_2
+    2300302: Cylinder_17_3
+    2300304: Cylinder_17_4
+    2300306: Cylinder_17_5
+    2300308: Cylinder_2
+    2300310: Cylinder_22
+    2300312: Cylinder_22_2
+    2300314: Cylinder_22_3
+    2300316: Cylinder_22_4
+    2300318: Cylinder_22_5
+    2300320: Cylinder_29
+    2300322: Cylinder_29_2
+    2300324: Cylinder_29_3
+    2300326: Cylinder_29_4
+    2300328: Cylinder_29_5
+    2300330: Cylinder_3
+    2300332: Cylinder_30
+    2300334: Cylinder_31
+    2300336: Cylinder_32
+    2300338: Cylinder_33
+    2300340: Cylinder_34
+    2300342: Cylinder_34_2
+    2300344: Cylinder_34_3
+    2300346: Cylinder_35
+    2300348: Cylinder_35_2
+    2300350: Cylinder_35_3
+    2300352: Cylinder_36
+    2300354: Cylinder_36_2
+    2300356: Cylinder_36_3
+    2300358: Cylinder_37
+    2300360: Cylinder_37_2
+    2300362: Cylinder_37_3
+    2300364: Cylinder_38
+    2300366: Cylinder_38_2
+    2300368: Cylinder_38_3
+    2300370: Cylinder_39
+    2300372: Cylinder_39_2
+    2300374: Cylinder_39_3
+    2300376: Cylinder_4
+    2300378: Cylinder_40
+    2300380: Cylinder_40_2
+    2300382: Cylinder_40_3
+    2300384: Cylinder_41
+    2300386: Cylinder_41_2
+    2300388: Cylinder_41_3
+    2300390: Cylinder_42
+    2300392: Cylinder_42_2
+    2300394: Cylinder_42_3
+    2300396: Cylinder_43
+    2300398: Cylinder_43_2
+    2300400: Cylinder_44
+    2300402: Cylinder_44_2
+    2300404: Cylinder_45
+    2300406: Cylinder_45_2
+    2300408: Cylinder_46
+    2300410: Cylinder_46_2
+    2300412: Cylinder_47
+    2300414: Cylinder_47_2
+    2300416: Cylinder_48
+    2300418: Cylinder_48_2
+    2300420: Cylinder_49
+    2300422: Cylinder_49_2
+    2300424: Cylinder_5
+    2300426: Cylinder_50
+    2300428: Cylinder_50_2
+    2300430: Cylinder_51
+    2300432: Cylinder_51_2
+    2300434: Cylinder_52
+    2300436: Cylinder_52_2
+    2300438: Cylinder_53
+    2300440: Cylinder_53_2
+    2300442: Cylinder_54
+    2300444: Cylinder_54_2
+    2300446: Cylinder_55
+    2300448: Cylinder_55_2
+    2300450: Cylinder_56
+    2300452: Cylinder_56_2
+    2300454: Cylinder_57
+    2300456: Cylinder_57_2
+    2300458: Cylinder_58
+    2300460: Cylinder_58_2
+    2300462: Cylinder_59
+    2300464: Cylinder_59_2
+    2300466: Cylinder_6
+    2300468: Cylinder_60
+    2300470: Cylinder_60_2
+    2300472: Cylinder_61
+    2300474: Cylinder_61_2
+    2300476: Cylinder_62
+    2300478: Cylinder_62_2
+    2300480: Cylinder_63
+    2300482: Cylinder_63_2
+    2300484: Cylinder_64
+    2300486: Cylinder_64_2
+    2300488: Cylinder_65
+    2300490: Cylinder_65_2
+    2300492: Cylinder_66
+    2300494: Cylinder_66_2
+    2300496: Cylinder_67
+    2300498: Cylinder_67_2
+    2300500: Cylinder_68
+    2300502: Cylinder_68_2
+    2300504: Cylinder_69
+    2300506: Cylinder_69_2
+    2300508: Cylinder_7
+    2300510: Cylinder_70
+    2300512: Cylinder_70_2
+    2300514: Cylinder_71
+    2300516: Cylinder_71_2
+    2300518: Cylinder_72
+    2300520: Cylinder_72_2
+    2300522: Cylinder_73
+    2300524: Cylinder_73_2
+    2300526: Cylinder_74
+    2300528: Cylinder_74_2
+    2300530: Cylinder_75
+    2300532: Cylinder_75_2
+    2300534: Cylinder_76
+    2300536: Cylinder_76_2
+    2300538: Cylinder_77
+    2300540: Cylinder_77_2
+    2300542: Cylinder_78
+    2300544: Cylinder_78_2
+    2300546: Cylinder_79
+    2300548: Cylinder_79_2
+    2300550: Cylinder_8
+    2300552: Cylinder_80
+    2300554: Cylinder_80_2
+    2300556: Cylinder_81
+    2300558: Cylinder_81_2
+    2300560: Cylinder_82
+    2300562: Cylinder_82_2
+    2300564: Cylinder_83
+    2300566: Cylinder_83_2
+    2300568: Cylinder_84
+    2300570: Cylinder_84_2
+    2300572: Cylinder_9
+    2300574: Extrude
+    2300576: Extrude_14
+    2300578: Extrude_14_2
+    2300580: Extrude_14_3
+    2300582: Extrude_14_4
+    2300584: Extrude_14_5
+    2300586: Extrude_15
+    2300588: Extrude_15_2
+    2300590: Extrude_15_3
+    2300592: Extrude_15_4
+    2300594: Extrude_15_5
+    2300596: Extrude_16
+    2300598: Extrude_16_2
+    2300600: Extrude_16_3
+    2300602: Extrude_16_4
+    2300604: Extrude_16_5
+    2300606: Extrude_17
+    2300608: Extrude_17_2
+    2300610: Extrude_17_3
+    2300612: Extrude_17_4
+    2300614: Extrude_17_5
+    2300616: Extrude_18
+    2300618: Extrude_18_2
+    2300620: Extrude_18_3
+    2300622: Extrude_18_4
+    2300624: Extrude_18_5
+    2300626: Extrude_19
+    2300628: Extrude_19_2
+    2300630: Extrude_19_3
+    2300632: Extrude_19_4
+    2300634: Extrude_19_5
+    2300636: Sphere_11
+    2300638: Sphere_11_2
+    2300640: Sphere_11_3
+    2300642: Sphere_14
+    2300644: Sphere_14_2
+    2300646: Sphere_14_3
+    2300648: Sphere_17
+    2300650: Sphere_17_2
+    2300652: Sphere_18
+    2300654: Sphere_18_2
+    2300656: Sphere_19
+    2300658: Sphere_19_2
+    2300660: Sphere_2
+    2300662: Sphere_20
+    2300664: Sphere_20_2
+    2300666: Sphere_21
+    2300668: Sphere_21_2
+    2300670: Sphere_21_3
+    2300672: Sphere_2_2
+    2300674: Sphere_2_3
+    2300676: Sphere_6
+    2300678: Sphere_6_2
+    2300680: Sphere_6_3
+    2300682: Sphere_6_4
+    2300684: Sphere_6_5
+    2300686: Sphere_7
+    2300688: Sphere_7_2
+    2300690: Sphere_7_3
+    2300692: Sphere_7_4
+    2300694: Sphere_7_5
+    2300696: Sphere_8
+    2300698: Sphere_8_2
+    2300700: Sphere_8_3
+    2300702: Torus
+    2300704: Torus_1
+    2300706: Torus_10
+    2300708: Torus_11
+    2300710: Torus_12
+    2300712: Torus_13
+    2300714: Torus_14
+    2300716: Torus_15
+    2300718: Torus_16
+    2300720: Torus_17
+    2300722: Torus_18
+    2300724: Torus_19
+    2300726: Torus_2
+    2300728: Torus_20
+    2300730: Torus_21
+    2300732: Torus_21_2
+    2300734: Torus_21_3
+    2300736: Torus_21_4
+    2300738: Torus_21_5
+    2300740: Torus_22
+    2300742: Torus_22_2
+    2300744: Torus_22_3
+    2300746: Torus_22_4
+    2300748: Torus_22_5
+    2300750: Torus_23
+    2300752: Torus_24
+    2300754: Torus_25
+    2300756: Torus_26
+    2300758: Torus_26_2
+    2300760: Torus_26_3
+    2300762: Torus_27
+    2300764: Torus_27_2
+    2300766: Torus_27_3
+    2300768: Torus_28
+    2300770: Torus_28_2
+    2300772: Torus_28_3
+    2300774: Torus_29
+    2300776: Torus_29_2
+    2300778: Torus_29_3
+    2300780: Torus_3
+    2300782: Torus_30
+    2300784: Torus_30_2
+    2300786: Torus_30_3
+    2300788: Torus_31
+    2300790: Torus_32
+    2300792: Torus_33
+    2300794: Torus_4
+    2300796: Torus_5
+    2300798: Torus_6
+    2300800: Torus_7
+    2300802: Torus_8
+    2300804: Torus_9
+    2300806: Tube
+    2300808: Tube_1
+    2300810: Tube_10
+    2300812: Tube_11
+    2300814: Tube_12
+    2300816: Tube_13
+    2300818: Tube_14
+    2300820: Tube_2
+    2300822: Tube_3
+    2300824: Tube_4
+    2300826: Tube_5
+    2300828: Tube_6
+    2300830: Tube_7
+    2300832: Tube_8
+    2300834: Tube_9
+    3300000: Capsule
+    3300002: Capsule_1
+    3300004: Capsule_10
+    3300006: Capsule_11
+    3300008: Capsule_12
+    3300010: Capsule_13
+    3300012: Capsule_14
+    3300014: Capsule_15
+    3300016: Capsule_16
+    3300018: Capsule_17
+    3300020: Capsule_18
+    3300022: Capsule_19
+    3300024: Capsule_2
+    3300026: Capsule_20
+    3300028: Capsule_21
+    3300030: Capsule_21_2
+    3300032: Capsule_21_3
+    3300034: Capsule_22
+    3300036: Capsule_22_2
+    3300038: Capsule_22_3
+    3300040: Capsule_23
+    3300042: Capsule_23_2
+    3300044: Capsule_23_3
+    3300046: Capsule_24
+    3300048: Capsule_24_2
+    3300050: Capsule_24_3
+    3300052: Capsule_25
+    3300054: Capsule_25_2
+    3300056: Capsule_25_3
+    3300058: Capsule_26
+    3300060: Capsule_26_2
+    3300062: Capsule_26_3
+    3300064: Capsule_27
+    3300066: Capsule_27_2
+    3300068: Capsule_27_3
+    3300070: Capsule_28
+    3300072: Capsule_28_2
+    3300074: Capsule_28_3
+    3300076: Capsule_29
+    3300078: Capsule_29_2
+    3300080: Capsule_29_3
+    3300082: Capsule_3
+    3300084: Capsule_30
+    3300086: Capsule_30_2
+    3300088: Capsule_30_3
+    3300090: Capsule_31
+    3300092: Capsule_31_2
+    3300094: Capsule_31_3
+    3300096: Capsule_32
+    3300098: Capsule_32_2
+    3300100: Capsule_32_3
+    3300102: Capsule_33
+    3300104: Capsule_33_2
+    3300106: Capsule_33_3
+    3300108: Capsule_34
+    3300110: Capsule_34_2
+    3300112: Capsule_35
+    3300114: Capsule_35_2
+    3300116: Capsule_36
+    3300118: Capsule_36_2
+    3300120: Capsule_4
+    3300122: Capsule_5
+    3300124: Capsule_6
+    3300126: Capsule_7
+    3300128: Capsule_8
+    3300130: Capsule_9
+    3300132: Cone
+    3300134: Cone_1
+    3300136: Cone_10
+    3300138: Cone_10_2
+    3300140: Cone_10_3
+    3300142: Cone_13
+    3300144: Cone_13_2
+    3300146: Cone_14
+    3300148: Cone_14_2
+    3300150: Cone_15
+    3300152: Cone_15_2
+    3300154: Cone_16
+    3300156: Cone_16_2
+    3300158: Cone_17
+    3300160: Cone_17_2
+    3300162: Cone_18
+    3300164: Cone_18_2
+    3300166: Cone_2
+    3300168: Cone_21
+    3300170: Cone_21_2
+    3300172: Cone_21_3
+    3300174: Cone_3
+    3300176: Cone_4
+    3300178: Cone_5
+    3300180: Cone_6
+    3300182: Cone_6_2
+    3300184: Cone_6_3
+    3300186: Cone_7
+    3300188: Cone_7_2
+    3300190: Cone_7_3
+    3300192: Cone_8
+    3300194: Cone_8_2
+    3300196: Cone_8_3
+    3300198: Cone_9
+    3300200: Cone_9_2
+    3300202: Cone_9_3
+    3300204: Cube
+    3300206: Cube_1
+    3300208: Cube_10
+    3300210: Cube_10_2
+    3300212: Cube_11
+    3300214: Cube_11_2
+    3300216: Cube_12
+    3300218: Cube_12_2
+    3300220: Cube_13
+    3300222: Cube_13_2
+    3300224: Cube_14
+    3300226: Cube_14_2
+    3300228: Cube_2
+    3300230: Cube_3
+    3300232: Cube_4
+    3300234: Cube_5
+    3300236: Cube_6
+    3300238: Cube_7
+    3300240: Cube_7_2
+    3300242: Cube_7_3
+    3300244: Cube_7_4
+    3300246: Cube_7_5
+    3300248: Cube_7_6
+    3300250: Cube_7_7
+    3300252: Cube_8
+    3300254: Cube_8_2
+    3300256: Cube_8_3
+    3300258: Cube_8_4
+    3300260: Cube_8_5
+    3300262: Cube_8_6
+    3300264: Cube_8_7
+    3300266: Cube_9
+    3300268: Cube_9_2
+    3300270: Cube_9_3
+    3300272: Cube_9_4
+    3300274: Cube_9_5
+    3300276: Cube_9_6
+    3300278: Cube_9_7
+    3300280: Cylinder
+    3300282: Cylinder_1
+    3300284: Cylinder_10
+    3300286: Cylinder_11
+    3300288: Cylinder_12
+    3300290: Cylinder_13
+    3300292: Cylinder_14
+    3300294: Cylinder_15
+    3300296: Cylinder_16
+    3300298: Cylinder_17
+    3300300: Cylinder_17_2
+    3300302: Cylinder_17_3
+    3300304: Cylinder_17_4
+    3300306: Cylinder_17_5
+    3300308: Cylinder_2
+    3300310: Cylinder_22
+    3300312: Cylinder_22_2
+    3300314: Cylinder_22_3
+    3300316: Cylinder_22_4
+    3300318: Cylinder_22_5
+    3300320: Cylinder_29
+    3300322: Cylinder_29_2
+    3300324: Cylinder_29_3
+    3300326: Cylinder_29_4
+    3300328: Cylinder_29_5
+    3300330: Cylinder_3
+    3300332: Cylinder_30
+    3300334: Cylinder_31
+    3300336: Cylinder_32
+    3300338: Cylinder_33
+    3300340: Cylinder_34
+    3300342: Cylinder_34_2
+    3300344: Cylinder_34_3
+    3300346: Cylinder_35
+    3300348: Cylinder_35_2
+    3300350: Cylinder_35_3
+    3300352: Cylinder_36
+    3300354: Cylinder_36_2
+    3300356: Cylinder_36_3
+    3300358: Cylinder_37
+    3300360: Cylinder_37_2
+    3300362: Cylinder_37_3
+    3300364: Cylinder_38
+    3300366: Cylinder_38_2
+    3300368: Cylinder_38_3
+    3300370: Cylinder_39
+    3300372: Cylinder_39_2
+    3300374: Cylinder_39_3
+    3300376: Cylinder_4
+    3300378: Cylinder_40
+    3300380: Cylinder_40_2
+    3300382: Cylinder_40_3
+    3300384: Cylinder_41
+    3300386: Cylinder_41_2
+    3300388: Cylinder_41_3
+    3300390: Cylinder_42
+    3300392: Cylinder_42_2
+    3300394: Cylinder_42_3
+    3300396: Cylinder_43
+    3300398: Cylinder_43_2
+    3300400: Cylinder_44
+    3300402: Cylinder_44_2
+    3300404: Cylinder_45
+    3300406: Cylinder_45_2
+    3300408: Cylinder_46
+    3300410: Cylinder_46_2
+    3300412: Cylinder_47
+    3300414: Cylinder_47_2
+    3300416: Cylinder_48
+    3300418: Cylinder_48_2
+    3300420: Cylinder_49
+    3300422: Cylinder_49_2
+    3300424: Cylinder_5
+    3300426: Cylinder_50
+    3300428: Cylinder_50_2
+    3300430: Cylinder_51
+    3300432: Cylinder_51_2
+    3300434: Cylinder_52
+    3300436: Cylinder_52_2
+    3300438: Cylinder_53
+    3300440: Cylinder_53_2
+    3300442: Cylinder_54
+    3300444: Cylinder_54_2
+    3300446: Cylinder_55
+    3300448: Cylinder_55_2
+    3300450: Cylinder_56
+    3300452: Cylinder_56_2
+    3300454: Cylinder_57
+    3300456: Cylinder_57_2
+    3300458: Cylinder_58
+    3300460: Cylinder_58_2
+    3300462: Cylinder_59
+    3300464: Cylinder_59_2
+    3300466: Cylinder_6
+    3300468: Cylinder_60
+    3300470: Cylinder_60_2
+    3300472: Cylinder_61
+    3300474: Cylinder_61_2
+    3300476: Cylinder_62
+    3300478: Cylinder_62_2
+    3300480: Cylinder_63
+    3300482: Cylinder_63_2
+    3300484: Cylinder_64
+    3300486: Cylinder_64_2
+    3300488: Cylinder_65
+    3300490: Cylinder_65_2
+    3300492: Cylinder_66
+    3300494: Cylinder_66_2
+    3300496: Cylinder_67
+    3300498: Cylinder_67_2
+    3300500: Cylinder_68
+    3300502: Cylinder_68_2
+    3300504: Cylinder_69
+    3300506: Cylinder_69_2
+    3300508: Cylinder_7
+    3300510: Cylinder_70
+    3300512: Cylinder_70_2
+    3300514: Cylinder_71
+    3300516: Cylinder_71_2
+    3300518: Cylinder_72
+    3300520: Cylinder_72_2
+    3300522: Cylinder_73
+    3300524: Cylinder_73_2
+    3300526: Cylinder_74
+    3300528: Cylinder_74_2
+    3300530: Cylinder_75
+    3300532: Cylinder_75_2
+    3300534: Cylinder_76
+    3300536: Cylinder_76_2
+    3300538: Cylinder_77
+    3300540: Cylinder_77_2
+    3300542: Cylinder_78
+    3300544: Cylinder_78_2
+    3300546: Cylinder_79
+    3300548: Cylinder_79_2
+    3300550: Cylinder_8
+    3300552: Cylinder_80
+    3300554: Cylinder_80_2
+    3300556: Cylinder_81
+    3300558: Cylinder_81_2
+    3300560: Cylinder_82
+    3300562: Cylinder_82_2
+    3300564: Cylinder_83
+    3300566: Cylinder_83_2
+    3300568: Cylinder_84
+    3300570: Cylinder_84_2
+    3300572: Cylinder_9
+    3300574: Extrude
+    3300576: Extrude_14
+    3300578: Extrude_14_2
+    3300580: Extrude_14_3
+    3300582: Extrude_14_4
+    3300584: Extrude_14_5
+    3300586: Extrude_15
+    3300588: Extrude_15_2
+    3300590: Extrude_15_3
+    3300592: Extrude_15_4
+    3300594: Extrude_15_5
+    3300596: Extrude_16
+    3300598: Extrude_16_2
+    3300600: Extrude_16_3
+    3300602: Extrude_16_4
+    3300604: Extrude_16_5
+    3300606: Extrude_17
+    3300608: Extrude_17_2
+    3300610: Extrude_17_3
+    3300612: Extrude_17_4
+    3300614: Extrude_17_5
+    3300616: Extrude_18
+    3300618: Extrude_18_2
+    3300620: Extrude_18_3
+    3300622: Extrude_18_4
+    3300624: Extrude_18_5
+    3300626: Extrude_19
+    3300628: Extrude_19_2
+    3300630: Extrude_19_3
+    3300632: Extrude_19_4
+    3300634: Extrude_19_5
+    3300636: Sphere_11
+    3300638: Sphere_11_2
+    3300640: Sphere_11_3
+    3300642: Sphere_14
+    3300644: Sphere_14_2
+    3300646: Sphere_14_3
+    3300648: Sphere_17
+    3300650: Sphere_17_2
+    3300652: Sphere_18
+    3300654: Sphere_18_2
+    3300656: Sphere_19
+    3300658: Sphere_19_2
+    3300660: Sphere_2
+    3300662: Sphere_20
+    3300664: Sphere_20_2
+    3300666: Sphere_21
+    3300668: Sphere_21_2
+    3300670: Sphere_21_3
+    3300672: Sphere_2_2
+    3300674: Sphere_2_3
+    3300676: Sphere_6
+    3300678: Sphere_6_2
+    3300680: Sphere_6_3
+    3300682: Sphere_6_4
+    3300684: Sphere_6_5
+    3300686: Sphere_7
+    3300688: Sphere_7_2
+    3300690: Sphere_7_3
+    3300692: Sphere_7_4
+    3300694: Sphere_7_5
+    3300696: Sphere_8
+    3300698: Sphere_8_2
+    3300700: Sphere_8_3
+    3300702: Torus
+    3300704: Torus_1
+    3300706: Torus_10
+    3300708: Torus_11
+    3300710: Torus_12
+    3300712: Torus_13
+    3300714: Torus_14
+    3300716: Torus_15
+    3300718: Torus_16
+    3300720: Torus_17
+    3300722: Torus_18
+    3300724: Torus_19
+    3300726: Torus_2
+    3300728: Torus_20
+    3300730: Torus_21
+    3300732: Torus_21_2
+    3300734: Torus_21_3
+    3300736: Torus_21_4
+    3300738: Torus_21_5
+    3300740: Torus_22
+    3300742: Torus_22_2
+    3300744: Torus_22_3
+    3300746: Torus_22_4
+    3300748: Torus_22_5
+    3300750: Torus_23
+    3300752: Torus_24
+    3300754: Torus_25
+    3300756: Torus_26
+    3300758: Torus_26_2
+    3300760: Torus_26_3
+    3300762: Torus_27
+    3300764: Torus_27_2
+    3300766: Torus_27_3
+    3300768: Torus_28
+    3300770: Torus_28_2
+    3300772: Torus_28_3
+    3300774: Torus_29
+    3300776: Torus_29_2
+    3300778: Torus_29_3
+    3300780: Torus_3
+    3300782: Torus_30
+    3300784: Torus_30_2
+    3300786: Torus_30_3
+    3300788: Torus_31
+    3300790: Torus_32
+    3300792: Torus_33
+    3300794: Torus_4
+    3300796: Torus_5
+    3300798: Torus_6
+    3300800: Torus_7
+    3300802: Torus_8
+    3300804: Torus_9
+    3300806: Tube
+    3300808: Tube_1
+    3300810: Tube_10
+    3300812: Tube_11
+    3300814: Tube_12
+    3300816: Tube_13
+    3300818: Tube_14
+    3300820: Tube_2
+    3300822: Tube_3
+    3300824: Tube_4
+    3300826: Tube_5
+    3300828: Tube_6
+    3300830: Tube_7
+    3300832: Tube_8
+    3300834: Tube_9
+    4300000: Sphere_7
+    4300002: Sphere_6
+    4300004: Extrude_17
+    4300006: Extrude_15
+    4300008: Extrude_19
+    4300010: Extrude_14
+    4300012: Extrude_18
+    4300014: Extrude_16
+    4300016: Cylinder_22
+    4300018: Cylinder_17
+    4300020: Sphere_7_2
+    4300022: Sphere_6_2
+    4300024: Extrude_17_2
+    4300026: Extrude_15_2
+    4300028: Extrude_19_2
+    4300030: Extrude_14_2
+    4300032: Extrude_18_2
+    4300034: Extrude_16_2
+    4300036: Cylinder_22_2
+    4300038: Cylinder_17_2
+    4300040: Sphere_7_3
+    4300042: Sphere_6_3
+    4300044: Extrude_17_3
+    4300046: Extrude_15_3
+    4300048: Extrude_19_3
+    4300050: Extrude_14_3
+    4300052: Extrude_18_3
+    4300054: Extrude_16_3
+    4300056: Cylinder_22_3
+    4300058: Cylinder_17_3
+    4300060: Sphere_7_4
+    4300062: Sphere_6_4
+    4300064: Extrude_17_4
+    4300066: Extrude_15_4
+    4300068: Extrude_19_4
+    4300070: Extrude_14_4
+    4300072: Extrude_18_4
+    4300074: Extrude_16_4
+    4300076: Cylinder_22_4
+    4300078: Cylinder_17_4
+    4300080: Sphere_7_5
+    4300082: Sphere_6_5
+    4300084: Extrude_17_5
+    4300086: Extrude_15_5
+    4300088: Extrude_19_5
+    4300090: Extrude_14_5
+    4300092: Extrude_18_5
+    4300094: Extrude_16_5
+    4300096: Cylinder_22_5
+    4300098: Cylinder_17_5
+    4300100: Tube_14
+    4300102: Tube_13
+    4300104: Tube_12
+    4300106: Tube_11
+    4300108: Tube_10
+    4300110: Tube_9
+    4300112: Tube_8
+    4300114: Tube_7
+    4300116: Tube_6
+    4300118: Tube_5
+    4300120: Capsule_33
+    4300122: Capsule_32
+    4300124: Capsule_31
+    4300126: Capsule_30
+    4300128: Capsule_29
+    4300130: Capsule_28
+    4300132: Capsule_27
+    4300134: Capsule_26
+    4300136: Capsule_25
+    4300138: Capsule_24
+    4300140: Capsule_23
+    4300142: Capsule_22
+    4300144: Capsule_21
+    4300146: Capsule_20
+    4300148: Capsule_19
+    4300150: Capsule_18
+    4300152: Capsule_17
+    4300154: Capsule_16
+    4300156: Capsule_15
+    4300158: Capsule_14
+    4300160: Capsule_13
+    4300162: Capsule_12
+    4300164: Capsule_11
+    4300166: Capsule_10
+    4300168: Sphere_14
+    4300170: Sphere_11
+    4300172: Sphere_8
+    4300174: Sphere_2
+    4300176: Sphere_21
+    4300178: Cylinder_39
+    4300180: Torus_33
+    4300182: Cylinder_38
+    4300184: Torus_32
+    4300186: Capsule_9
+    4300188: Capsule_8
+    4300190: Capsule_7
+    4300192: Capsule_6
+    4300194: Capsule_4
+    4300196: Capsule_3
+    4300198: Capsule_2
+    4300200: Capsule_1
+    4300202: Capsule_5
+    4300204: Cone_10
+    4300206: Cylinder_42
+    4300208: Cone_9
+    4300210: Cone_8
+    4300212: Cylinder_41
+    4300214: Cone_7
+    4300216: Cone_6
+    4300218: Cylinder_40
+    4300220: Cone_21
+    4300222: Cylinder_37
+    4300224: Torus_31
+    4300226: Torus_30
+    4300228: Torus_29
+    4300230: Cylinder_36
+    4300232: Cylinder_35
+    4300234: Cylinder_34
+    4300236: Torus_28
+    4300238: Torus_27
+    4300240: Torus_26
+    4300242: Torus_29_2
+    4300244: Torus_27_2
+    4300246: Cylinder_64
+    4300248: Capsule_36
+    4300250: Capsule_35
+    4300252: Capsule_34
+    4300254: Capsule_33_2
+    4300256: Capsule_32_2
+    4300258: Capsule_31_2
+    4300260: Capsule_30_2
+    4300262: Capsule_29_2
+    4300264: Capsule_28_2
+    4300266: Capsule_27_2
+    4300268: Capsule_26_2
+    4300270: Capsule_25_2
+    4300272: Capsule_24_2
+    4300274: Capsule_23_2
+    4300276: Capsule_22_2
+    4300278: Capsule_21_2
+    4300280: Cone_15
+    4300282: Cone_10_2
+    4300284: Cone_9_2
+    4300286: Cone_8_2
+    4300288: Cone_7_2
+    4300290: Cone_6_2
+    4300292: Cone_21_2
+    4300294: Cone_18
+    4300296: Cone_17
+    4300298: Cone_16
+    4300300: Cone_14
+    4300302: Cone_13
+    4300304: Sphere_21_2
+    4300306: Cylinder_84
+    4300308: Cylinder_83
+    4300310: Cylinder_82
+    4300312: Cylinder_81
+    4300314: Cylinder_80
+    4300316: Cylinder_79
+    4300318: Cylinder_78
+    4300320: Cylinder_77
+    4300322: Cylinder_76
+    4300324: Cylinder_75
+    4300326: Cylinder_74
+    4300328: Cylinder_73
+    4300330: Cylinder_72
+    4300332: Cylinder_71
+    4300334: Cylinder_70
+    4300336: Cylinder_69
+    4300338: Cylinder_68
+    4300340: Torus_30_2
+    4300342: Cylinder_67
+    4300344: Torus_28_2
+    4300346: Cylinder_66
+    4300348: Cylinder_65
+    4300350: Cylinder_63
+    4300352: Torus_26_2
+    4300354: Cylinder_62
+    4300356: Cylinder_61
+    4300358: Sphere_20
+    4300360: Cylinder_60
+    4300362: Sphere_19
+    4300364: Cylinder_59
+    4300366: Sphere_18
+    4300368: Cylinder_58
+    4300370: Sphere_17
+    4300372: Cylinder_57
+    4300374: Sphere_14_2
+    4300376: Cylinder_56
+    4300378: Sphere_11_2
+    4300380: Cylinder_55
+    4300382: Sphere_8_2
+    4300384: Cylinder_54
+    4300386: Cube_14
+    4300388: Cylinder_53
+    4300390: Cylinder_52
+    4300392: Cube_13
+    4300394: Cylinder_51
+    4300396: Cylinder_50
+    4300398: Cube_12
+    4300400: Cylinder_49
+    4300402: Cylinder_48
+    4300404: Cube_11
+    4300406: Cylinder_47
+    4300408: Cylinder_46
+    4300410: Cube_10
+    4300412: Cylinder_45
+    4300414: Cylinder_44
+    4300416: Cube_9
+    4300418: Cylinder_43
+    4300420: Cylinder_42_2
+    4300422: Cube_8
+    4300424: Cylinder_41_2
+    4300426: Cylinder_40_2
+    4300428: Cube_7
+    4300430: Cylinder_39_2
+    4300432: Cylinder_38_2
+    4300434: Cylinder_37_2
+    4300436: Cylinder_36_2
+    4300438: Sphere_2_2
+    4300440: Cylinder_35_2
+    4300442: Cylinder_34_2
+    4300444: Torus_29_3
+    4300446: Torus_27_3
+    4300448: Cylinder_64_2
+    4300450: Capsule_36_2
+    4300452: Capsule_35_2
+    4300454: Capsule_34_2
+    4300456: Capsule_33_3
+    4300458: Capsule_32_3
+    4300460: Capsule_31_3
+    4300462: Capsule_30_3
+    4300464: Capsule_29_3
+    4300466: Capsule_28_3
+    4300468: Capsule_27_3
+    4300470: Capsule_26_3
+    4300472: Capsule_25_3
+    4300474: Capsule_24_3
+    4300476: Capsule_23_3
+    4300478: Capsule_22_3
+    4300480: Capsule_21_3
+    4300482: Cone_21_3
+    4300484: Cone_18_2
+    4300486: Cone_17_2
+    4300488: Cone_16_2
+    4300490: Cone_14_2
+    4300492: Cone_13_2
+    4300494: Cone_15_2
+    4300496: Cone_10_3
+    4300498: Cone_9_3
+    4300500: Cone_8_3
+    4300502: Cone_7_3
+    4300504: Cone_6_3
+    4300506: Sphere_21_3
+    4300508: Cylinder_84_2
+    4300510: Cylinder_83_2
+    4300512: Cylinder_82_2
+    4300514: Cylinder_81_2
+    4300516: Cylinder_80_2
+    4300518: Cylinder_79_2
+    4300520: Cylinder_78_2
+    4300522: Cylinder_77_2
+    4300524: Cylinder_76_2
+    4300526: Cylinder_75_2
+    4300528: Cylinder_74_2
+    4300530: Cylinder_73_2
+    4300532: Cylinder_72_2
+    4300534: Cylinder_71_2
+    4300536: Cylinder_70_2
+    4300538: Cylinder_69_2
+    4300540: Cylinder_68_2
+    4300542: Torus_30_3
+    4300544: Cylinder_67_2
+    4300546: Torus_28_3
+    4300548: Cylinder_66_2
+    4300550: Cylinder_65_2
+    4300552: Cylinder_63_2
+    4300554: Torus_26_3
+    4300556: Cylinder_62_2
+    4300558: Cylinder_61_2
+    4300560: Sphere_20_2
+    4300562: Cylinder_60_2
+    4300564: Sphere_19_2
+    4300566: Cylinder_59_2
+    4300568: Sphere_18_2
+    4300570: Cylinder_58_2
+    4300572: Sphere_17_2
+    4300574: Cylinder_57_2
+    4300576: Sphere_14_3
+    4300578: Cylinder_56_2
+    4300580: Sphere_11_3
+    4300582: Cylinder_55_2
+    4300584: Sphere_8_3
+    4300586: Cylinder_54_2
+    4300588: Cube_14_2
+    4300590: Cylinder_53_2
+    4300592: Cylinder_52_2
+    4300594: Cube_13_2
+    4300596: Cylinder_51_2
+    4300598: Cylinder_50_2
+    4300600: Cube_12_2
+    4300602: Cylinder_49_2
+    4300604: Cylinder_48_2
+    4300606: Cube_11_2
+    4300608: Cylinder_47_2
+    4300610: Cylinder_46_2
+    4300612: Cube_10_2
+    4300614: Cylinder_45_2
+    4300616: Cylinder_44_2
+    4300618: Cube_9_2
+    4300620: Cylinder_43_2
+    4300622: Cylinder_42_3
+    4300624: Cube_8_2
+    4300626: Cylinder_41_3
+    4300628: Cylinder_40_3
+    4300630: Cube_7_2
+    4300632: Cylinder_39_3
+    4300634: Cylinder_38_3
+    4300636: Cylinder_37_3
+    4300638: Cylinder_36_3
+    4300640: Sphere_2_3
+    4300642: Cylinder_35_3
+    4300644: Cylinder_34_3
+    4300646: Cone_5
+    4300648: Torus_25
+    4300650: Cylinder_33
+    4300652: Cone_4
+    4300654: Torus_24
+    4300656: Cylinder_32
+    4300658: Cone_3
+    4300660: Torus_23
+    4300662: Cylinder_31
+    4300664: Torus_22
+    4300666: Torus_21
+    4300668: Cylinder_30
+    4300670: Cylinder_29
+    4300672: Cube_9_3
+    4300674: Cube_8_3
+    4300676: Cube_7_3
+    4300678: Cube_9_4
+    4300680: Cube_8_4
+    4300682: Cube_7_4
+    4300684: Cube_9_5
+    4300686: Cube_8_5
+    4300688: Cube_7_5
+    4300690: Cube_9_6
+    4300692: Cube_8_6
+    4300694: Cube_7_6
+    4300696: Cube_9_7
+    4300698: Cube_8_7
+    4300700: Cube_7_7
+    4300702: Cube_6
+    4300704: Cube_5
+    4300706: Cube_4
+    4300708: Cube_3
+    4300710: Torus_22_2
+    4300712: Cylinder_29_2
+    4300714: Torus_21_2
+    4300716: Torus_22_3
+    4300718: Cylinder_29_3
+    4300720: Torus_21_3
+    4300722: Torus_22_4
+    4300724: Cylinder_29_4
+    4300726: Torus_21_4
+    4300728: Torus_22_5
+    4300730: Cylinder_29_5
+    4300732: Torus_21_5
+    4300734: Torus_20
+    4300736: Torus_19
+    4300738: Torus_18
+    4300740: Torus_17
+    4300742: Torus_16
+    4300744: Torus_15
+    4300746: Cube_2
+    4300748: Cube_1
+    4300750: Cone_2
+    4300752: Torus_14
+    4300754: Cylinder_16
+    4300756: Cone_1
+    4300758: Torus_13
+    4300760: Cylinder_15
+    4300762: Cone
+    4300764: Torus_12
+    4300766: Cylinder_14
+    4300768: Cylinder_13
+    4300770: Torus_11
+    4300772: Cylinder_12
+    4300774: Cylinder_11
+    4300776: Cylinder_10
+    4300778: Torus_10
+    4300780: Cylinder_9
+    4300782: Cylinder_8
+    4300784: Cylinder_7
+    4300786: Cylinder_6
+    4300788: Cube
+    4300790: Torus_9
+    4300792: Cylinder_5
+    4300794: Torus_8
+    4300796: Torus_7
+    4300798: Cylinder_4
+    4300800: Torus_6
+    4300802: Torus_5
+    4300804: Cylinder_3
+    4300806: Torus_4
+    4300808: Torus_3
+    4300810: Cylinder_2
+    4300812: Torus_2
+    4300814: Torus_1
+    4300816: Cylinder_1
+    4300818: Torus
+    4300820: Capsule
+    4300822: Extrude
+    4300824: Cylinder
+    4300826: Tube_4
+    4300828: Tube_3
+    4300830: Tube_2
+    4300832: Tube_1
+    4300834: Tube
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: adidas
+        weight: 1
+      - path: adidas/Cube_7_7
+        weight: 1
+      - path: adidas/Cube_8_7
+        weight: 1
+      - path: adidas/Cube_9_7
+        weight: 1
+      - path: adidas_1
+        weight: 1
+      - path: adidas_1/Cube_7_6
+        weight: 1
+      - path: adidas_1/Cube_8_6
+        weight: 1
+      - path: adidas_1/Cube_9_6
+        weight: 1
+      - path: adidas_2
+        weight: 1
+      - path: adidas_2/Cube_7_5
+        weight: 1
+      - path: adidas_2/Cube_8_5
+        weight: 1
+      - path: adidas_2/Cube_9_5
+        weight: 1
+      - path: adidas_3
+        weight: 1
+      - path: adidas_3/Cube_7_4
+        weight: 1
+      - path: adidas_3/Cube_8_4
+        weight: 1
+      - path: adidas_3/Cube_9_4
+        weight: 1
+      - path: adidas_4
+        weight: 1
+      - path: adidas_4/Cube_7_3
+        weight: 1
+      - path: adidas_4/Cube_8_3
+        weight: 1
+      - path: adidas_4/Cube_9_3
+        weight: 1
+      - path: Capsule
+        weight: 1
+      - path: Capsule_1
+        weight: 1
+      - path: Capsule_2
+        weight: 1
+      - path: Capsule_3
+        weight: 1
+      - path: Capsule_4
+        weight: 1
+      - path: Capsule_5
+        weight: 1
+      - path: Capsule_6
+        weight: 1
+      - path: Capsule_7
+        weight: 1
+      - path: Capsule_8
+        weight: 1
+      - path: Capsule_9
+        weight: 1
+      - path: Capsule_10
+        weight: 1
+      - path: Capsule_11
+        weight: 1
+      - path: Capsule_12
+        weight: 1
+      - path: Capsule_13
+        weight: 1
+      - path: Capsule_14
+        weight: 1
+      - path: Capsule_15
+        weight: 1
+      - path: Capsule_16
+        weight: 1
+      - path: Capsule_17
+        weight: 1
+      - path: Capsule_18
+        weight: 1
+      - path: Capsule_19
+        weight: 1
+      - path: Capsule_20
+        weight: 1
+      - path: Capsule_21
+        weight: 1
+      - path: Capsule_22
+        weight: 1
+      - path: Capsule_23
+        weight: 1
+      - path: Capsule_24
+        weight: 1
+      - path: Capsule_25
+        weight: 1
+      - path: Capsule_26
+        weight: 1
+      - path: Capsule_27
+        weight: 1
+      - path: Capsule_28
+        weight: 1
+      - path: Capsule_29
+        weight: 1
+      - path: Capsule_30
+        weight: 1
+      - path: Capsule_31
+        weight: 1
+      - path: Capsule_32
+        weight: 1
+      - path: Capsule_33
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Cone
+        weight: 1
+      - path: Cone_1
+        weight: 1
+      - path: Cone_2
+        weight: 1
+      - path: Cone_3
+        weight: 1
+      - path: Cone_4
+        weight: 1
+      - path: Cone_5
+        weight: 1
+      - path: Cone_6
+        weight: 1
+      - path: Cone_7
+        weight: 1
+      - path: Cone_8
+        weight: 1
+      - path: Cone_9
+        weight: 1
+      - path: Cone_10
+        weight: 1
+      - path: Cone_21
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_1
+        weight: 1
+      - path: Cube_2
+        weight: 1
+      - path: Cube_3
+        weight: 1
+      - path: Cube_4
+        weight: 1
+      - path: Cube_5
+        weight: 1
+      - path: Cube_6
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_1
+        weight: 1
+      - path: Cylinder_2
+        weight: 1
+      - path: Cylinder_3
+        weight: 1
+      - path: Cylinder_4
+        weight: 1
+      - path: Cylinder_5
+        weight: 1
+      - path: Cylinder_6
+        weight: 1
+      - path: Cylinder_7
+        weight: 1
+      - path: Cylinder_8
+        weight: 1
+      - path: Cylinder_9
+        weight: 1
+      - path: Cylinder_10
+        weight: 1
+      - path: Cylinder_11
+        weight: 1
+      - path: Cylinder_12
+        weight: 1
+      - path: Cylinder_13
+        weight: 1
+      - path: Cylinder_14
+        weight: 1
+      - path: Cylinder_15
+        weight: 1
+      - path: Cylinder_16
+        weight: 1
+      - path: Cylinder_29
+        weight: 1
+      - path: Cylinder_30
+        weight: 1
+      - path: Cylinder_31
+        weight: 1
+      - path: Cylinder_32
+        weight: 1
+      - path: Cylinder_33
+        weight: 1
+      - path: Cylinder_34
+        weight: 1
+      - path: Cylinder_35
+        weight: 1
+      - path: Cylinder_36
+        weight: 1
+      - path: Cylinder_37
+        weight: 1
+      - path: Cylinder_38
+        weight: 1
+      - path: Cylinder_39
+        weight: 1
+      - path: Cylinder_40
+        weight: 1
+      - path: Cylinder_41
+        weight: 1
+      - path: Cylinder_42
+        weight: 1
+      - path: Extrude
+        weight: 1
+      - path: Null_1_4
+        weight: 1
+      - path: Null_1_4/Null_4_2
+        weight: 1
+      - path: Null_1_4/Null_4_2/Cylinder_17_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Cylinder_22_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_14_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_14_4/Extrude_18_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_14_4/Extrude_18_4/Extrude_16_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_17_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_17_4/Extrude_15_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Extrude_17_4/Extrude_15_4/Extrude_19_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Null_1_5
+        weight: 1
+      - path: Null_1_4/Null_4_2/Null_1_5/Sphere_6_4
+        weight: 1
+      - path: Null_1_4/Null_4_2/Null_1_5/Sphere_7_4
+        weight: 1
+      - path: Null_2_2
+        weight: 1
+      - path: Null_2_2/Null_3_2
+        weight: 1
+      - path: Null_2_2/Null_3_2/Cylinder_17_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Cylinder_22_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_14_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_14_3/Extrude_18_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_14_3/Extrude_18_3/Extrude_16_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_17_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_17_3/Extrude_15_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Extrude_17_3/Extrude_15_3/Extrude_19_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Null_1_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Null_1_3/Sphere_6_3
+        weight: 1
+      - path: Null_2_2/Null_3_2/Null_1_3/Sphere_7_3
+        weight: 1
+      - path: Null_3
+        weight: 1
+      - path: Null_3/Null_2
+        weight: 1
+      - path: Null_3/Null_2/Cylinder_17_2
+        weight: 1
+      - path: Null_3/Null_2/Cylinder_22_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_14_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_14_2/Extrude_18_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_14_2/Extrude_18_2/Extrude_16_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_17_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_17_2/Extrude_15_2
+        weight: 1
+      - path: Null_3/Null_2/Extrude_17_2/Extrude_15_2/Extrude_19_2
+        weight: 1
+      - path: Null_3/Null_2/Null_1_2
+        weight: 1
+      - path: Null_3/Null_2/Null_1_2/Sphere_6_2
+        weight: 1
+      - path: Null_3/Null_2/Null_1_2/Sphere_7_2
+        weight: 1
+      - path: Null_4
+        weight: 1
+      - path: Null_4/Null
+        weight: 1
+      - path: Null_4/Null/Cylinder_17
+        weight: 1
+      - path: Null_4/Null/Cylinder_22
+        weight: 1
+      - path: Null_4/Null/Extrude_14
+        weight: 1
+      - path: Null_4/Null/Extrude_14/Extrude_18
+        weight: 1
+      - path: Null_4/Null/Extrude_14/Extrude_18/Extrude_16
+        weight: 1
+      - path: Null_4/Null/Extrude_17
+        weight: 1
+      - path: Null_4/Null/Extrude_17/Extrude_15
+        weight: 1
+      - path: Null_4/Null/Extrude_17/Extrude_15/Extrude_19
+        weight: 1
+      - path: Null_4/Null/Null_1
+        weight: 1
+      - path: Null_4/Null/Null_1/Sphere_6
+        weight: 1
+      - path: Null_4/Null/Null_1/Sphere_7
+        weight: 1
+      - path: Null_5
+        weight: 1
+      - path: Null_5/Null_6
+        weight: 1
+      - path: Null_5/Null_6/Cylinder_17_5
+        weight: 1
+      - path: Null_5/Null_6/Cylinder_22_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_14_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_14_5/Extrude_18_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_14_5/Extrude_18_5/Extrude_16_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_17_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_17_5/Extrude_15_5
+        weight: 1
+      - path: Null_5/Null_6/Extrude_17_5/Extrude_15_5/Extrude_19_5
+        weight: 1
+      - path: Null_5/Null_6/Null_1_6
+        weight: 1
+      - path: Null_5/Null_6/Null_1_6/Sphere_6_5
+        weight: 1
+      - path: Null_5/Null_6/Null_1_6/Sphere_7_5
+        weight: 1
+      - path: sewing_pipes_5
+        weight: 1
+      - path: sewing_pipes_5/Cylinder_29_5
+        weight: 1
+      - path: sewing_pipes_5/Torus_21_5
+        weight: 1
+      - path: sewing_pipes_5/Torus_22_5
+        weight: 1
+      - path: sewing_pipes_7
+        weight: 1
+      - path: sewing_pipes_7/Cylinder_29_4
+        weight: 1
+      - path: sewing_pipes_7/Torus_21_4
+        weight: 1
+      - path: sewing_pipes_7/Torus_22_4
+        weight: 1
+      - path: sewing_pipes_9
+        weight: 1
+      - path: sewing_pipes_9/Cylinder_29_3
+        weight: 1
+      - path: sewing_pipes_9/Torus_21_3
+        weight: 1
+      - path: sewing_pipes_9/Torus_22_3
+        weight: 1
+      - path: sewing_pipes_10
+        weight: 1
+      - path: sewing_pipes_10/Cylinder_29_2
+        weight: 1
+      - path: sewing_pipes_10/Torus_21_2
+        weight: 1
+      - path: sewing_pipes_10/Torus_22_2
+        weight: 1
+      - path: Sphere_2
+        weight: 1
+      - path: Sphere_8
+        weight: 1
+      - path: Sphere_11
+        weight: 1
+      - path: Sphere_14
+        weight: 1
+      - path: Sphere_21
+        weight: 1
+      - path: Torus
+        weight: 1
+      - path: Torus_1
+        weight: 1
+      - path: Torus_2
+        weight: 1
+      - path: Torus_3
+        weight: 1
+      - path: Torus_4
+        weight: 1
+      - path: Torus_5
+        weight: 1
+      - path: Torus_6
+        weight: 1
+      - path: Torus_7
+        weight: 1
+      - path: Torus_8
+        weight: 1
+      - path: Torus_9
+        weight: 1
+      - path: Torus_10
+        weight: 1
+      - path: Torus_11
+        weight: 1
+      - path: Torus_12
+        weight: 1
+      - path: Torus_13
+        weight: 1
+      - path: Torus_14
+        weight: 1
+      - path: Torus_15
+        weight: 1
+      - path: Torus_16
+        weight: 1
+      - path: Torus_17
+        weight: 1
+      - path: Torus_18
+        weight: 1
+      - path: Torus_19
+        weight: 1
+      - path: Torus_20
+        weight: 1
+      - path: Torus_21
+        weight: 1
+      - path: Torus_22
+        weight: 1
+      - path: Torus_23
+        weight: 1
+      - path: Torus_24
+        weight: 1
+      - path: Torus_25
+        weight: 1
+      - path: Torus_26
+        weight: 1
+      - path: Torus_27
+        weight: 1
+      - path: Torus_28
+        weight: 1
+      - path: Torus_29
+        weight: 1
+      - path: Torus_30
+        weight: 1
+      - path: Torus_31
+        weight: 1
+      - path: Torus_32
+        weight: 1
+      - path: Torus_33
+        weight: 1
+      - path: tower1
+        weight: 1
+      - path: tower1/cone1
+        weight: 1
+      - path: tower1/cone1/Cone_13_2
+        weight: 1
+      - path: tower1/cone1/Cone_14_2
+        weight: 1
+      - path: tower1/cone1/Cone_16_2
+        weight: 1
+      - path: tower1/cone1/Cone_17_2
+        weight: 1
+      - path: tower1/cone1/Cone_18_2
+        weight: 1
+      - path: tower1/cone1/Cone_21_3
+        weight: 1
+      - path: tower1/cone2
+        weight: 1
+      - path: tower1/cone2/Cone_6_3
+        weight: 1
+      - path: tower1/cone2/Cone_7_3
+        weight: 1
+      - path: tower1/cone2/Cone_8_3
+        weight: 1
+      - path: tower1/cone2/Cone_9_3
+        weight: 1
+      - path: tower1/cone2/Cone_10_3
+        weight: 1
+      - path: tower1/cone2/Cone_15_2
+        weight: 1
+      - path: tower1/Cube_7_2
+        weight: 1
+      - path: tower1/Cube_8_2
+        weight: 1
+      - path: tower1/Cube_9_2
+        weight: 1
+      - path: tower1/Cube_10_2
+        weight: 1
+      - path: tower1/Cube_11_2
+        weight: 1
+      - path: tower1/Cube_12_2
+        weight: 1
+      - path: tower1/Cube_13_2
+        weight: 1
+      - path: tower1/Cube_14_2
+        weight: 1
+      - path: tower1/Cylinder_34_3
+        weight: 1
+      - path: tower1/Cylinder_35_3
+        weight: 1
+      - path: tower1/Cylinder_36_3
+        weight: 1
+      - path: tower1/Cylinder_37_3
+        weight: 1
+      - path: tower1/Cylinder_38_3
+        weight: 1
+      - path: tower1/Cylinder_39_3
+        weight: 1
+      - path: tower1/Cylinder_40_3
+        weight: 1
+      - path: tower1/Cylinder_41_3
+        weight: 1
+      - path: tower1/Cylinder_42_3
+        weight: 1
+      - path: tower1/Cylinder_43_2
+        weight: 1
+      - path: tower1/Cylinder_44_2
+        weight: 1
+      - path: tower1/Cylinder_45_2
+        weight: 1
+      - path: tower1/Cylinder_46_2
+        weight: 1
+      - path: tower1/Cylinder_47_2
+        weight: 1
+      - path: tower1/Cylinder_48_2
+        weight: 1
+      - path: tower1/Cylinder_49_2
+        weight: 1
+      - path: tower1/Cylinder_50_2
+        weight: 1
+      - path: tower1/Cylinder_51_2
+        weight: 1
+      - path: tower1/Cylinder_52_2
+        weight: 1
+      - path: tower1/Cylinder_53_2
+        weight: 1
+      - path: tower1/Cylinder_54_2
+        weight: 1
+      - path: tower1/Cylinder_55_2
+        weight: 1
+      - path: tower1/Cylinder_56_2
+        weight: 1
+      - path: tower1/Cylinder_57_2
+        weight: 1
+      - path: tower1/Cylinder_58_2
+        weight: 1
+      - path: tower1/Cylinder_59_2
+        weight: 1
+      - path: tower1/Cylinder_60_2
+        weight: 1
+      - path: tower1/Cylinder_61_2
+        weight: 1
+      - path: tower1/Cylinder_62_2
+        weight: 1
+      - path: tower1/Cylinder_63_2
+        weight: 1
+      - path: tower1/Cylinder_65_2
+        weight: 1
+      - path: tower1/Cylinder_66_2
+        weight: 1
+      - path: tower1/Cylinder_67_2
+        weight: 1
+      - path: tower1/Cylinder_68_2
+        weight: 1
+      - path: tower1/Cylinder_69_2
+        weight: 1
+      - path: tower1/Cylinder_70_2
+        weight: 1
+      - path: tower1/Cylinder_71_2
+        weight: 1
+      - path: tower1/Cylinder_72_2
+        weight: 1
+      - path: tower1/Cylinder_73_2
+        weight: 1
+      - path: tower1/Cylinder_74_2
+        weight: 1
+      - path: tower1/Cylinder_75_2
+        weight: 1
+      - path: tower1/Cylinder_76_2
+        weight: 1
+      - path: tower1/Cylinder_77_2
+        weight: 1
+      - path: tower1/Cylinder_78_2
+        weight: 1
+      - path: tower1/Cylinder_79_2
+        weight: 1
+      - path: tower1/Cylinder_80_2
+        weight: 1
+      - path: tower1/Cylinder_81_2
+        weight: 1
+      - path: tower1/Cylinder_82_2
+        weight: 1
+      - path: tower1/Cylinder_83_2
+        weight: 1
+      - path: tower1/Cylinder_84_2
+        weight: 1
+      - path: tower1/piston1
+        weight: 1
+      - path: tower1/piston1/Capsule_21_3
+        weight: 1
+      - path: tower1/piston1/Capsule_22_3
+        weight: 1
+      - path: tower1/piston1/Capsule_23_3
+        weight: 1
+      - path: tower1/piston1/Capsule_24_3
+        weight: 1
+      - path: tower1/piston1/Capsule_25_3
+        weight: 1
+      - path: tower1/piston1/Capsule_26_3
+        weight: 1
+      - path: tower1/piston1/Capsule_27_3
+        weight: 1
+      - path: tower1/piston1/Capsule_28_3
+        weight: 1
+      - path: tower1/piston1/Capsule_29_3
+        weight: 1
+      - path: tower1/piston1/Capsule_30_3
+        weight: 1
+      - path: tower1/piston1/Capsule_31_3
+        weight: 1
+      - path: tower1/piston1/Capsule_32_3
+        weight: 1
+      - path: tower1/piston1/Capsule_33_3
+        weight: 1
+      - path: tower1/piston1/Capsule_34_2
+        weight: 1
+      - path: tower1/piston1/Capsule_35_2
+        weight: 1
+      - path: tower1/piston1/Capsule_36_2
+        weight: 1
+      - path: tower1/piston1/Cylinder_64_2
+        weight: 1
+      - path: tower1/piston1/Torus_27_3
+        weight: 1
+      - path: tower1/piston1/Torus_29_3
+        weight: 1
+      - path: tower1/Sphere_2_3
+        weight: 1
+      - path: tower1/Sphere_8_3
+        weight: 1
+      - path: tower1/Sphere_11_3
+        weight: 1
+      - path: tower1/Sphere_14_3
+        weight: 1
+      - path: tower1/Sphere_17_2
+        weight: 1
+      - path: tower1/Sphere_18_2
+        weight: 1
+      - path: tower1/Sphere_19_2
+        weight: 1
+      - path: tower1/Sphere_20_2
+        weight: 1
+      - path: tower1/Sphere_21_3
+        weight: 1
+      - path: tower1/Torus_26_3
+        weight: 1
+      - path: tower1/Torus_28_3
+        weight: 1
+      - path: tower1/Torus_30_3
+        weight: 1
+      - path: tower1_1
+        weight: 1
+      - path: tower1_1/cone3
+        weight: 1
+      - path: tower1_1/cone3/Cone_13
+        weight: 1
+      - path: tower1_1/cone3/Cone_14
+        weight: 1
+      - path: tower1_1/cone3/Cone_16
+        weight: 1
+      - path: tower1_1/cone3/Cone_17
+        weight: 1
+      - path: tower1_1/cone3/Cone_18
+        weight: 1
+      - path: tower1_1/cone3/Cone_21_2
+        weight: 1
+      - path: tower1_1/cone4
+        weight: 1
+      - path: tower1_1/cone4/Cone_6_2
+        weight: 1
+      - path: tower1_1/cone4/Cone_7_2
+        weight: 1
+      - path: tower1_1/cone4/Cone_8_2
+        weight: 1
+      - path: tower1_1/cone4/Cone_9_2
+        weight: 1
+      - path: tower1_1/cone4/Cone_10_2
+        weight: 1
+      - path: tower1_1/cone4/Cone_15
+        weight: 1
+      - path: tower1_1/Cube_7
+        weight: 1
+      - path: tower1_1/Cube_8
+        weight: 1
+      - path: tower1_1/Cube_9
+        weight: 1
+      - path: tower1_1/Cube_10
+        weight: 1
+      - path: tower1_1/Cube_11
+        weight: 1
+      - path: tower1_1/Cube_12
+        weight: 1
+      - path: tower1_1/Cube_13
+        weight: 1
+      - path: tower1_1/Cube_14
+        weight: 1
+      - path: tower1_1/Cylinder_34_2
+        weight: 1
+      - path: tower1_1/Cylinder_35_2
+        weight: 1
+      - path: tower1_1/Cylinder_36_2
+        weight: 1
+      - path: tower1_1/Cylinder_37_2
+        weight: 1
+      - path: tower1_1/Cylinder_38_2
+        weight: 1
+      - path: tower1_1/Cylinder_39_2
+        weight: 1
+      - path: tower1_1/Cylinder_40_2
+        weight: 1
+      - path: tower1_1/Cylinder_41_2
+        weight: 1
+      - path: tower1_1/Cylinder_42_2
+        weight: 1
+      - path: tower1_1/Cylinder_43
+        weight: 1
+      - path: tower1_1/Cylinder_44
+        weight: 1
+      - path: tower1_1/Cylinder_45
+        weight: 1
+      - path: tower1_1/Cylinder_46
+        weight: 1
+      - path: tower1_1/Cylinder_47
+        weight: 1
+      - path: tower1_1/Cylinder_48
+        weight: 1
+      - path: tower1_1/Cylinder_49
+        weight: 1
+      - path: tower1_1/Cylinder_50
+        weight: 1
+      - path: tower1_1/Cylinder_51
+        weight: 1
+      - path: tower1_1/Cylinder_52
+        weight: 1
+      - path: tower1_1/Cylinder_53
+        weight: 1
+      - path: tower1_1/Cylinder_54
+        weight: 1
+      - path: tower1_1/Cylinder_55
+        weight: 1
+      - path: tower1_1/Cylinder_56
+        weight: 1
+      - path: tower1_1/Cylinder_57
+        weight: 1
+      - path: tower1_1/Cylinder_58
+        weight: 1
+      - path: tower1_1/Cylinder_59
+        weight: 1
+      - path: tower1_1/Cylinder_60
+        weight: 1
+      - path: tower1_1/Cylinder_61
+        weight: 1
+      - path: tower1_1/Cylinder_62
+        weight: 1
+      - path: tower1_1/Cylinder_63
+        weight: 1
+      - path: tower1_1/Cylinder_65
+        weight: 1
+      - path: tower1_1/Cylinder_66
+        weight: 1
+      - path: tower1_1/Cylinder_67
+        weight: 1
+      - path: tower1_1/Cylinder_68
+        weight: 1
+      - path: tower1_1/Cylinder_69
+        weight: 1
+      - path: tower1_1/Cylinder_70
+        weight: 1
+      - path: tower1_1/Cylinder_71
+        weight: 1
+      - path: tower1_1/Cylinder_72
+        weight: 1
+      - path: tower1_1/Cylinder_73
+        weight: 1
+      - path: tower1_1/Cylinder_74
+        weight: 1
+      - path: tower1_1/Cylinder_75
+        weight: 1
+      - path: tower1_1/Cylinder_76
+        weight: 1
+      - path: tower1_1/Cylinder_77
+        weight: 1
+      - path: tower1_1/Cylinder_78
+        weight: 1
+      - path: tower1_1/Cylinder_79
+        weight: 1
+      - path: tower1_1/Cylinder_80
+        weight: 1
+      - path: tower1_1/Cylinder_81
+        weight: 1
+      - path: tower1_1/Cylinder_82
+        weight: 1
+      - path: tower1_1/Cylinder_83
+        weight: 1
+      - path: tower1_1/Cylinder_84
+        weight: 1
+      - path: tower1_1/piston2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_21_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_22_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_23_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_24_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_25_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_26_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_27_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_28_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_29_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_30_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_31_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_32_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_33_2
+        weight: 1
+      - path: tower1_1/piston2/Capsule_34
+        weight: 1
+      - path: tower1_1/piston2/Capsule_35
+        weight: 1
+      - path: tower1_1/piston2/Capsule_36
+        weight: 1
+      - path: tower1_1/piston2/Cylinder_64
+        weight: 1
+      - path: tower1_1/piston2/Torus_27_2
+        weight: 1
+      - path: tower1_1/piston2/Torus_29_2
+        weight: 1
+      - path: tower1_1/Sphere_2_2
+        weight: 1
+      - path: tower1_1/Sphere_8_2
+        weight: 1
+      - path: tower1_1/Sphere_11_2
+        weight: 1
+      - path: tower1_1/Sphere_14_2
+        weight: 1
+      - path: tower1_1/Sphere_17
+        weight: 1
+      - path: tower1_1/Sphere_18
+        weight: 1
+      - path: tower1_1/Sphere_19
+        weight: 1
+      - path: tower1_1/Sphere_20
+        weight: 1
+      - path: tower1_1/Sphere_21_2
+        weight: 1
+      - path: tower1_1/Torus_26_2
+        weight: 1
+      - path: tower1_1/Torus_28_2
+        weight: 1
+      - path: tower1_1/Torus_30_2
+        weight: 1
+      - path: Tube
+        weight: 1
+      - path: Tube_1
+        weight: 1
+      - path: Tube_2
+        weight: 1
+      - path: Tube_3
+        weight: 1
+      - path: Tube_4
+        weight: 1
+      - path: Tube_5
+        weight: 1
+      - path: Tube_6
+        weight: 1
+      - path: Tube_7
+        weight: 1
+      - path: Tube_8
+        weight: 1
+      - path: Tube_9
+        weight: 1
+      - path: Tube_10
+        weight: 1
+      - path: Tube_11
+        weight: 1
+      - path: Tube_12
+        weight: 1
+      - path: Tube_13
+        weight: 1
+      - path: Tube_14
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

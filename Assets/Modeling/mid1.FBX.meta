@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: 963ec1cf99abb4a81bc7e27c9f1d23f6
+timeCreated: 1495349413
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: assembly slider crank.SLDASM
+    100002: assembly slider crank.SLDASM 1
+    100004: Boss-Extrude1
+    100006: Box001
+    100008: Box002
+    100010: Box003
+    100012: Box004
+    100014: Box29
+    100016: Box30
+    100018: Box31
+    100020: Box32
+    100022: Box33
+    100024: Box34
+    100026: Box35
+    100028: Box36
+    100030: Box37
+    100032: Box38
+    100034: ChamferBox001
+    100036: ChamferBox002
+    100038: ChamferBox003
+    100040: ChamferBox004
+    100042: ChamferBox005
+    100044: ChamferBox006
+    100046: ChamferBox007
+    100048: ChamferCyl001
+    100050: ChamferCyl002
+    100052: ChamferCyl003
+    100054: ChamferCyl004
+    100056: ChamferCyl005
+    100058: ChamferCyl006
+    100060: ChamferCyl007
+    100062: ChamferCyl008
+    100064: ChamferCyl009
+    100066: ChamferCyl010
+    100068: ChamferCyl011
+    100070: ChamferCyl012
+    100072: ChamferCyl013
+    100074: ChamferCyl014
+    100076: ChamferCyl015
+    100078: ChamferCyl016
+    100080: ChamferCyl017
+    100082: ChamferCyl018
+    100084: ChamferCyl019
+    100086: ChamferCyl020
+    100088: ChamferCyl021
+    100090: ChamferCyl022
+    100092: ChamferCyl023
+    100094: connecting pin
+    100096: connecting rod
+    100098: connector
+    100100: Cut-Extrude2
+    100102: Cylinder001
+    100104: Cylinder002
+    100106: Cylinder003
+    100108: Cylinder004
+    100110: Cylinder005
+    100112: Cylinder006
+    100114: Cylinder007
+    100116: Cylinder013
+    100118: Cylinder015
+    100120: Cylinder016
+    100122: Cylinder017
+    100124: Cylinder018
+    100126: Cylinder019
+    100128: Cylinder020
+    100130: Cylinder021
+    100132: Cylinder022
+    100134: Cylinder023
+    100136: Cylinder024
+    100138: Cylinder025
+    100140: Cylinder026
+    100142: Cylinder027
+    100144: Cylinder028
+    100146: Cylinder029
+    100148: Cylinder030
+    100150: Cylinder08
+    100152: cylindormot
+    100154: Fillet2
+    100156: Fillet2 1
+    100158: Fillet2_MeshPart0
+    100160: Fillet2_MeshPart1
+    100162: Fillet2_MeshPart2
+    100164: Fillet3
+    100166: Fillet3_MeshPart0
+    100168: Fillet3_MeshPart1
+    100170: Fillet4
+    100172: G charge p
+    100174: G charge p001
+    100176: G charge p002
+    100178: G charge p003
+    100180: G charge p004
+    100182: G charge p005
+    100184: G eye base
+    100186: G eye blac
+    100188: G eye main
+    100190: 'G eye nut '
+    100192: G eye nut0
+    100194: G eye nut1
+    100196: G eye nut2
+    100198: G face pl0
+    100200: G face pl1
+    100202: G face pl2
+    100204: G face pla
+    100206: G plate p0
+    100208: G plate pi
+    100210: G washer 0
+    100212: G washer 001
+    100214: G washer 002
+    100216: gonk divid
+    100218: gonk eye g
+    100220: gonk facep
+    100222: Gonk top b
+    100224: Group02
+    100226: Line001
+    100228: Line002
+    100230: Line003
+    100232: Line004
+    100234: Line006
+    100236: Line007
+    100238: Line008
+    100240: //RootNode
+    100242: Object052
+    100244: Object052_MeshPart0
+    100246: Object052_MeshPart1
+    100248: Object054
+    100250: Object056
+    100252: Object058
+    100254: Object076
+    100256: Object076_MeshPart0
+    100258: Object076_MeshPart1
+    100260: Object078
+    100262: Object080
+    100264: Object082
+    100266: Object100
+    100268: Object105
+    100270: Object106
+    100272: Object107
+    100274: Object107_MeshPart0
+    100276: Object107_MeshPart1
+    100278: Object108
+    100280: Object116
+    100282: Object117
+    100284: Object120
+    100286: Object121
+    100288: Object121_MeshPart0
+    100290: Object121_MeshPart1
+    100292: Object142
+    100294: Object152
+    100296: Object154
+    100298: Object234
+    100300: rotor
+    100302: slider
+    100304: slider body
+    100306: Sphere001
+    100308: Sphere002
+    100310: Sphere003
+    100312: Sphere004
+    100314: Sphere005
+    100316: Sphere006
+    100318: Sphere007
+    100320: Sphere008
+    100322: Sphere009
+    100324: Sphere010
+    100326: Sphere011
+    100328: "\u4FDD\u96AA\u7D72-1-solid009"
+    100330: "\u4FDD\u96AA\u7D72-1-solid010"
+    100332: "\u4FDD\u96AA\u7D72-1-solid013"
+    100334: "\u4FDD\u96AA\u7D72-1-solid014"
+    100336: "\u4FDD\u96AA\u7D72-1-solid015"
+    100338: "\u4FDD\u96AA\u7D72-1-solid016"
+    100340: "\u4FDD\u96AA\u7D72\u593E-1-solid004"
+    100342: "\u4FDD\u96AA\u7D72\u593E-2-solid003"
+    100344: "\u4FDD\u96AA\u7D72\u593E-2-solid004"
+    400000: assembly slider crank.SLDASM
+    400002: assembly slider crank.SLDASM 1
+    400004: Boss-Extrude1
+    400006: Box001
+    400008: Box002
+    400010: Box003
+    400012: Box004
+    400014: Box29
+    400016: Box30
+    400018: Box31
+    400020: Box32
+    400022: Box33
+    400024: Box34
+    400026: Box35
+    400028: Box36
+    400030: Box37
+    400032: Box38
+    400034: ChamferBox001
+    400036: ChamferBox002
+    400038: ChamferBox003
+    400040: ChamferBox004
+    400042: ChamferBox005
+    400044: ChamferBox006
+    400046: ChamferBox007
+    400048: ChamferCyl001
+    400050: ChamferCyl002
+    400052: ChamferCyl003
+    400054: ChamferCyl004
+    400056: ChamferCyl005
+    400058: ChamferCyl006
+    400060: ChamferCyl007
+    400062: ChamferCyl008
+    400064: ChamferCyl009
+    400066: ChamferCyl010
+    400068: ChamferCyl011
+    400070: ChamferCyl012
+    400072: ChamferCyl013
+    400074: ChamferCyl014
+    400076: ChamferCyl015
+    400078: ChamferCyl016
+    400080: ChamferCyl017
+    400082: ChamferCyl018
+    400084: ChamferCyl019
+    400086: ChamferCyl020
+    400088: ChamferCyl021
+    400090: ChamferCyl022
+    400092: ChamferCyl023
+    400094: connecting pin
+    400096: connecting rod
+    400098: connector
+    400100: Cut-Extrude2
+    400102: Cylinder001
+    400104: Cylinder002
+    400106: Cylinder003
+    400108: Cylinder004
+    400110: Cylinder005
+    400112: Cylinder006
+    400114: Cylinder007
+    400116: Cylinder013
+    400118: Cylinder015
+    400120: Cylinder016
+    400122: Cylinder017
+    400124: Cylinder018
+    400126: Cylinder019
+    400128: Cylinder020
+    400130: Cylinder021
+    400132: Cylinder022
+    400134: Cylinder023
+    400136: Cylinder024
+    400138: Cylinder025
+    400140: Cylinder026
+    400142: Cylinder027
+    400144: Cylinder028
+    400146: Cylinder029
+    400148: Cylinder030
+    400150: Cylinder08
+    400152: cylindormot
+    400154: Fillet2
+    400156: Fillet2 1
+    400158: Fillet2_MeshPart0
+    400160: Fillet2_MeshPart1
+    400162: Fillet2_MeshPart2
+    400164: Fillet3
+    400166: Fillet3_MeshPart0
+    400168: Fillet3_MeshPart1
+    400170: Fillet4
+    400172: G charge p
+    400174: G charge p001
+    400176: G charge p002
+    400178: G charge p003
+    400180: G charge p004
+    400182: G charge p005
+    400184: G eye base
+    400186: G eye blac
+    400188: G eye main
+    400190: 'G eye nut '
+    400192: G eye nut0
+    400194: G eye nut1
+    400196: G eye nut2
+    400198: G face pl0
+    400200: G face pl1
+    400202: G face pl2
+    400204: G face pla
+    400206: G plate p0
+    400208: G plate pi
+    400210: G washer 0
+    400212: G washer 001
+    400214: G washer 002
+    400216: gonk divid
+    400218: gonk eye g
+    400220: gonk facep
+    400222: Gonk top b
+    400224: Group02
+    400226: Line001
+    400228: Line002
+    400230: Line003
+    400232: Line004
+    400234: Line006
+    400236: Line007
+    400238: Line008
+    400240: //RootNode
+    400242: Object052
+    400244: Object052_MeshPart0
+    400246: Object052_MeshPart1
+    400248: Object054
+    400250: Object056
+    400252: Object058
+    400254: Object076
+    400256: Object076_MeshPart0
+    400258: Object076_MeshPart1
+    400260: Object078
+    400262: Object080
+    400264: Object082
+    400266: Object100
+    400268: Object105
+    400270: Object106
+    400272: Object107
+    400274: Object107_MeshPart0
+    400276: Object107_MeshPart1
+    400278: Object108
+    400280: Object116
+    400282: Object117
+    400284: Object120
+    400286: Object121
+    400288: Object121_MeshPart0
+    400290: Object121_MeshPart1
+    400292: Object142
+    400294: Object152
+    400296: Object154
+    400298: Object234
+    400300: rotor
+    400302: slider
+    400304: slider body
+    400306: Sphere001
+    400308: Sphere002
+    400310: Sphere003
+    400312: Sphere004
+    400314: Sphere005
+    400316: Sphere006
+    400318: Sphere007
+    400320: Sphere008
+    400322: Sphere009
+    400324: Sphere010
+    400326: Sphere011
+    400328: "\u4FDD\u96AA\u7D72-1-solid009"
+    400330: "\u4FDD\u96AA\u7D72-1-solid010"
+    400332: "\u4FDD\u96AA\u7D72-1-solid013"
+    400334: "\u4FDD\u96AA\u7D72-1-solid014"
+    400336: "\u4FDD\u96AA\u7D72-1-solid015"
+    400338: "\u4FDD\u96AA\u7D72-1-solid016"
+    400340: "\u4FDD\u96AA\u7D72\u593E-1-solid004"
+    400342: "\u4FDD\u96AA\u7D72\u593E-2-solid003"
+    400344: "\u4FDD\u96AA\u7D72\u593E-2-solid004"
+    2300000: Boss-Extrude1
+    2300002: Box001
+    2300004: Box002
+    2300006: Box003
+    2300008: Box004
+    2300010: Box29
+    2300012: Box30
+    2300014: Box31
+    2300016: Box32
+    2300018: Box33
+    2300020: Box34
+    2300022: Box35
+    2300024: Box36
+    2300026: Box37
+    2300028: Box38
+    2300030: ChamferBox001
+    2300032: ChamferBox002
+    2300034: ChamferBox003
+    2300036: ChamferBox004
+    2300038: ChamferBox005
+    2300040: ChamferBox006
+    2300042: ChamferBox007
+    2300044: ChamferCyl001
+    2300046: ChamferCyl002
+    2300048: ChamferCyl003
+    2300050: ChamferCyl004
+    2300052: ChamferCyl005
+    2300054: ChamferCyl006
+    2300056: ChamferCyl007
+    2300058: ChamferCyl008
+    2300060: ChamferCyl009
+    2300062: ChamferCyl010
+    2300064: ChamferCyl011
+    2300066: ChamferCyl012
+    2300068: ChamferCyl013
+    2300070: ChamferCyl014
+    2300072: ChamferCyl015
+    2300074: ChamferCyl016
+    2300076: ChamferCyl017
+    2300078: ChamferCyl018
+    2300080: ChamferCyl019
+    2300082: ChamferCyl020
+    2300084: ChamferCyl021
+    2300086: ChamferCyl022
+    2300088: ChamferCyl023
+    2300090: Cut-Extrude2
+    2300092: Cylinder001
+    2300094: Cylinder002
+    2300096: Cylinder003
+    2300098: Cylinder004
+    2300100: Cylinder005
+    2300102: Cylinder006
+    2300104: Cylinder007
+    2300106: Cylinder013
+    2300108: Cylinder015
+    2300110: Cylinder016
+    2300112: Cylinder017
+    2300114: Cylinder018
+    2300116: Cylinder019
+    2300118: Cylinder020
+    2300120: Cylinder021
+    2300122: Cylinder022
+    2300124: Cylinder023
+    2300126: Cylinder024
+    2300128: Cylinder025
+    2300130: Cylinder026
+    2300132: Cylinder027
+    2300134: Cylinder028
+    2300136: Cylinder029
+    2300138: Cylinder030
+    2300140: Cylinder08
+    2300142: cylindormot
+    2300144: Fillet2 1
+    2300146: Fillet2_MeshPart0
+    2300148: Fillet2_MeshPart1
+    2300150: Fillet2_MeshPart2
+    2300152: Fillet3_MeshPart0
+    2300154: Fillet3_MeshPart1
+    2300156: Fillet4
+    2300158: G charge p
+    2300160: G charge p001
+    2300162: G charge p002
+    2300164: G charge p003
+    2300166: G charge p004
+    2300168: G charge p005
+    2300170: G eye base
+    2300172: G eye blac
+    2300174: G eye main
+    2300176: 'G eye nut '
+    2300178: G eye nut0
+    2300180: G eye nut1
+    2300182: G eye nut2
+    2300184: G face pl0
+    2300186: G face pl1
+    2300188: G face pl2
+    2300190: G face pla
+    2300192: G plate p0
+    2300194: G plate pi
+    2300196: G washer 0
+    2300198: G washer 001
+    2300200: G washer 002
+    2300202: gonk divid
+    2300204: Gonk top b
+    2300206: Line006
+    2300208: Line007
+    2300210: Line008
+    2300212: Object052_MeshPart0
+    2300214: Object052_MeshPart1
+    2300216: Object054
+    2300218: Object056
+    2300220: Object058
+    2300222: Object076_MeshPart0
+    2300224: Object076_MeshPart1
+    2300226: Object078
+    2300228: Object080
+    2300230: Object082
+    2300232: Object105
+    2300234: Object106
+    2300236: Object107_MeshPart0
+    2300238: Object107_MeshPart1
+    2300240: Object108
+    2300242: Object116
+    2300244: Object117
+    2300246: Object120
+    2300248: Object121_MeshPart0
+    2300250: Object121_MeshPart1
+    2300252: Object142
+    2300254: Object152
+    2300256: Object154
+    2300258: Object234
+    2300260: Sphere001
+    2300262: Sphere002
+    2300264: Sphere003
+    2300266: Sphere004
+    2300268: Sphere005
+    2300270: Sphere006
+    2300272: Sphere007
+    2300274: Sphere008
+    2300276: Sphere009
+    2300278: Sphere010
+    2300280: Sphere011
+    2300282: "\u4FDD\u96AA\u7D72-1-solid009"
+    2300284: "\u4FDD\u96AA\u7D72-1-solid010"
+    2300286: "\u4FDD\u96AA\u7D72-1-solid013"
+    2300288: "\u4FDD\u96AA\u7D72-1-solid014"
+    2300290: "\u4FDD\u96AA\u7D72-1-solid015"
+    2300292: "\u4FDD\u96AA\u7D72\u593E-1-solid004"
+    2300294: "\u4FDD\u96AA\u7D72\u593E-2-solid003"
+    2300296: "\u4FDD\u96AA\u7D72\u593E-2-solid004"
+    3300000: Boss-Extrude1
+    3300002: Box001
+    3300004: Box002
+    3300006: Box003
+    3300008: Box004
+    3300010: Box29
+    3300012: Box30
+    3300014: Box31
+    3300016: Box32
+    3300018: Box33
+    3300020: Box34
+    3300022: Box35
+    3300024: Box36
+    3300026: Box37
+    3300028: Box38
+    3300030: ChamferBox001
+    3300032: ChamferBox002
+    3300034: ChamferBox003
+    3300036: ChamferBox004
+    3300038: ChamferBox005
+    3300040: ChamferBox006
+    3300042: ChamferBox007
+    3300044: ChamferCyl001
+    3300046: ChamferCyl002
+    3300048: ChamferCyl003
+    3300050: ChamferCyl004
+    3300052: ChamferCyl005
+    3300054: ChamferCyl006
+    3300056: ChamferCyl007
+    3300058: ChamferCyl008
+    3300060: ChamferCyl009
+    3300062: ChamferCyl010
+    3300064: ChamferCyl011
+    3300066: ChamferCyl012
+    3300068: ChamferCyl013
+    3300070: ChamferCyl014
+    3300072: ChamferCyl015
+    3300074: ChamferCyl016
+    3300076: ChamferCyl017
+    3300078: ChamferCyl018
+    3300080: ChamferCyl019
+    3300082: ChamferCyl020
+    3300084: ChamferCyl021
+    3300086: ChamferCyl022
+    3300088: ChamferCyl023
+    3300090: Cut-Extrude2
+    3300092: Cylinder001
+    3300094: Cylinder002
+    3300096: Cylinder003
+    3300098: Cylinder004
+    3300100: Cylinder005
+    3300102: Cylinder006
+    3300104: Cylinder007
+    3300106: Cylinder013
+    3300108: Cylinder015
+    3300110: Cylinder016
+    3300112: Cylinder017
+    3300114: Cylinder018
+    3300116: Cylinder019
+    3300118: Cylinder020
+    3300120: Cylinder021
+    3300122: Cylinder022
+    3300124: Cylinder023
+    3300126: Cylinder024
+    3300128: Cylinder025
+    3300130: Cylinder026
+    3300132: Cylinder027
+    3300134: Cylinder028
+    3300136: Cylinder029
+    3300138: Cylinder030
+    3300140: Cylinder08
+    3300142: cylindormot
+    3300144: Fillet2 1
+    3300146: Fillet2_MeshPart0
+    3300148: Fillet2_MeshPart1
+    3300150: Fillet2_MeshPart2
+    3300152: Fillet3_MeshPart0
+    3300154: Fillet3_MeshPart1
+    3300156: Fillet4
+    3300158: G charge p
+    3300160: G charge p001
+    3300162: G charge p002
+    3300164: G charge p003
+    3300166: G charge p004
+    3300168: G charge p005
+    3300170: G eye base
+    3300172: G eye blac
+    3300174: G eye main
+    3300176: 'G eye nut '
+    3300178: G eye nut0
+    3300180: G eye nut1
+    3300182: G eye nut2
+    3300184: G face pl0
+    3300186: G face pl1
+    3300188: G face pl2
+    3300190: G face pla
+    3300192: G plate p0
+    3300194: G plate pi
+    3300196: G washer 0
+    3300198: G washer 001
+    3300200: G washer 002
+    3300202: gonk divid
+    3300204: Gonk top b
+    3300206: Line006
+    3300208: Line007
+    3300210: Line008
+    3300212: Object052_MeshPart0
+    3300214: Object052_MeshPart1
+    3300216: Object054
+    3300218: Object056
+    3300220: Object058
+    3300222: Object076_MeshPart0
+    3300224: Object076_MeshPart1
+    3300226: Object078
+    3300228: Object080
+    3300230: Object082
+    3300232: Object105
+    3300234: Object106
+    3300236: Object107_MeshPart0
+    3300238: Object107_MeshPart1
+    3300240: Object108
+    3300242: Object116
+    3300244: Object117
+    3300246: Object120
+    3300248: Object121_MeshPart0
+    3300250: Object121_MeshPart1
+    3300252: Object142
+    3300254: Object152
+    3300256: Object154
+    3300258: Object234
+    3300260: Sphere001
+    3300262: Sphere002
+    3300264: Sphere003
+    3300266: Sphere004
+    3300268: Sphere005
+    3300270: Sphere006
+    3300272: Sphere007
+    3300274: Sphere008
+    3300276: Sphere009
+    3300278: Sphere010
+    3300280: Sphere011
+    3300282: "\u4FDD\u96AA\u7D72-1-solid009"
+    3300284: "\u4FDD\u96AA\u7D72-1-solid010"
+    3300286: "\u4FDD\u96AA\u7D72-1-solid013"
+    3300288: "\u4FDD\u96AA\u7D72-1-solid014"
+    3300290: "\u4FDD\u96AA\u7D72-1-solid015"
+    3300292: "\u4FDD\u96AA\u7D72\u593E-1-solid004"
+    3300294: "\u4FDD\u96AA\u7D72\u593E-2-solid003"
+    3300296: "\u4FDD\u96AA\u7D72\u593E-2-solid004"
+    4300000: Object052_MeshPart0
+    4300002: Object052_MeshPart1
+    4300004: Object054
+    4300006: Object056
+    4300008: Object058
+    4300010: Object076_MeshPart0
+    4300012: Object076_MeshPart1
+    4300014: Object078
+    4300016: Object080
+    4300018: Object082
+    4300020: ChamferCyl001
+    4300022: ChamferCyl002
+    4300024: ChamferCyl003
+    4300026: Object105
+    4300028: Object106
+    4300030: Object107_MeshPart0
+    4300032: Object107_MeshPart1
+    4300034: ChamferCyl004
+    4300036: ChamferCyl005
+    4300038: ChamferCyl006
+    4300040: Object108
+    4300042: ChamferCyl007
+    4300044: ChamferCyl008
+    4300046: ChamferCyl009
+    4300048: Object116
+    4300050: ChamferCyl010
+    4300052: ChamferCyl011
+    4300054: Object117
+    4300056: ChamferCyl012
+    4300058: Object120
+    4300060: Object121_MeshPart0
+    4300062: Object121_MeshPart1
+    4300064: ChamferBox001
+    4300066: Object142
+    4300068: Object152
+    4300070: Object154
+    4300072: Object234
+    4300074: cylindormot
+    4300076: Cylinder001
+    4300078: "\u4FDD\u96AA\u7D72-1-solid009"
+    4300080: "\u4FDD\u96AA\u7D72\u593E-2-solid003"
+    4300082: "\u4FDD\u96AA\u7D72-1-solid010"
+    4300084: Cylinder002
+    4300086: Cylinder003
+    4300088: Cylinder004
+    4300090: Cylinder005
+    4300092: Cylinder006
+    4300094: Sphere001
+    4300096: Box001
+    4300098: Box002
+    4300100: Cylinder007
+    4300102: ChamferBox002
+    4300104: Box003
+    4300106: Box004
+    4300108: Cut-Extrude2
+    4300110: Fillet3_MeshPart0
+    4300112: Fillet3_MeshPart1
+    4300114: Fillet2
+    4300116: Boss-Extrude1
+    4300118: Fillet2_MeshPart0
+    4300120: Fillet2_MeshPart1
+    4300122: Fillet2_MeshPart2
+    4300124: Fillet4
+    4300126: ChamferBox003
+    4300128: ChamferBox004
+    4300130: ChamferBox005
+    4300132: ChamferBox006
+    4300134: ChamferBox007
+    4300136: gonk divid
+    4300138: G face pla
+    4300140: G face pl0
+    4300142: G face pl1
+    4300144: G plate pi
+    4300146: G plate p0
+    4300148: G face pl2
+    4300150: 'G eye nut '
+    4300152: G eye nut0
+    4300154: G eye nut1
+    4300156: G eye nut2
+    4300158: G eye blac
+    4300160: G eye main
+    4300162: G eye base
+    4300164: G washer 0
+    4300166: G charge p
+    4300168: Gonk top b
+    4300170: G charge p001
+    4300172: Line006
+    4300174: ChamferCyl013
+    4300176: Cylinder013
+    4300178: Cylinder08
+    4300180: Box35
+    4300182: Box34
+    4300184: Box33
+    4300186: Box30
+    4300188: Box31
+    4300190: Box32
+    4300192: Box29
+    4300194: Box36
+    4300196: Box37
+    4300198: Box38
+    4300200: Line007
+    4300202: Cylinder015
+    4300204: Cylinder016
+    4300206: ChamferCyl014
+    4300208: G washer 001
+    4300210: G washer 002
+    4300212: Sphere002
+    4300214: Sphere003
+    4300216: Sphere004
+    4300218: Sphere005
+    4300220: Sphere006
+    4300222: Sphere007
+    4300224: Sphere008
+    4300226: Sphere009
+    4300228: Sphere010
+    4300230: Sphere011
+    4300232: Line008
+    4300234: Cylinder017
+    4300236: ChamferCyl015
+    4300238: ChamferCyl016
+    4300240: ChamferCyl017
+    4300242: ChamferCyl018
+    4300244: ChamferCyl019
+    4300246: ChamferCyl020
+    4300248: ChamferCyl021
+    4300250: ChamferCyl022
+    4300252: ChamferCyl023
+    4300254: G charge p002
+    4300256: G charge p003
+    4300258: G charge p004
+    4300260: G charge p005
+    4300262: "\u4FDD\u96AA\u7D72-1-solid013"
+    4300264: "\u4FDD\u96AA\u7D72\u593E-2-solid004"
+    4300266: "\u4FDD\u96AA\u7D72\u593E-1-solid004"
+    4300268: "\u4FDD\u96AA\u7D72-1-solid014"
+    4300270: "\u4FDD\u96AA\u7D72-1-solid015"
+    4300272: Cylinder018
+    4300274: Cylinder019
+    4300276: Cylinder020
+    4300278: Cylinder021
+    4300280: Cylinder022
+    4300282: Cylinder023
+    4300284: Cylinder024
+    4300286: Cylinder025
+    4300288: Cylinder026
+    4300290: Cylinder027
+    4300292: Cylinder028
+    4300294: Cylinder029
+    4300296: Cylinder030
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
