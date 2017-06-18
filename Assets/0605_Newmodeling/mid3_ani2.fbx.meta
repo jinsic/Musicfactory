@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 6ad1efce8856c452098271d5fb72e725
+timeCreated: 1497168565
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box756
+    100002: Box757
+    100004: Box758
+    100006: Box759
+    100008: Box760
+    100010: Box768
+    100012: Box768_1
+    100014: Capsule
+    100016: Capsule_1
+    100018: Capsule_11
+    100020: Capsule_12
+    100022: Capsule_13
+    100024: Capsule_14
+    100026: Capsule_2
+    100028: Capsule_2_027
+    100030: Capsule_2_028
+    100032: Capsule_2_029
+    100034: Capsule_3
+    100036: Capsule_4
+    100038: Capsule_5
+    100040: Capsule_7
+    100042: Capsule_9
+    100044: ChamferBox012
+    100046: ChamferBox013
+    100048: ChamferBox014
+    100050: ChamferBox015
+    100052: ChamferBox016
+    100054: ChamferBox017
+    100056: ChamferBox018
+    100058: ChamferBox019
+    100060: ChamferBox020
+    100062: ChamferBox021
+    100064: ChamferBox022
+    100066: Cube
+    100068: Cube_1
+    100070: Cylinder
+    100072: Cylinder335
+    100074: Cylinder_1
+    100076: Cylinder_10
+    100078: Cylinder_11
+    100080: Cylinder_12
+    100082: Cylinder_13
+    100084: Cylinder_14
+    100086: Cylinder_15
+    100088: Cylinder_16
+    100090: Cylinder_17
+    100092: Cylinder_18
+    100094: Cylinder_19
+    100096: Cylinder_2
+    100098: Cylinder_20
+    100100: Cylinder_21
+    100102: Cylinder_22
+    100104: Cylinder_23
+    100106: Cylinder_24
+    100108: Cylinder_25
+    100110: Cylinder_26
+    100112: Cylinder_27
+    100114: Cylinder_28
+    100116: Cylinder_29
+    100118: Cylinder_3
+    100120: Cylinder_30
+    100122: Cylinder_31
+    100124: Cylinder_32
+    100126: Cylinder_34
+    100128: Cylinder_35
+    100130: Cylinder_36
+    100132: Cylinder_4
+    100134: Cylinder_5
+    100136: Cylinder_6
+    100138: Cylinder_7
+    100140: Cylinder_8
+    100142: Cylinder_9
+    100144: Line1324
+    100146: Line1325
+    100148: Line1326
+    100150: Line1327
+    100152: Line1328
+    100154: Line1329
+    100156: Line1330
+    100158: Line1331
+    100160: Line1332
+    100162: Line1333
+    100164: Line1334
+    100166: Line1335
+    100168: Line1336
+    100170: Line1337
+    100172: //RootNode
+    100174: Oil_Tank
+    100176: Oil_Tank_1
+    100178: Oil_Tank_2
+    100180: Oil_Tank_3
+    100182: Sphere
+    100184: Sphere_1
+    100186: Sphere_2
+    100188: Tube
+    400000: Box756
+    400002: Box757
+    400004: Box758
+    400006: Box759
+    400008: Box760
+    400010: Box768
+    400012: Box768_1
+    400014: Capsule
+    400016: Capsule_1
+    400018: Capsule_11
+    400020: Capsule_12
+    400022: Capsule_13
+    400024: Capsule_14
+    400026: Capsule_2
+    400028: Capsule_2_027
+    400030: Capsule_2_028
+    400032: Capsule_2_029
+    400034: Capsule_3
+    400036: Capsule_4
+    400038: Capsule_5
+    400040: Capsule_7
+    400042: Capsule_9
+    400044: ChamferBox012
+    400046: ChamferBox013
+    400048: ChamferBox014
+    400050: ChamferBox015
+    400052: ChamferBox016
+    400054: ChamferBox017
+    400056: ChamferBox018
+    400058: ChamferBox019
+    400060: ChamferBox020
+    400062: ChamferBox021
+    400064: ChamferBox022
+    400066: Cube
+    400068: Cube_1
+    400070: Cylinder
+    400072: Cylinder335
+    400074: Cylinder_1
+    400076: Cylinder_10
+    400078: Cylinder_11
+    400080: Cylinder_12
+    400082: Cylinder_13
+    400084: Cylinder_14
+    400086: Cylinder_15
+    400088: Cylinder_16
+    400090: Cylinder_17
+    400092: Cylinder_18
+    400094: Cylinder_19
+    400096: Cylinder_2
+    400098: Cylinder_20
+    400100: Cylinder_21
+    400102: Cylinder_22
+    400104: Cylinder_23
+    400106: Cylinder_24
+    400108: Cylinder_25
+    400110: Cylinder_26
+    400112: Cylinder_27
+    400114: Cylinder_28
+    400116: Cylinder_29
+    400118: Cylinder_3
+    400120: Cylinder_30
+    400122: Cylinder_31
+    400124: Cylinder_32
+    400126: Cylinder_34
+    400128: Cylinder_35
+    400130: Cylinder_36
+    400132: Cylinder_4
+    400134: Cylinder_5
+    400136: Cylinder_6
+    400138: Cylinder_7
+    400140: Cylinder_8
+    400142: Cylinder_9
+    400144: Line1324
+    400146: Line1325
+    400148: Line1326
+    400150: Line1327
+    400152: Line1328
+    400154: Line1329
+    400156: Line1330
+    400158: Line1331
+    400160: Line1332
+    400162: Line1333
+    400164: Line1334
+    400166: Line1335
+    400168: Line1336
+    400170: Line1337
+    400172: //RootNode
+    400174: Oil_Tank
+    400176: Oil_Tank_1
+    400178: Oil_Tank_2
+    400180: Oil_Tank_3
+    400182: Sphere
+    400184: Sphere_1
+    400186: Sphere_2
+    400188: Tube
+    2300000: Box756
+    2300002: Box757
+    2300004: Box758
+    2300006: Box759
+    2300008: Box760
+    2300010: Box768
+    2300012: Box768_1
+    2300014: Capsule
+    2300016: Capsule_1
+    2300018: Capsule_11
+    2300020: Capsule_12
+    2300022: Capsule_13
+    2300024: Capsule_14
+    2300026: Capsule_2
+    2300028: Capsule_2_027
+    2300030: Capsule_2_028
+    2300032: Capsule_2_029
+    2300034: Capsule_3
+    2300036: Capsule_4
+    2300038: Capsule_5
+    2300040: Capsule_7
+    2300042: Capsule_9
+    2300044: ChamferBox012
+    2300046: ChamferBox013
+    2300048: ChamferBox014
+    2300050: ChamferBox015
+    2300052: ChamferBox016
+    2300054: ChamferBox017
+    2300056: ChamferBox018
+    2300058: ChamferBox019
+    2300060: ChamferBox020
+    2300062: ChamferBox021
+    2300064: ChamferBox022
+    2300066: Cube
+    2300068: Cube_1
+    2300070: Cylinder
+    2300072: Cylinder335
+    2300074: Cylinder_1
+    2300076: Cylinder_10
+    2300078: Cylinder_11
+    2300080: Cylinder_12
+    2300082: Cylinder_13
+    2300084: Cylinder_14
+    2300086: Cylinder_15
+    2300088: Cylinder_16
+    2300090: Cylinder_17
+    2300092: Cylinder_18
+    2300094: Cylinder_19
+    2300096: Cylinder_2
+    2300098: Cylinder_20
+    2300100: Cylinder_21
+    2300102: Cylinder_22
+    2300104: Cylinder_23
+    2300106: Cylinder_24
+    2300108: Cylinder_25
+    2300110: Cylinder_26
+    2300112: Cylinder_27
+    2300114: Cylinder_28
+    2300116: Cylinder_29
+    2300118: Cylinder_3
+    2300120: Cylinder_30
+    2300122: Cylinder_31
+    2300124: Cylinder_32
+    2300126: Cylinder_34
+    2300128: Cylinder_35
+    2300130: Cylinder_36
+    2300132: Cylinder_4
+    2300134: Cylinder_5
+    2300136: Cylinder_6
+    2300138: Cylinder_7
+    2300140: Cylinder_8
+    2300142: Cylinder_9
+    2300144: Line1324
+    2300146: Line1325
+    2300148: Line1326
+    2300150: Line1327
+    2300152: Line1328
+    2300154: Line1329
+    2300156: Line1330
+    2300158: Line1331
+    2300160: Line1332
+    2300162: Line1333
+    2300164: Line1334
+    2300166: Line1335
+    2300168: Line1336
+    2300170: Line1337
+    2300172: Oil_Tank
+    2300174: Oil_Tank_1
+    2300176: Oil_Tank_2
+    2300178: Oil_Tank_3
+    2300180: Sphere
+    2300182: Sphere_1
+    2300184: Sphere_2
+    2300186: Tube
+    3300000: Box756
+    3300002: Box757
+    3300004: Box758
+    3300006: Box759
+    3300008: Box760
+    3300010: Box768
+    3300012: Box768_1
+    3300014: Capsule
+    3300016: Capsule_1
+    3300018: Capsule_11
+    3300020: Capsule_12
+    3300022: Capsule_13
+    3300024: Capsule_14
+    3300026: Capsule_2
+    3300028: Capsule_2_027
+    3300030: Capsule_2_028
+    3300032: Capsule_2_029
+    3300034: Capsule_3
+    3300036: Capsule_4
+    3300038: Capsule_5
+    3300040: Capsule_7
+    3300042: Capsule_9
+    3300044: ChamferBox012
+    3300046: ChamferBox013
+    3300048: ChamferBox014
+    3300050: ChamferBox015
+    3300052: ChamferBox016
+    3300054: ChamferBox017
+    3300056: ChamferBox018
+    3300058: ChamferBox019
+    3300060: ChamferBox020
+    3300062: ChamferBox021
+    3300064: ChamferBox022
+    3300066: Cube
+    3300068: Cube_1
+    3300070: Cylinder
+    3300072: Cylinder335
+    3300074: Cylinder_1
+    3300076: Cylinder_10
+    3300078: Cylinder_11
+    3300080: Cylinder_12
+    3300082: Cylinder_13
+    3300084: Cylinder_14
+    3300086: Cylinder_15
+    3300088: Cylinder_16
+    3300090: Cylinder_17
+    3300092: Cylinder_18
+    3300094: Cylinder_19
+    3300096: Cylinder_2
+    3300098: Cylinder_20
+    3300100: Cylinder_21
+    3300102: Cylinder_22
+    3300104: Cylinder_23
+    3300106: Cylinder_24
+    3300108: Cylinder_25
+    3300110: Cylinder_26
+    3300112: Cylinder_27
+    3300114: Cylinder_28
+    3300116: Cylinder_29
+    3300118: Cylinder_3
+    3300120: Cylinder_30
+    3300122: Cylinder_31
+    3300124: Cylinder_32
+    3300126: Cylinder_34
+    3300128: Cylinder_35
+    3300130: Cylinder_36
+    3300132: Cylinder_4
+    3300134: Cylinder_5
+    3300136: Cylinder_6
+    3300138: Cylinder_7
+    3300140: Cylinder_8
+    3300142: Cylinder_9
+    3300144: Line1324
+    3300146: Line1325
+    3300148: Line1326
+    3300150: Line1327
+    3300152: Line1328
+    3300154: Line1329
+    3300156: Line1330
+    3300158: Line1331
+    3300160: Line1332
+    3300162: Line1333
+    3300164: Line1334
+    3300166: Line1335
+    3300168: Line1336
+    3300170: Line1337
+    3300172: Oil_Tank
+    3300174: Oil_Tank_1
+    3300176: Oil_Tank_2
+    3300178: Oil_Tank_3
+    3300180: Sphere
+    3300182: Sphere_1
+    3300184: Sphere_2
+    3300186: Tube
+    4300000: Sphere_2
+    4300002: Sphere_1
+    4300004: Sphere
+    4300006: Capsule_14
+    4300008: Oil_Tank_3
+    4300010: Oil_Tank_2
+    4300012: Capsule_13
+    4300014: Capsule_12
+    4300016: Capsule_11
+    4300018: Tube
+    4300020: Cylinder_36
+    4300022: Cylinder_35
+    4300024: Cylinder_34
+    4300026: Cylinder_32
+    4300028: Cylinder_31
+    4300030: Capsule_9
+    4300032: Capsule_7
+    4300034: Capsule_5
+    4300036: Cylinder_30
+    4300038: Cylinder_29
+    4300040: Cylinder_28
+    4300042: Cylinder_27
+    4300044: Cylinder_26
+    4300046: Cube_1
+    4300048: Cylinder_25
+    4300050: Box768_1
+    4300052: Cylinder_24
+    4300054: Cube
+    4300056: Cylinder_23
+    4300058: Cylinder_22
+    4300060: Cylinder_21
+    4300062: Cylinder_20
+    4300064: Cylinder_19
+    4300066: Cylinder_18
+    4300068: Oil_Tank_1
+    4300070: Oil_Tank
+    4300072: Cylinder_17
+    4300074: Cylinder_16
+    4300076: Cylinder_15
+    4300078: Cylinder_14
+    4300080: Cylinder_13
+    4300082: Cylinder_12
+    4300084: Cylinder_11
+    4300086: Cylinder_10
+    4300088: Cylinder_9
+    4300090: Cylinder_8
+    4300092: Cylinder_7
+    4300094: Capsule_4
+    4300096: Cylinder_6
+    4300098: Capsule_3
+    4300100: Cylinder_5
+    4300102: Capsule_2
+    4300104: Cylinder_4
+    4300106: Cylinder_3
+    4300108: Cylinder_2
+    4300110: Cylinder_1
+    4300112: Cylinder
+    4300114: Capsule_1
+    4300116: Capsule
+    4300118: Line1324
+    4300120: Capsule_2_027
+    4300122: Box756
+    4300124: ChamferBox012
+    4300126: Line1325
+    4300128: Box757
+    4300130: Line1326
+    4300132: Line1327
+    4300134: Line1328
+    4300136: Box758
+    4300138: Line1329
+    4300140: Line1330
+    4300142: Line1331
+    4300144: Box759
+    4300146: Cylinder335
+    4300148: Box760
+    4300150: Line1332
+    4300152: Line1333
+    4300154: ChamferBox013
+    4300156: ChamferBox014
+    4300158: ChamferBox015
+    4300160: ChamferBox016
+    4300162: Capsule_2_028
+    4300164: Line1334
+    4300166: Capsule_2_029
+    4300168: ChamferBox017
+    4300170: ChamferBox018
+    4300172: ChamferBox019
+    4300174: ChamferBox020
+    4300176: Line1335
+    4300178: Line1336
+    4300180: ChamferBox021
+    4300182: Line1337
+    4300184: ChamferBox022
+    4300186: Box768
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box756
+        weight: 1
+      - path: Box757
+        weight: 1
+      - path: Box758
+        weight: 1
+      - path: Box759
+        weight: 1
+      - path: Box760
+        weight: 1
+      - path: Box768
+        weight: 1
+      - path: Box768_1
+        weight: 1
+      - path: Capsule
+        weight: 1
+      - path: Capsule_1
+        weight: 1
+      - path: Capsule_2
+        weight: 1
+      - path: Capsule_2_027
+        weight: 1
+      - path: Capsule_2_028
+        weight: 1
+      - path: Capsule_2_029
+        weight: 1
+      - path: Capsule_3
+        weight: 1
+      - path: Capsule_4
+        weight: 1
+      - path: Capsule_5
+        weight: 1
+      - path: Capsule_7
+        weight: 1
+      - path: Capsule_9
+        weight: 1
+      - path: Capsule_11
+        weight: 1
+      - path: Capsule_12
+        weight: 1
+      - path: Capsule_13
+        weight: 1
+      - path: Capsule_14
+        weight: 1
+      - path: ChamferBox012
+        weight: 1
+      - path: ChamferBox013
+        weight: 1
+      - path: ChamferBox014
+        weight: 1
+      - path: ChamferBox015
+        weight: 1
+      - path: ChamferBox016
+        weight: 1
+      - path: ChamferBox017
+        weight: 1
+      - path: ChamferBox018
+        weight: 1
+      - path: ChamferBox019
+        weight: 1
+      - path: ChamferBox020
+        weight: 1
+      - path: ChamferBox021
+        weight: 1
+      - path: ChamferBox022
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_1
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder335
+        weight: 1
+      - path: Cylinder_1
+        weight: 1
+      - path: Cylinder_2
+        weight: 1
+      - path: Cylinder_3
+        weight: 1
+      - path: Cylinder_4
+        weight: 1
+      - path: Cylinder_5
+        weight: 1
+      - path: Cylinder_6
+        weight: 1
+      - path: Cylinder_7
+        weight: 1
+      - path: Cylinder_8
+        weight: 1
+      - path: Cylinder_9
+        weight: 1
+      - path: Cylinder_10
+        weight: 1
+      - path: Cylinder_11
+        weight: 1
+      - path: Cylinder_12
+        weight: 1
+      - path: Cylinder_13
+        weight: 1
+      - path: Cylinder_14
+        weight: 1
+      - path: Cylinder_15
+        weight: 1
+      - path: Cylinder_16
+        weight: 1
+      - path: Cylinder_17
+        weight: 1
+      - path: Cylinder_18
+        weight: 1
+      - path: Cylinder_19
+        weight: 1
+      - path: Cylinder_20
+        weight: 1
+      - path: Cylinder_21
+        weight: 1
+      - path: Cylinder_22
+        weight: 1
+      - path: Cylinder_23
+        weight: 1
+      - path: Cylinder_24
+        weight: 1
+      - path: Cylinder_25
+        weight: 1
+      - path: Cylinder_26
+        weight: 1
+      - path: Cylinder_27
+        weight: 1
+      - path: Cylinder_28
+        weight: 1
+      - path: Cylinder_29
+        weight: 1
+      - path: Cylinder_30
+        weight: 1
+      - path: Cylinder_31
+        weight: 1
+      - path: Cylinder_32
+        weight: 1
+      - path: Cylinder_34
+        weight: 1
+      - path: Cylinder_35
+        weight: 1
+      - path: Cylinder_36
+        weight: 1
+      - path: Line1324
+        weight: 1
+      - path: Line1325
+        weight: 1
+      - path: Line1326
+        weight: 1
+      - path: Line1327
+        weight: 1
+      - path: Line1328
+        weight: 1
+      - path: Line1329
+        weight: 1
+      - path: Line1330
+        weight: 1
+      - path: Line1331
+        weight: 1
+      - path: Line1332
+        weight: 1
+      - path: Line1333
+        weight: 1
+      - path: Line1334
+        weight: 1
+      - path: Line1335
+        weight: 1
+      - path: Line1336
+        weight: 1
+      - path: Line1337
+        weight: 1
+      - path: Oil_Tank
+        weight: 1
+      - path: Oil_Tank_1
+        weight: 1
+      - path: Oil_Tank_2
+        weight: 1
+      - path: Oil_Tank_3
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_1
+        weight: 1
+      - path: Sphere_2
+        weight: 1
+      - path: Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

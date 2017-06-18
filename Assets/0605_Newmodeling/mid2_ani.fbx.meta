@@ -1,0 +1,6847 @@
+fileFormatVersion: 2
+guid: e1cd1eaea01fd4585baec5982939b09f
+timeCreated: 1497168567
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box017
+    100002: Box017_2
+    100004: Box018
+    100006: Box018_2
+    100008: Box019
+    100010: Box019_2
+    100012: Box020
+    100014: Box020_2
+    100016: Box021
+    100018: Box021_2
+    100020: Box022
+    100022: Box022_2
+    100024: Box023
+    100026: Box023_2
+    100028: Box06
+    100030: Box06_2
+    100032: Box15
+    100034: Box15_2
+    100036: Button
+    100038: Button_1
+    100040: Button_1_2
+    100042: Button_2
+    100044: Capsule
+    100046: Capsule_1
+    100048: Capsule_10
+    100050: Capsule_1_2
+    100052: Capsule_1_3
+    100054: Capsule_1_4
+    100056: Capsule_1_5
+    100058: Capsule_1_6
+    100060: Capsule_1_7
+    100062: Capsule_1_8
+    100064: Capsule_2
+    100066: Capsule_2_2
+    100068: Capsule_2_3
+    100070: Capsule_2_4
+    100072: Capsule_2_5
+    100074: Capsule_2_6
+    100076: Capsule_2_7
+    100078: Capsule_2_8
+    100080: Capsule_2_9
+    100082: Capsule_3
+    100084: Capsule_3_2
+    100086: Capsule_3_3
+    100088: Capsule_3_4
+    100090: Capsule_3_5
+    100092: Capsule_3_6
+    100094: Capsule_3_7
+    100096: Capsule_3_8
+    100098: Capsule_3_9
+    100100: Capsule_4
+    100102: Capsule_4_2
+    100104: Capsule_4_3
+    100106: Capsule_4_4
+    100108: Capsule_4_5
+    100110: Capsule_4_6
+    100112: Capsule_4_7
+    100114: Capsule_4_8
+    100116: Capsule_4_9
+    100118: Capsule_5
+    100120: Capsule_5_2
+    100122: Capsule_5_3
+    100124: Capsule_5_4
+    100126: Capsule_5_5
+    100128: Capsule_5_6
+    100130: Capsule_5_7
+    100132: Capsule_5_8
+    100134: Capsule_5_9
+    100136: Capsule_6
+    100138: Capsule_6_2
+    100140: Capsule_6_3
+    100142: Capsule_6_4
+    100144: Capsule_6_5
+    100146: Capsule_6_6
+    100148: Capsule_6_7
+    100150: Capsule_6_8
+    100152: Capsule_6_9
+    100154: Capsule_7
+    100156: Capsule_8
+    100158: Capsule_9
+    100160: CINEMA_4D_Editor
+    100162: Cube
+    100164: Cube_1
+    100166: Cube_10
+    100168: Cube_10_2
+    100170: Cube_10_3
+    100172: Cube_10_4
+    100174: Cube_11
+    100176: Cube_11_2
+    100178: Cube_11_3
+    100180: Cube_11_4
+    100182: Cube_12
+    100184: Cube_12_2
+    100186: Cube_12_3
+    100188: Cube_12_4
+    100190: Cube_13
+    100192: Cube_13_2
+    100194: Cube_13_3
+    100196: Cube_13_4
+    100198: Cube_14
+    100200: Cube_14_2
+    100202: Cube_14_3
+    100204: Cube_14_4
+    100206: Cube_15
+    100208: Cube_15_2
+    100210: Cube_15_3
+    100212: Cube_15_4
+    100214: Cube_1_2
+    100216: Cube_1_3
+    100218: Cube_1_4
+    100220: Cube_1_5
+    100222: Cube_1_6
+    100224: Cube_2
+    100226: Cube_2_10
+    100228: Cube_2_11
+    100230: Cube_2_12
+    100232: Cube_2_13
+    100234: Cube_2_14
+    100236: Cube_2_15
+    100238: Cube_2_2
+    100240: Cube_2_3
+    100242: Cube_2_4
+    100244: Cube_2_5
+    100246: Cube_2_6
+    100248: Cube_2_7
+    100250: Cube_2_8
+    100252: Cube_2_9
+    100254: Cube_3
+    100256: Cube_3_2
+    100258: Cube_3_3
+    100260: Cube_3_4
+    100262: Cube_3_5
+    100264: Cube_3_6
+    100266: Cube_4
+    100268: Cube_4_2
+    100270: Cube_4_3
+    100272: Cube_4_4
+    100274: Cube_4_5
+    100276: Cube_4_6
+    100278: Cube_5
+    100280: Cube_5_2
+    100282: Cube_5_3
+    100284: Cube_5_4
+    100286: Cube_5_5
+    100288: Cube_5_6
+    100290: Cube_6
+    100292: Cube_6_2
+    100294: Cube_6_3
+    100296: Cube_6_4
+    100298: Cube_6_5
+    100300: Cube_6_6
+    100302: Cube_7
+    100304: Cube_7_2
+    100306: Cube_7_3
+    100308: Cube_7_4
+    100310: Cube_7_5
+    100312: Cube_7_6
+    100314: Cube_8
+    100316: Cube_8_2
+    100318: Cube_8_3
+    100320: Cube_8_4
+    100322: Cube_8_5
+    100324: Cube_8_6
+    100326: Cube_9
+    100328: Cube_9_2
+    100330: Cube_9_3
+    100332: Cube_9_4
+    100334: Cylinder
+    100336: Cylinder_1
+    100338: Cylinder_10
+    100340: Cylinder_10_10
+    100342: Cylinder_10_11
+    100344: Cylinder_10_12
+    100346: Cylinder_10_13
+    100348: Cylinder_10_2
+    100350: Cylinder_10_3
+    100352: Cylinder_10_4
+    100354: Cylinder_10_5
+    100356: Cylinder_10_6
+    100358: Cylinder_10_7
+    100360: Cylinder_10_8
+    100362: Cylinder_10_9
+    100364: Cylinder_11
+    100366: Cylinder_11_10
+    100368: Cylinder_11_11
+    100370: Cylinder_11_12
+    100372: Cylinder_11_13
+    100374: Cylinder_11_2
+    100376: Cylinder_11_3
+    100378: Cylinder_11_4
+    100380: Cylinder_11_5
+    100382: Cylinder_11_6
+    100384: Cylinder_11_7
+    100386: Cylinder_11_8
+    100388: Cylinder_11_9
+    100390: Cylinder_12
+    100392: Cylinder_12_10
+    100394: Cylinder_12_11
+    100396: Cylinder_12_12
+    100398: Cylinder_12_13
+    100400: Cylinder_12_14
+    100402: Cylinder_12_15
+    100404: Cylinder_12_2
+    100406: Cylinder_12_3
+    100408: Cylinder_12_4
+    100410: Cylinder_12_5
+    100412: Cylinder_12_6
+    100414: Cylinder_12_7
+    100416: Cylinder_12_8
+    100418: Cylinder_12_9
+    100420: Cylinder_13
+    100422: Cylinder_13_10
+    100424: Cylinder_13_11
+    100426: Cylinder_13_12
+    100428: Cylinder_13_13
+    100430: Cylinder_13_14
+    100432: Cylinder_13_15
+    100434: Cylinder_13_2
+    100436: Cylinder_13_3
+    100438: Cylinder_13_4
+    100440: Cylinder_13_5
+    100442: Cylinder_13_6
+    100444: Cylinder_13_7
+    100446: Cylinder_13_8
+    100448: Cylinder_13_9
+    100450: Cylinder_14
+    100452: Cylinder_14_10
+    100454: Cylinder_14_11
+    100456: Cylinder_14_12
+    100458: Cylinder_14_13
+    100460: Cylinder_14_2
+    100462: Cylinder_14_3
+    100464: Cylinder_14_4
+    100466: Cylinder_14_5
+    100468: Cylinder_14_6
+    100470: Cylinder_14_7
+    100472: Cylinder_14_8
+    100474: Cylinder_14_9
+    100476: Cylinder_15
+    100478: Cylinder_15_10
+    100480: Cylinder_15_11
+    100482: Cylinder_15_12
+    100484: Cylinder_15_13
+    100486: Cylinder_15_2
+    100488: Cylinder_15_3
+    100490: Cylinder_15_4
+    100492: Cylinder_15_5
+    100494: Cylinder_15_6
+    100496: Cylinder_15_7
+    100498: Cylinder_15_8
+    100500: Cylinder_15_9
+    100502: Cylinder_16
+    100504: Cylinder_16_10
+    100506: Cylinder_16_11
+    100508: Cylinder_16_12
+    100510: Cylinder_16_13
+    100512: Cylinder_16_2
+    100514: Cylinder_16_3
+    100516: Cylinder_16_4
+    100518: Cylinder_16_5
+    100520: Cylinder_16_6
+    100522: Cylinder_16_7
+    100524: Cylinder_16_8
+    100526: Cylinder_16_9
+    100528: Cylinder_17
+    100530: Cylinder_17_10
+    100532: Cylinder_17_11
+    100534: Cylinder_17_12
+    100536: Cylinder_17_13
+    100538: Cylinder_17_2
+    100540: Cylinder_17_3
+    100542: Cylinder_17_4
+    100544: Cylinder_17_5
+    100546: Cylinder_17_6
+    100548: Cylinder_17_7
+    100550: Cylinder_17_8
+    100552: Cylinder_17_9
+    100554: Cylinder_18
+    100556: Cylinder_18_10
+    100558: Cylinder_18_11
+    100560: Cylinder_18_12
+    100562: Cylinder_18_13
+    100564: Cylinder_18_2
+    100566: Cylinder_18_3
+    100568: Cylinder_18_4
+    100570: Cylinder_18_5
+    100572: Cylinder_18_6
+    100574: Cylinder_18_7
+    100576: Cylinder_18_8
+    100578: Cylinder_18_9
+    100580: Cylinder_19
+    100582: Cylinder_19_10
+    100584: Cylinder_19_11
+    100586: Cylinder_19_12
+    100588: Cylinder_19_13
+    100590: Cylinder_19_14
+    100592: Cylinder_19_15
+    100594: Cylinder_19_16
+    100596: Cylinder_19_17
+    100598: Cylinder_19_18
+    100600: Cylinder_19_19
+    100602: Cylinder_19_2
+    100604: Cylinder_19_3
+    100606: Cylinder_19_4
+    100608: Cylinder_19_5
+    100610: Cylinder_19_6
+    100612: Cylinder_19_7
+    100614: Cylinder_19_8
+    100616: Cylinder_19_9
+    100618: Cylinder_1_10
+    100620: Cylinder_1_11
+    100622: Cylinder_1_12
+    100624: Cylinder_1_13
+    100626: Cylinder_1_14
+    100628: Cylinder_1_15
+    100630: Cylinder_1_16
+    100632: Cylinder_1_2
+    100634: Cylinder_1_3
+    100636: Cylinder_1_4
+    100638: Cylinder_1_5
+    100640: Cylinder_1_6
+    100642: Cylinder_1_7
+    100644: Cylinder_1_8
+    100646: Cylinder_1_9
+    100648: Cylinder_2
+    100650: Cylinder_20
+    100652: Cylinder_20_2
+    100654: Cylinder_20_3
+    100656: Cylinder_21
+    100658: Cylinder_22
+    100660: Cylinder_23
+    100662: Cylinder_24
+    100664: Cylinder_2_10
+    100666: Cylinder_2_11
+    100668: Cylinder_2_2
+    100670: Cylinder_2_3
+    100672: Cylinder_2_4
+    100674: Cylinder_2_5
+    100676: Cylinder_2_6
+    100678: Cylinder_2_7
+    100680: Cylinder_2_8
+    100682: Cylinder_2_9
+    100684: Cylinder_3
+    100686: Cylinder_3_2
+    100688: Cylinder_3_3
+    100690: Cylinder_3_4
+    100692: Cylinder_3_5
+    100694: Cylinder_4
+    100696: Cylinder_4_10
+    100698: Cylinder_4_11
+    100700: Cylinder_4_12
+    100702: Cylinder_4_13
+    100704: Cylinder_4_14
+    100706: Cylinder_4_15
+    100708: Cylinder_4_16
+    100710: Cylinder_4_17
+    100712: Cylinder_4_18
+    100714: Cylinder_4_19
+    100716: Cylinder_4_2
+    100718: Cylinder_4_20
+    100720: Cylinder_4_21
+    100722: Cylinder_4_22
+    100724: Cylinder_4_23
+    100726: Cylinder_4_24
+    100728: Cylinder_4_25
+    100730: Cylinder_4_26
+    100732: Cylinder_4_27
+    100734: Cylinder_4_28
+    100736: Cylinder_4_29
+    100738: Cylinder_4_3
+    100740: Cylinder_4_30
+    100742: Cylinder_4_31
+    100744: Cylinder_4_32
+    100746: Cylinder_4_33
+    100748: Cylinder_4_34
+    100750: Cylinder_4_35
+    100752: Cylinder_4_36
+    100754: Cylinder_4_37
+    100756: Cylinder_4_38
+    100758: Cylinder_4_39
+    100760: Cylinder_4_4
+    100762: Cylinder_4_40
+    100764: Cylinder_4_41
+    100766: Cylinder_4_42
+    100768: Cylinder_4_43
+    100770: Cylinder_4_44
+    100772: Cylinder_4_45
+    100774: Cylinder_4_46
+    100776: Cylinder_4_47
+    100778: Cylinder_4_48
+    100780: Cylinder_4_49
+    100782: Cylinder_4_5
+    100784: Cylinder_4_50
+    100786: Cylinder_4_51
+    100788: Cylinder_4_52
+    100790: Cylinder_4_53
+    100792: Cylinder_4_54
+    100794: Cylinder_4_55
+    100796: Cylinder_4_56
+    100798: Cylinder_4_57
+    100800: Cylinder_4_58
+    100802: Cylinder_4_59
+    100804: Cylinder_4_6
+    100806: Cylinder_4_60
+    100808: Cylinder_4_61
+    100810: Cylinder_4_62
+    100812: Cylinder_4_63
+    100814: Cylinder_4_64
+    100816: Cylinder_4_65
+    100818: Cylinder_4_66
+    100820: Cylinder_4_67
+    100822: Cylinder_4_68
+    100824: Cylinder_4_69
+    100826: Cylinder_4_7
+    100828: Cylinder_4_70
+    100830: Cylinder_4_71
+    100832: Cylinder_4_72
+    100834: Cylinder_4_73
+    100836: Cylinder_4_74
+    100838: Cylinder_4_75
+    100840: Cylinder_4_76
+    100842: Cylinder_4_77
+    100844: Cylinder_4_78
+    100846: Cylinder_4_79
+    100848: Cylinder_4_8
+    100850: Cylinder_4_80
+    100852: Cylinder_4_81
+    100854: Cylinder_4_82
+    100856: Cylinder_4_83
+    100858: Cylinder_4_84
+    100860: Cylinder_4_85
+    100862: Cylinder_4_86
+    100864: Cylinder_4_87
+    100866: Cylinder_4_88
+    100868: Cylinder_4_89
+    100870: Cylinder_4_9
+    100872: Cylinder_4_90
+    100874: Cylinder_4_91
+    100876: Cylinder_4_92
+    100878: Cylinder_4_93
+    100880: Cylinder_5
+    100882: Cylinder_5_10
+    100884: Cylinder_5_11
+    100886: Cylinder_5_12
+    100888: Cylinder_5_13
+    100890: Cylinder_5_14
+    100892: Cylinder_5_15
+    100894: Cylinder_5_16
+    100896: Cylinder_5_17
+    100898: Cylinder_5_18
+    100900: Cylinder_5_19
+    100902: Cylinder_5_2
+    100904: Cylinder_5_20
+    100906: Cylinder_5_21
+    100908: Cylinder_5_22
+    100910: Cylinder_5_23
+    100912: Cylinder_5_24
+    100914: Cylinder_5_25
+    100916: Cylinder_5_26
+    100918: Cylinder_5_27
+    100920: Cylinder_5_28
+    100922: Cylinder_5_29
+    100924: Cylinder_5_3
+    100926: Cylinder_5_30
+    100928: Cylinder_5_31
+    100930: Cylinder_5_32
+    100932: Cylinder_5_33
+    100934: Cylinder_5_34
+    100936: Cylinder_5_35
+    100938: Cylinder_5_36
+    100940: Cylinder_5_37
+    100942: Cylinder_5_38
+    100944: Cylinder_5_39
+    100946: Cylinder_5_4
+    100948: Cylinder_5_40
+    100950: Cylinder_5_41
+    100952: Cylinder_5_42
+    100954: Cylinder_5_43
+    100956: Cylinder_5_44
+    100958: Cylinder_5_45
+    100960: Cylinder_5_46
+    100962: Cylinder_5_47
+    100964: Cylinder_5_48
+    100966: Cylinder_5_49
+    100968: Cylinder_5_5
+    100970: Cylinder_5_50
+    100972: Cylinder_5_51
+    100974: Cylinder_5_52
+    100976: Cylinder_5_53
+    100978: Cylinder_5_54
+    100980: Cylinder_5_55
+    100982: Cylinder_5_56
+    100984: Cylinder_5_57
+    100986: Cylinder_5_58
+    100988: Cylinder_5_59
+    100990: Cylinder_5_6
+    100992: Cylinder_5_60
+    100994: Cylinder_5_61
+    100996: Cylinder_5_62
+    100998: Cylinder_5_63
+    101000: Cylinder_5_64
+    101002: Cylinder_5_65
+    101004: Cylinder_5_66
+    101006: Cylinder_5_67
+    101008: Cylinder_5_68
+    101010: Cylinder_5_69
+    101012: Cylinder_5_7
+    101014: Cylinder_5_70
+    101016: Cylinder_5_71
+    101018: Cylinder_5_72
+    101020: Cylinder_5_73
+    101022: Cylinder_5_8
+    101024: Cylinder_5_9
+    101026: Cylinder_6
+    101028: Cylinder_6_10
+    101030: Cylinder_6_11
+    101032: Cylinder_6_12
+    101034: Cylinder_6_13
+    101036: Cylinder_6_14
+    101038: Cylinder_6_15
+    101040: Cylinder_6_16
+    101042: Cylinder_6_17
+    101044: Cylinder_6_18
+    101046: Cylinder_6_19
+    101048: Cylinder_6_2
+    101050: Cylinder_6_20
+    101052: Cylinder_6_21
+    101054: Cylinder_6_22
+    101056: Cylinder_6_23
+    101058: Cylinder_6_24
+    101060: Cylinder_6_25
+    101062: Cylinder_6_26
+    101064: Cylinder_6_27
+    101066: Cylinder_6_28
+    101068: Cylinder_6_29
+    101070: Cylinder_6_3
+    101072: Cylinder_6_30
+    101074: Cylinder_6_31
+    101076: Cylinder_6_32
+    101078: Cylinder_6_33
+    101080: Cylinder_6_34
+    101082: Cylinder_6_35
+    101084: Cylinder_6_36
+    101086: Cylinder_6_37
+    101088: Cylinder_6_38
+    101090: Cylinder_6_39
+    101092: Cylinder_6_4
+    101094: Cylinder_6_40
+    101096: Cylinder_6_41
+    101098: Cylinder_6_42
+    101100: Cylinder_6_43
+    101102: Cylinder_6_44
+    101104: Cylinder_6_45
+    101106: Cylinder_6_46
+    101108: Cylinder_6_47
+    101110: Cylinder_6_48
+    101112: Cylinder_6_49
+    101114: Cylinder_6_5
+    101116: Cylinder_6_50
+    101118: Cylinder_6_51
+    101120: Cylinder_6_52
+    101122: Cylinder_6_53
+    101124: Cylinder_6_54
+    101126: Cylinder_6_55
+    101128: Cylinder_6_6
+    101130: Cylinder_6_7
+    101132: Cylinder_6_8
+    101134: Cylinder_6_9
+    101136: Cylinder_7
+    101138: Cylinder_7_10
+    101140: Cylinder_7_11
+    101142: Cylinder_7_12
+    101144: Cylinder_7_13
+    101146: Cylinder_7_14
+    101148: Cylinder_7_15
+    101150: Cylinder_7_16
+    101152: Cylinder_7_17
+    101154: Cylinder_7_18
+    101156: Cylinder_7_19
+    101158: Cylinder_7_2
+    101160: Cylinder_7_20
+    101162: Cylinder_7_21
+    101164: Cylinder_7_22
+    101166: Cylinder_7_23
+    101168: Cylinder_7_24
+    101170: Cylinder_7_25
+    101172: Cylinder_7_26
+    101174: Cylinder_7_27
+    101176: Cylinder_7_28
+    101178: Cylinder_7_29
+    101180: Cylinder_7_3
+    101182: Cylinder_7_30
+    101184: Cylinder_7_31
+    101186: Cylinder_7_32
+    101188: Cylinder_7_33
+    101190: Cylinder_7_34
+    101192: Cylinder_7_35
+    101194: Cylinder_7_36
+    101196: Cylinder_7_37
+    101198: Cylinder_7_38
+    101200: Cylinder_7_39
+    101202: Cylinder_7_4
+    101204: Cylinder_7_40
+    101206: Cylinder_7_41
+    101208: Cylinder_7_42
+    101210: Cylinder_7_43
+    101212: Cylinder_7_44
+    101214: Cylinder_7_45
+    101216: Cylinder_7_46
+    101218: Cylinder_7_47
+    101220: Cylinder_7_48
+    101222: Cylinder_7_49
+    101224: Cylinder_7_5
+    101226: Cylinder_7_50
+    101228: Cylinder_7_51
+    101230: Cylinder_7_52
+    101232: Cylinder_7_53
+    101234: Cylinder_7_6
+    101236: Cylinder_7_7
+    101238: Cylinder_7_8
+    101240: Cylinder_7_9
+    101242: Cylinder_8
+    101244: Cylinder_8_10
+    101246: Cylinder_8_11
+    101248: Cylinder_8_12
+    101250: Cylinder_8_13
+    101252: Cylinder_8_14
+    101254: Cylinder_8_15
+    101256: Cylinder_8_16
+    101258: Cylinder_8_17
+    101260: Cylinder_8_18
+    101262: Cylinder_8_19
+    101264: Cylinder_8_2
+    101266: Cylinder_8_20
+    101268: Cylinder_8_21
+    101270: Cylinder_8_22
+    101272: Cylinder_8_23
+    101274: Cylinder_8_24
+    101276: Cylinder_8_25
+    101278: Cylinder_8_26
+    101280: Cylinder_8_27
+    101282: Cylinder_8_28
+    101284: Cylinder_8_29
+    101286: Cylinder_8_3
+    101288: Cylinder_8_30
+    101290: Cylinder_8_31
+    101292: Cylinder_8_32
+    101294: Cylinder_8_33
+    101296: Cylinder_8_34
+    101298: Cylinder_8_35
+    101300: Cylinder_8_36
+    101302: Cylinder_8_37
+    101304: Cylinder_8_38
+    101306: Cylinder_8_39
+    101308: Cylinder_8_4
+    101310: Cylinder_8_40
+    101312: Cylinder_8_41
+    101314: Cylinder_8_42
+    101316: Cylinder_8_43
+    101318: Cylinder_8_44
+    101320: Cylinder_8_45
+    101322: Cylinder_8_46
+    101324: Cylinder_8_47
+    101326: Cylinder_8_48
+    101328: Cylinder_8_49
+    101330: Cylinder_8_5
+    101332: Cylinder_8_50
+    101334: Cylinder_8_51
+    101336: Cylinder_8_52
+    101338: Cylinder_8_53
+    101340: Cylinder_8_54
+    101342: Cylinder_8_55
+    101344: Cylinder_8_6
+    101346: Cylinder_8_7
+    101348: Cylinder_8_8
+    101350: Cylinder_8_9
+    101352: Cylinder_9
+    101354: Cylinder_9_10
+    101356: Cylinder_9_11
+    101358: Cylinder_9_12
+    101360: Cylinder_9_13
+    101362: Cylinder_9_14
+    101364: Cylinder_9_15
+    101366: Cylinder_9_16
+    101368: Cylinder_9_17
+    101370: Cylinder_9_18
+    101372: Cylinder_9_19
+    101374: Cylinder_9_2
+    101376: Cylinder_9_20
+    101378: Cylinder_9_21
+    101380: Cylinder_9_22
+    101382: Cylinder_9_23
+    101384: Cylinder_9_24
+    101386: Cylinder_9_25
+    101388: Cylinder_9_26
+    101390: Cylinder_9_27
+    101392: Cylinder_9_28
+    101394: Cylinder_9_29
+    101396: Cylinder_9_3
+    101398: Cylinder_9_30
+    101400: Cylinder_9_31
+    101402: Cylinder_9_32
+    101404: Cylinder_9_33
+    101406: Cylinder_9_34
+    101408: Cylinder_9_35
+    101410: Cylinder_9_36
+    101412: Cylinder_9_37
+    101414: Cylinder_9_38
+    101416: Cylinder_9_39
+    101418: Cylinder_9_4
+    101420: Cylinder_9_40
+    101422: Cylinder_9_41
+    101424: Cylinder_9_42
+    101426: Cylinder_9_43
+    101428: Cylinder_9_44
+    101430: Cylinder_9_45
+    101432: Cylinder_9_46
+    101434: Cylinder_9_47
+    101436: Cylinder_9_48
+    101438: Cylinder_9_49
+    101440: Cylinder_9_5
+    101442: Cylinder_9_50
+    101444: Cylinder_9_51
+    101446: Cylinder_9_52
+    101448: Cylinder_9_53
+    101450: Cylinder_9_54
+    101452: Cylinder_9_55
+    101454: Cylinder_9_6
+    101456: Cylinder_9_7
+    101458: Cylinder_9_8
+    101460: Cylinder_9_9
+    101462: ect
+    101464: ect1
+    101466: ect1_2
+    101468: ect2
+    101470: ect2_1
+    101472: ect2_1_2
+    101474: ect2_2
+    101476: ect2_2_2
+    101478: ect2_2_3
+    101480: ect2_3
+    101482: ect2_3_2
+    101484: ect2_4
+    101486: ect2_4_2
+    101488: ect2_5
+    101490: ect2_5_2
+    101492: ect2_6
+    101494: ect2_6_2
+    101496: ect_2
+    101498: L_Ext05
+    101500: L_Ext05_2
+    101502: Line014
+    101504: Line014_2
+    101506: Line015
+    101508: Line015_2
+    101510: Line07
+    101512: Line07_2
+    101514: //RootNode
+    101516: Null
+    101518: Null_1
+    101520: Null_1_2
+    101522: Null_2
+    101524: Null_2_2
+    101526: Null_2_3
+    101528: Null_3
+    101530: Null_3_2
+    101532: Null_3_3
+    101534: Null_4
+    101536: Null_4_2
+    101538: Null_4_3
+    101540: Null_4_4
+    101542: Null_4_5
+    101544: Null_4_6
+    101546: Null_4_7
+    101548: Null_4_8
+    101550: Null_5
+    101552: Null_6
+    101554: Null_7
+    101556: Object235
+    101558: Object235_2
+    101560: Oil_Tank
+    101562: Oil_Tank_1
+    101564: Oil_Tank_10
+    101566: Oil_Tank_11
+    101568: Oil_Tank_12
+    101570: Oil_Tank_13
+    101572: Oil_Tank_14
+    101574: Oil_Tank_15
+    101576: Oil_Tank_16
+    101578: Oil_Tank_17
+    101580: Oil_Tank_18
+    101582: Oil_Tank_19
+    101584: Oil_Tank_1_10
+    101586: Oil_Tank_1_11
+    101588: Oil_Tank_1_12
+    101590: Oil_Tank_1_13
+    101592: Oil_Tank_1_14
+    101594: Oil_Tank_1_15
+    101596: Oil_Tank_1_16
+    101598: Oil_Tank_1_17
+    101600: Oil_Tank_1_18
+    101602: Oil_Tank_1_19
+    101604: Oil_Tank_1_2
+    101606: Oil_Tank_1_20
+    101608: Oil_Tank_1_21
+    101610: Oil_Tank_1_22
+    101612: Oil_Tank_1_23
+    101614: Oil_Tank_1_24
+    101616: Oil_Tank_1_25
+    101618: Oil_Tank_1_26
+    101620: Oil_Tank_1_27
+    101622: Oil_Tank_1_28
+    101624: Oil_Tank_1_29
+    101626: Oil_Tank_1_3
+    101628: Oil_Tank_1_30
+    101630: Oil_Tank_1_31
+    101632: Oil_Tank_1_32
+    101634: Oil_Tank_1_33
+    101636: Oil_Tank_1_34
+    101638: Oil_Tank_1_35
+    101640: Oil_Tank_1_36
+    101642: Oil_Tank_1_37
+    101644: Oil_Tank_1_38
+    101646: Oil_Tank_1_39
+    101648: Oil_Tank_1_4
+    101650: Oil_Tank_1_40
+    101652: Oil_Tank_1_41
+    101654: Oil_Tank_1_42
+    101656: Oil_Tank_1_43
+    101658: Oil_Tank_1_44
+    101660: Oil_Tank_1_45
+    101662: Oil_Tank_1_46
+    101664: Oil_Tank_1_5
+    101666: Oil_Tank_1_6
+    101668: Oil_Tank_1_7
+    101670: Oil_Tank_1_8
+    101672: Oil_Tank_1_9
+    101674: Oil_Tank_2
+    101676: Oil_Tank_20
+    101678: Oil_Tank_2_2
+    101680: Oil_Tank_2_3
+    101682: Oil_Tank_2_4
+    101684: Oil_Tank_2_5
+    101686: Oil_Tank_2_6
+    101688: Oil_Tank_2_7
+    101690: Oil_Tank_3
+    101692: Oil_Tank_3_2
+    101694: Oil_Tank_3_3
+    101696: Oil_Tank_3_4
+    101698: Oil_Tank_3_5
+    101700: Oil_Tank_3_6
+    101702: Oil_Tank_3_7
+    101704: Oil_Tank_4
+    101706: Oil_Tank_4_2
+    101708: Oil_Tank_4_3
+    101710: Oil_Tank_4_4
+    101712: Oil_Tank_4_5
+    101714: Oil_Tank_4_6
+    101716: Oil_Tank_4_7
+    101718: Oil_Tank_5
+    101720: Oil_Tank_5_2
+    101722: Oil_Tank_5_3
+    101724: Oil_Tank_5_4
+    101726: Oil_Tank_5_5
+    101728: Oil_Tank_5_6
+    101730: Oil_Tank_5_7
+    101732: Oil_Tank_6
+    101734: Oil_Tank_6_2
+    101736: Oil_Tank_6_3
+    101738: Oil_Tank_6_4
+    101740: Oil_Tank_6_5
+    101742: Oil_Tank_6_6
+    101744: Oil_Tank_6_7
+    101746: Oil_Tank_7
+    101748: Oil_Tank_7_2
+    101750: Oil_Tank_7_3
+    101752: Oil_Tank_7_4
+    101754: Oil_Tank_7_5
+    101756: Oil_Tank_7_6
+    101758: Oil_Tank_7_7
+    101760: Oil_Tank_8
+    101762: Oil_Tank_9
+    101764: Pipe
+    101766: Pipe_1
+    101768: Pipe_1_2
+    101770: Pipe_2
+    101772: Pipe_2_2
+    101774: Pipe_2_3
+    101776: Pipe_3
+    101778: Pipe_3_2
+    101780: Pipe_4
+    101782: Pipe_4_2
+    101784: Pipe_5
+    101786: Pipe_5_2
+    101788: Pipe_6
+    101790: Pipe_6_2
+    101792: Pipe_7
+    101794: Pipe_7_2
+    101796: screw
+    101798: screw_1
+    101800: screw_10
+    101802: screw_10_2
+    101804: screw_11
+    101806: screw_11_2
+    101808: screw_12
+    101810: screw_12_2
+    101812: screw_13
+    101814: screw_13_2
+    101816: screw_14
+    101818: screw_14_2
+    101820: screw_15
+    101822: screw_15_2
+    101824: screw_16
+    101826: screw_16_2
+    101828: screw_17
+    101830: screw_17_2
+    101832: screw_18
+    101834: screw_18_2
+    101836: screw_19
+    101838: screw_19_2
+    101840: screw_1_2
+    101842: screw_2
+    101844: screw_20
+    101846: screw_20_2
+    101848: screw_2_2
+    101850: screw_2_3
+    101852: screw_3
+    101854: screw_3_2
+    101856: screw_4
+    101858: screw_4_2
+    101860: screw_5
+    101862: screw_5_2
+    101864: screw_6
+    101866: screw_6_2
+    101868: screw_7
+    101870: screw_7_2
+    101872: screw_8
+    101874: screw_8_2
+    101876: screw_9
+    101878: screw_9_2
+    101880: Sphere
+    101882: Sphere_1
+    101884: Sphere_10
+    101886: Sphere_10_2
+    101888: Sphere_11
+    101890: Sphere_11_2
+    101892: Sphere_12
+    101894: Sphere_12_2
+    101896: Sphere_1_2
+    101898: Sphere_2
+    101900: Sphere_2_2
+    101902: Sphere_2_3
+    101904: Sphere_2_4
+    101906: Sphere_2_5
+    101908: Sphere_2_6
+    101910: Sphere_2_7
+    101912: Sphere_3
+    101914: Sphere_3_2
+    101916: Sphere_4
+    101918: Sphere_4_2
+    101920: Sphere_5
+    101922: Sphere_5_2
+    101924: Sphere_6
+    101926: Sphere_6_2
+    101928: Sphere_7
+    101930: Sphere_7_2
+    101932: Sphere_8
+    101934: Sphere_8_2
+    101936: Sphere_9
+    101938: Sphere_9_2
+    101940: Torus
+    101942: Torus_2
+    101944: Torus_3
+    101946: Torus_4
+    101948: Torus_5
+    101950: Torus_6
+    101952: Torus_7
+    101954: Torus_8
+    101956: Tube
+    101958: Tube_10
+    101960: Tube_11
+    101962: Tube_12
+    101964: Tube_13
+    101966: Tube_14
+    101968: Tube_15
+    101970: Tube_16
+    101972: Tube_17
+    101974: Tube_18
+    101976: Tube_19
+    101978: Tube_2
+    101980: Tube_20
+    101982: Tube_21
+    101984: Tube_22
+    101986: Tube_23
+    101988: Tube_24
+    101990: Tube_3
+    101992: Tube_4
+    101994: Tube_5
+    101996: Tube_6
+    101998: Tube_7
+    102000: Tube_8
+    102002: Tube_9
+    102004: valve
+    102006: valve_1
+    102008: valve_1_2
+    102010: valve_2
+    102012: valve_2_2
+    102014: valve_2_3
+    102016: valve_3
+    102018: valve_3_2
+    400000: Box017
+    400002: Box017_2
+    400004: Box018
+    400006: Box018_2
+    400008: Box019
+    400010: Box019_2
+    400012: Box020
+    400014: Box020_2
+    400016: Box021
+    400018: Box021_2
+    400020: Box022
+    400022: Box022_2
+    400024: Box023
+    400026: Box023_2
+    400028: Box06
+    400030: Box06_2
+    400032: Box15
+    400034: Box15_2
+    400036: Button
+    400038: Button_1
+    400040: Button_1_2
+    400042: Button_2
+    400044: Capsule
+    400046: Capsule_1
+    400048: Capsule_10
+    400050: Capsule_1_2
+    400052: Capsule_1_3
+    400054: Capsule_1_4
+    400056: Capsule_1_5
+    400058: Capsule_1_6
+    400060: Capsule_1_7
+    400062: Capsule_1_8
+    400064: Capsule_2
+    400066: Capsule_2_2
+    400068: Capsule_2_3
+    400070: Capsule_2_4
+    400072: Capsule_2_5
+    400074: Capsule_2_6
+    400076: Capsule_2_7
+    400078: Capsule_2_8
+    400080: Capsule_2_9
+    400082: Capsule_3
+    400084: Capsule_3_2
+    400086: Capsule_3_3
+    400088: Capsule_3_4
+    400090: Capsule_3_5
+    400092: Capsule_3_6
+    400094: Capsule_3_7
+    400096: Capsule_3_8
+    400098: Capsule_3_9
+    400100: Capsule_4
+    400102: Capsule_4_2
+    400104: Capsule_4_3
+    400106: Capsule_4_4
+    400108: Capsule_4_5
+    400110: Capsule_4_6
+    400112: Capsule_4_7
+    400114: Capsule_4_8
+    400116: Capsule_4_9
+    400118: Capsule_5
+    400120: Capsule_5_2
+    400122: Capsule_5_3
+    400124: Capsule_5_4
+    400126: Capsule_5_5
+    400128: Capsule_5_6
+    400130: Capsule_5_7
+    400132: Capsule_5_8
+    400134: Capsule_5_9
+    400136: Capsule_6
+    400138: Capsule_6_2
+    400140: Capsule_6_3
+    400142: Capsule_6_4
+    400144: Capsule_6_5
+    400146: Capsule_6_6
+    400148: Capsule_6_7
+    400150: Capsule_6_8
+    400152: Capsule_6_9
+    400154: Capsule_7
+    400156: Capsule_8
+    400158: Capsule_9
+    400160: CINEMA_4D_Editor
+    400162: Cube
+    400164: Cube_1
+    400166: Cube_10
+    400168: Cube_10_2
+    400170: Cube_10_3
+    400172: Cube_10_4
+    400174: Cube_11
+    400176: Cube_11_2
+    400178: Cube_11_3
+    400180: Cube_11_4
+    400182: Cube_12
+    400184: Cube_12_2
+    400186: Cube_12_3
+    400188: Cube_12_4
+    400190: Cube_13
+    400192: Cube_13_2
+    400194: Cube_13_3
+    400196: Cube_13_4
+    400198: Cube_14
+    400200: Cube_14_2
+    400202: Cube_14_3
+    400204: Cube_14_4
+    400206: Cube_15
+    400208: Cube_15_2
+    400210: Cube_15_3
+    400212: Cube_15_4
+    400214: Cube_1_2
+    400216: Cube_1_3
+    400218: Cube_1_4
+    400220: Cube_1_5
+    400222: Cube_1_6
+    400224: Cube_2
+    400226: Cube_2_10
+    400228: Cube_2_11
+    400230: Cube_2_12
+    400232: Cube_2_13
+    400234: Cube_2_14
+    400236: Cube_2_15
+    400238: Cube_2_2
+    400240: Cube_2_3
+    400242: Cube_2_4
+    400244: Cube_2_5
+    400246: Cube_2_6
+    400248: Cube_2_7
+    400250: Cube_2_8
+    400252: Cube_2_9
+    400254: Cube_3
+    400256: Cube_3_2
+    400258: Cube_3_3
+    400260: Cube_3_4
+    400262: Cube_3_5
+    400264: Cube_3_6
+    400266: Cube_4
+    400268: Cube_4_2
+    400270: Cube_4_3
+    400272: Cube_4_4
+    400274: Cube_4_5
+    400276: Cube_4_6
+    400278: Cube_5
+    400280: Cube_5_2
+    400282: Cube_5_3
+    400284: Cube_5_4
+    400286: Cube_5_5
+    400288: Cube_5_6
+    400290: Cube_6
+    400292: Cube_6_2
+    400294: Cube_6_3
+    400296: Cube_6_4
+    400298: Cube_6_5
+    400300: Cube_6_6
+    400302: Cube_7
+    400304: Cube_7_2
+    400306: Cube_7_3
+    400308: Cube_7_4
+    400310: Cube_7_5
+    400312: Cube_7_6
+    400314: Cube_8
+    400316: Cube_8_2
+    400318: Cube_8_3
+    400320: Cube_8_4
+    400322: Cube_8_5
+    400324: Cube_8_6
+    400326: Cube_9
+    400328: Cube_9_2
+    400330: Cube_9_3
+    400332: Cube_9_4
+    400334: Cylinder
+    400336: Cylinder_1
+    400338: Cylinder_10
+    400340: Cylinder_10_10
+    400342: Cylinder_10_11
+    400344: Cylinder_10_12
+    400346: Cylinder_10_13
+    400348: Cylinder_10_2
+    400350: Cylinder_10_3
+    400352: Cylinder_10_4
+    400354: Cylinder_10_5
+    400356: Cylinder_10_6
+    400358: Cylinder_10_7
+    400360: Cylinder_10_8
+    400362: Cylinder_10_9
+    400364: Cylinder_11
+    400366: Cylinder_11_10
+    400368: Cylinder_11_11
+    400370: Cylinder_11_12
+    400372: Cylinder_11_13
+    400374: Cylinder_11_2
+    400376: Cylinder_11_3
+    400378: Cylinder_11_4
+    400380: Cylinder_11_5
+    400382: Cylinder_11_6
+    400384: Cylinder_11_7
+    400386: Cylinder_11_8
+    400388: Cylinder_11_9
+    400390: Cylinder_12
+    400392: Cylinder_12_10
+    400394: Cylinder_12_11
+    400396: Cylinder_12_12
+    400398: Cylinder_12_13
+    400400: Cylinder_12_14
+    400402: Cylinder_12_15
+    400404: Cylinder_12_2
+    400406: Cylinder_12_3
+    400408: Cylinder_12_4
+    400410: Cylinder_12_5
+    400412: Cylinder_12_6
+    400414: Cylinder_12_7
+    400416: Cylinder_12_8
+    400418: Cylinder_12_9
+    400420: Cylinder_13
+    400422: Cylinder_13_10
+    400424: Cylinder_13_11
+    400426: Cylinder_13_12
+    400428: Cylinder_13_13
+    400430: Cylinder_13_14
+    400432: Cylinder_13_15
+    400434: Cylinder_13_2
+    400436: Cylinder_13_3
+    400438: Cylinder_13_4
+    400440: Cylinder_13_5
+    400442: Cylinder_13_6
+    400444: Cylinder_13_7
+    400446: Cylinder_13_8
+    400448: Cylinder_13_9
+    400450: Cylinder_14
+    400452: Cylinder_14_10
+    400454: Cylinder_14_11
+    400456: Cylinder_14_12
+    400458: Cylinder_14_13
+    400460: Cylinder_14_2
+    400462: Cylinder_14_3
+    400464: Cylinder_14_4
+    400466: Cylinder_14_5
+    400468: Cylinder_14_6
+    400470: Cylinder_14_7
+    400472: Cylinder_14_8
+    400474: Cylinder_14_9
+    400476: Cylinder_15
+    400478: Cylinder_15_10
+    400480: Cylinder_15_11
+    400482: Cylinder_15_12
+    400484: Cylinder_15_13
+    400486: Cylinder_15_2
+    400488: Cylinder_15_3
+    400490: Cylinder_15_4
+    400492: Cylinder_15_5
+    400494: Cylinder_15_6
+    400496: Cylinder_15_7
+    400498: Cylinder_15_8
+    400500: Cylinder_15_9
+    400502: Cylinder_16
+    400504: Cylinder_16_10
+    400506: Cylinder_16_11
+    400508: Cylinder_16_12
+    400510: Cylinder_16_13
+    400512: Cylinder_16_2
+    400514: Cylinder_16_3
+    400516: Cylinder_16_4
+    400518: Cylinder_16_5
+    400520: Cylinder_16_6
+    400522: Cylinder_16_7
+    400524: Cylinder_16_8
+    400526: Cylinder_16_9
+    400528: Cylinder_17
+    400530: Cylinder_17_10
+    400532: Cylinder_17_11
+    400534: Cylinder_17_12
+    400536: Cylinder_17_13
+    400538: Cylinder_17_2
+    400540: Cylinder_17_3
+    400542: Cylinder_17_4
+    400544: Cylinder_17_5
+    400546: Cylinder_17_6
+    400548: Cylinder_17_7
+    400550: Cylinder_17_8
+    400552: Cylinder_17_9
+    400554: Cylinder_18
+    400556: Cylinder_18_10
+    400558: Cylinder_18_11
+    400560: Cylinder_18_12
+    400562: Cylinder_18_13
+    400564: Cylinder_18_2
+    400566: Cylinder_18_3
+    400568: Cylinder_18_4
+    400570: Cylinder_18_5
+    400572: Cylinder_18_6
+    400574: Cylinder_18_7
+    400576: Cylinder_18_8
+    400578: Cylinder_18_9
+    400580: Cylinder_19
+    400582: Cylinder_19_10
+    400584: Cylinder_19_11
+    400586: Cylinder_19_12
+    400588: Cylinder_19_13
+    400590: Cylinder_19_14
+    400592: Cylinder_19_15
+    400594: Cylinder_19_16
+    400596: Cylinder_19_17
+    400598: Cylinder_19_18
+    400600: Cylinder_19_19
+    400602: Cylinder_19_2
+    400604: Cylinder_19_3
+    400606: Cylinder_19_4
+    400608: Cylinder_19_5
+    400610: Cylinder_19_6
+    400612: Cylinder_19_7
+    400614: Cylinder_19_8
+    400616: Cylinder_19_9
+    400618: Cylinder_1_10
+    400620: Cylinder_1_11
+    400622: Cylinder_1_12
+    400624: Cylinder_1_13
+    400626: Cylinder_1_14
+    400628: Cylinder_1_15
+    400630: Cylinder_1_16
+    400632: Cylinder_1_2
+    400634: Cylinder_1_3
+    400636: Cylinder_1_4
+    400638: Cylinder_1_5
+    400640: Cylinder_1_6
+    400642: Cylinder_1_7
+    400644: Cylinder_1_8
+    400646: Cylinder_1_9
+    400648: Cylinder_2
+    400650: Cylinder_20
+    400652: Cylinder_20_2
+    400654: Cylinder_20_3
+    400656: Cylinder_21
+    400658: Cylinder_22
+    400660: Cylinder_23
+    400662: Cylinder_24
+    400664: Cylinder_2_10
+    400666: Cylinder_2_11
+    400668: Cylinder_2_2
+    400670: Cylinder_2_3
+    400672: Cylinder_2_4
+    400674: Cylinder_2_5
+    400676: Cylinder_2_6
+    400678: Cylinder_2_7
+    400680: Cylinder_2_8
+    400682: Cylinder_2_9
+    400684: Cylinder_3
+    400686: Cylinder_3_2
+    400688: Cylinder_3_3
+    400690: Cylinder_3_4
+    400692: Cylinder_3_5
+    400694: Cylinder_4
+    400696: Cylinder_4_10
+    400698: Cylinder_4_11
+    400700: Cylinder_4_12
+    400702: Cylinder_4_13
+    400704: Cylinder_4_14
+    400706: Cylinder_4_15
+    400708: Cylinder_4_16
+    400710: Cylinder_4_17
+    400712: Cylinder_4_18
+    400714: Cylinder_4_19
+    400716: Cylinder_4_2
+    400718: Cylinder_4_20
+    400720: Cylinder_4_21
+    400722: Cylinder_4_22
+    400724: Cylinder_4_23
+    400726: Cylinder_4_24
+    400728: Cylinder_4_25
+    400730: Cylinder_4_26
+    400732: Cylinder_4_27
+    400734: Cylinder_4_28
+    400736: Cylinder_4_29
+    400738: Cylinder_4_3
+    400740: Cylinder_4_30
+    400742: Cylinder_4_31
+    400744: Cylinder_4_32
+    400746: Cylinder_4_33
+    400748: Cylinder_4_34
+    400750: Cylinder_4_35
+    400752: Cylinder_4_36
+    400754: Cylinder_4_37
+    400756: Cylinder_4_38
+    400758: Cylinder_4_39
+    400760: Cylinder_4_4
+    400762: Cylinder_4_40
+    400764: Cylinder_4_41
+    400766: Cylinder_4_42
+    400768: Cylinder_4_43
+    400770: Cylinder_4_44
+    400772: Cylinder_4_45
+    400774: Cylinder_4_46
+    400776: Cylinder_4_47
+    400778: Cylinder_4_48
+    400780: Cylinder_4_49
+    400782: Cylinder_4_5
+    400784: Cylinder_4_50
+    400786: Cylinder_4_51
+    400788: Cylinder_4_52
+    400790: Cylinder_4_53
+    400792: Cylinder_4_54
+    400794: Cylinder_4_55
+    400796: Cylinder_4_56
+    400798: Cylinder_4_57
+    400800: Cylinder_4_58
+    400802: Cylinder_4_59
+    400804: Cylinder_4_6
+    400806: Cylinder_4_60
+    400808: Cylinder_4_61
+    400810: Cylinder_4_62
+    400812: Cylinder_4_63
+    400814: Cylinder_4_64
+    400816: Cylinder_4_65
+    400818: Cylinder_4_66
+    400820: Cylinder_4_67
+    400822: Cylinder_4_68
+    400824: Cylinder_4_69
+    400826: Cylinder_4_7
+    400828: Cylinder_4_70
+    400830: Cylinder_4_71
+    400832: Cylinder_4_72
+    400834: Cylinder_4_73
+    400836: Cylinder_4_74
+    400838: Cylinder_4_75
+    400840: Cylinder_4_76
+    400842: Cylinder_4_77
+    400844: Cylinder_4_78
+    400846: Cylinder_4_79
+    400848: Cylinder_4_8
+    400850: Cylinder_4_80
+    400852: Cylinder_4_81
+    400854: Cylinder_4_82
+    400856: Cylinder_4_83
+    400858: Cylinder_4_84
+    400860: Cylinder_4_85
+    400862: Cylinder_4_86
+    400864: Cylinder_4_87
+    400866: Cylinder_4_88
+    400868: Cylinder_4_89
+    400870: Cylinder_4_9
+    400872: Cylinder_4_90
+    400874: Cylinder_4_91
+    400876: Cylinder_4_92
+    400878: Cylinder_4_93
+    400880: Cylinder_5
+    400882: Cylinder_5_10
+    400884: Cylinder_5_11
+    400886: Cylinder_5_12
+    400888: Cylinder_5_13
+    400890: Cylinder_5_14
+    400892: Cylinder_5_15
+    400894: Cylinder_5_16
+    400896: Cylinder_5_17
+    400898: Cylinder_5_18
+    400900: Cylinder_5_19
+    400902: Cylinder_5_2
+    400904: Cylinder_5_20
+    400906: Cylinder_5_21
+    400908: Cylinder_5_22
+    400910: Cylinder_5_23
+    400912: Cylinder_5_24
+    400914: Cylinder_5_25
+    400916: Cylinder_5_26
+    400918: Cylinder_5_27
+    400920: Cylinder_5_28
+    400922: Cylinder_5_29
+    400924: Cylinder_5_3
+    400926: Cylinder_5_30
+    400928: Cylinder_5_31
+    400930: Cylinder_5_32
+    400932: Cylinder_5_33
+    400934: Cylinder_5_34
+    400936: Cylinder_5_35
+    400938: Cylinder_5_36
+    400940: Cylinder_5_37
+    400942: Cylinder_5_38
+    400944: Cylinder_5_39
+    400946: Cylinder_5_4
+    400948: Cylinder_5_40
+    400950: Cylinder_5_41
+    400952: Cylinder_5_42
+    400954: Cylinder_5_43
+    400956: Cylinder_5_44
+    400958: Cylinder_5_45
+    400960: Cylinder_5_46
+    400962: Cylinder_5_47
+    400964: Cylinder_5_48
+    400966: Cylinder_5_49
+    400968: Cylinder_5_5
+    400970: Cylinder_5_50
+    400972: Cylinder_5_51
+    400974: Cylinder_5_52
+    400976: Cylinder_5_53
+    400978: Cylinder_5_54
+    400980: Cylinder_5_55
+    400982: Cylinder_5_56
+    400984: Cylinder_5_57
+    400986: Cylinder_5_58
+    400988: Cylinder_5_59
+    400990: Cylinder_5_6
+    400992: Cylinder_5_60
+    400994: Cylinder_5_61
+    400996: Cylinder_5_62
+    400998: Cylinder_5_63
+    401000: Cylinder_5_64
+    401002: Cylinder_5_65
+    401004: Cylinder_5_66
+    401006: Cylinder_5_67
+    401008: Cylinder_5_68
+    401010: Cylinder_5_69
+    401012: Cylinder_5_7
+    401014: Cylinder_5_70
+    401016: Cylinder_5_71
+    401018: Cylinder_5_72
+    401020: Cylinder_5_73
+    401022: Cylinder_5_8
+    401024: Cylinder_5_9
+    401026: Cylinder_6
+    401028: Cylinder_6_10
+    401030: Cylinder_6_11
+    401032: Cylinder_6_12
+    401034: Cylinder_6_13
+    401036: Cylinder_6_14
+    401038: Cylinder_6_15
+    401040: Cylinder_6_16
+    401042: Cylinder_6_17
+    401044: Cylinder_6_18
+    401046: Cylinder_6_19
+    401048: Cylinder_6_2
+    401050: Cylinder_6_20
+    401052: Cylinder_6_21
+    401054: Cylinder_6_22
+    401056: Cylinder_6_23
+    401058: Cylinder_6_24
+    401060: Cylinder_6_25
+    401062: Cylinder_6_26
+    401064: Cylinder_6_27
+    401066: Cylinder_6_28
+    401068: Cylinder_6_29
+    401070: Cylinder_6_3
+    401072: Cylinder_6_30
+    401074: Cylinder_6_31
+    401076: Cylinder_6_32
+    401078: Cylinder_6_33
+    401080: Cylinder_6_34
+    401082: Cylinder_6_35
+    401084: Cylinder_6_36
+    401086: Cylinder_6_37
+    401088: Cylinder_6_38
+    401090: Cylinder_6_39
+    401092: Cylinder_6_4
+    401094: Cylinder_6_40
+    401096: Cylinder_6_41
+    401098: Cylinder_6_42
+    401100: Cylinder_6_43
+    401102: Cylinder_6_44
+    401104: Cylinder_6_45
+    401106: Cylinder_6_46
+    401108: Cylinder_6_47
+    401110: Cylinder_6_48
+    401112: Cylinder_6_49
+    401114: Cylinder_6_5
+    401116: Cylinder_6_50
+    401118: Cylinder_6_51
+    401120: Cylinder_6_52
+    401122: Cylinder_6_53
+    401124: Cylinder_6_54
+    401126: Cylinder_6_55
+    401128: Cylinder_6_6
+    401130: Cylinder_6_7
+    401132: Cylinder_6_8
+    401134: Cylinder_6_9
+    401136: Cylinder_7
+    401138: Cylinder_7_10
+    401140: Cylinder_7_11
+    401142: Cylinder_7_12
+    401144: Cylinder_7_13
+    401146: Cylinder_7_14
+    401148: Cylinder_7_15
+    401150: Cylinder_7_16
+    401152: Cylinder_7_17
+    401154: Cylinder_7_18
+    401156: Cylinder_7_19
+    401158: Cylinder_7_2
+    401160: Cylinder_7_20
+    401162: Cylinder_7_21
+    401164: Cylinder_7_22
+    401166: Cylinder_7_23
+    401168: Cylinder_7_24
+    401170: Cylinder_7_25
+    401172: Cylinder_7_26
+    401174: Cylinder_7_27
+    401176: Cylinder_7_28
+    401178: Cylinder_7_29
+    401180: Cylinder_7_3
+    401182: Cylinder_7_30
+    401184: Cylinder_7_31
+    401186: Cylinder_7_32
+    401188: Cylinder_7_33
+    401190: Cylinder_7_34
+    401192: Cylinder_7_35
+    401194: Cylinder_7_36
+    401196: Cylinder_7_37
+    401198: Cylinder_7_38
+    401200: Cylinder_7_39
+    401202: Cylinder_7_4
+    401204: Cylinder_7_40
+    401206: Cylinder_7_41
+    401208: Cylinder_7_42
+    401210: Cylinder_7_43
+    401212: Cylinder_7_44
+    401214: Cylinder_7_45
+    401216: Cylinder_7_46
+    401218: Cylinder_7_47
+    401220: Cylinder_7_48
+    401222: Cylinder_7_49
+    401224: Cylinder_7_5
+    401226: Cylinder_7_50
+    401228: Cylinder_7_51
+    401230: Cylinder_7_52
+    401232: Cylinder_7_53
+    401234: Cylinder_7_6
+    401236: Cylinder_7_7
+    401238: Cylinder_7_8
+    401240: Cylinder_7_9
+    401242: Cylinder_8
+    401244: Cylinder_8_10
+    401246: Cylinder_8_11
+    401248: Cylinder_8_12
+    401250: Cylinder_8_13
+    401252: Cylinder_8_14
+    401254: Cylinder_8_15
+    401256: Cylinder_8_16
+    401258: Cylinder_8_17
+    401260: Cylinder_8_18
+    401262: Cylinder_8_19
+    401264: Cylinder_8_2
+    401266: Cylinder_8_20
+    401268: Cylinder_8_21
+    401270: Cylinder_8_22
+    401272: Cylinder_8_23
+    401274: Cylinder_8_24
+    401276: Cylinder_8_25
+    401278: Cylinder_8_26
+    401280: Cylinder_8_27
+    401282: Cylinder_8_28
+    401284: Cylinder_8_29
+    401286: Cylinder_8_3
+    401288: Cylinder_8_30
+    401290: Cylinder_8_31
+    401292: Cylinder_8_32
+    401294: Cylinder_8_33
+    401296: Cylinder_8_34
+    401298: Cylinder_8_35
+    401300: Cylinder_8_36
+    401302: Cylinder_8_37
+    401304: Cylinder_8_38
+    401306: Cylinder_8_39
+    401308: Cylinder_8_4
+    401310: Cylinder_8_40
+    401312: Cylinder_8_41
+    401314: Cylinder_8_42
+    401316: Cylinder_8_43
+    401318: Cylinder_8_44
+    401320: Cylinder_8_45
+    401322: Cylinder_8_46
+    401324: Cylinder_8_47
+    401326: Cylinder_8_48
+    401328: Cylinder_8_49
+    401330: Cylinder_8_5
+    401332: Cylinder_8_50
+    401334: Cylinder_8_51
+    401336: Cylinder_8_52
+    401338: Cylinder_8_53
+    401340: Cylinder_8_54
+    401342: Cylinder_8_55
+    401344: Cylinder_8_6
+    401346: Cylinder_8_7
+    401348: Cylinder_8_8
+    401350: Cylinder_8_9
+    401352: Cylinder_9
+    401354: Cylinder_9_10
+    401356: Cylinder_9_11
+    401358: Cylinder_9_12
+    401360: Cylinder_9_13
+    401362: Cylinder_9_14
+    401364: Cylinder_9_15
+    401366: Cylinder_9_16
+    401368: Cylinder_9_17
+    401370: Cylinder_9_18
+    401372: Cylinder_9_19
+    401374: Cylinder_9_2
+    401376: Cylinder_9_20
+    401378: Cylinder_9_21
+    401380: Cylinder_9_22
+    401382: Cylinder_9_23
+    401384: Cylinder_9_24
+    401386: Cylinder_9_25
+    401388: Cylinder_9_26
+    401390: Cylinder_9_27
+    401392: Cylinder_9_28
+    401394: Cylinder_9_29
+    401396: Cylinder_9_3
+    401398: Cylinder_9_30
+    401400: Cylinder_9_31
+    401402: Cylinder_9_32
+    401404: Cylinder_9_33
+    401406: Cylinder_9_34
+    401408: Cylinder_9_35
+    401410: Cylinder_9_36
+    401412: Cylinder_9_37
+    401414: Cylinder_9_38
+    401416: Cylinder_9_39
+    401418: Cylinder_9_4
+    401420: Cylinder_9_40
+    401422: Cylinder_9_41
+    401424: Cylinder_9_42
+    401426: Cylinder_9_43
+    401428: Cylinder_9_44
+    401430: Cylinder_9_45
+    401432: Cylinder_9_46
+    401434: Cylinder_9_47
+    401436: Cylinder_9_48
+    401438: Cylinder_9_49
+    401440: Cylinder_9_5
+    401442: Cylinder_9_50
+    401444: Cylinder_9_51
+    401446: Cylinder_9_52
+    401448: Cylinder_9_53
+    401450: Cylinder_9_54
+    401452: Cylinder_9_55
+    401454: Cylinder_9_6
+    401456: Cylinder_9_7
+    401458: Cylinder_9_8
+    401460: Cylinder_9_9
+    401462: ect
+    401464: ect1
+    401466: ect1_2
+    401468: ect2
+    401470: ect2_1
+    401472: ect2_1_2
+    401474: ect2_2
+    401476: ect2_2_2
+    401478: ect2_2_3
+    401480: ect2_3
+    401482: ect2_3_2
+    401484: ect2_4
+    401486: ect2_4_2
+    401488: ect2_5
+    401490: ect2_5_2
+    401492: ect2_6
+    401494: ect2_6_2
+    401496: ect_2
+    401498: L_Ext05
+    401500: L_Ext05_2
+    401502: Line014
+    401504: Line014_2
+    401506: Line015
+    401508: Line015_2
+    401510: Line07
+    401512: Line07_2
+    401514: //RootNode
+    401516: Null
+    401518: Null_1
+    401520: Null_1_2
+    401522: Null_2
+    401524: Null_2_2
+    401526: Null_2_3
+    401528: Null_3
+    401530: Null_3_2
+    401532: Null_3_3
+    401534: Null_4
+    401536: Null_4_2
+    401538: Null_4_3
+    401540: Null_4_4
+    401542: Null_4_5
+    401544: Null_4_6
+    401546: Null_4_7
+    401548: Null_4_8
+    401550: Null_5
+    401552: Null_6
+    401554: Null_7
+    401556: Object235
+    401558: Object235_2
+    401560: Oil_Tank
+    401562: Oil_Tank_1
+    401564: Oil_Tank_10
+    401566: Oil_Tank_11
+    401568: Oil_Tank_12
+    401570: Oil_Tank_13
+    401572: Oil_Tank_14
+    401574: Oil_Tank_15
+    401576: Oil_Tank_16
+    401578: Oil_Tank_17
+    401580: Oil_Tank_18
+    401582: Oil_Tank_19
+    401584: Oil_Tank_1_10
+    401586: Oil_Tank_1_11
+    401588: Oil_Tank_1_12
+    401590: Oil_Tank_1_13
+    401592: Oil_Tank_1_14
+    401594: Oil_Tank_1_15
+    401596: Oil_Tank_1_16
+    401598: Oil_Tank_1_17
+    401600: Oil_Tank_1_18
+    401602: Oil_Tank_1_19
+    401604: Oil_Tank_1_2
+    401606: Oil_Tank_1_20
+    401608: Oil_Tank_1_21
+    401610: Oil_Tank_1_22
+    401612: Oil_Tank_1_23
+    401614: Oil_Tank_1_24
+    401616: Oil_Tank_1_25
+    401618: Oil_Tank_1_26
+    401620: Oil_Tank_1_27
+    401622: Oil_Tank_1_28
+    401624: Oil_Tank_1_29
+    401626: Oil_Tank_1_3
+    401628: Oil_Tank_1_30
+    401630: Oil_Tank_1_31
+    401632: Oil_Tank_1_32
+    401634: Oil_Tank_1_33
+    401636: Oil_Tank_1_34
+    401638: Oil_Tank_1_35
+    401640: Oil_Tank_1_36
+    401642: Oil_Tank_1_37
+    401644: Oil_Tank_1_38
+    401646: Oil_Tank_1_39
+    401648: Oil_Tank_1_4
+    401650: Oil_Tank_1_40
+    401652: Oil_Tank_1_41
+    401654: Oil_Tank_1_42
+    401656: Oil_Tank_1_43
+    401658: Oil_Tank_1_44
+    401660: Oil_Tank_1_45
+    401662: Oil_Tank_1_46
+    401664: Oil_Tank_1_5
+    401666: Oil_Tank_1_6
+    401668: Oil_Tank_1_7
+    401670: Oil_Tank_1_8
+    401672: Oil_Tank_1_9
+    401674: Oil_Tank_2
+    401676: Oil_Tank_20
+    401678: Oil_Tank_2_2
+    401680: Oil_Tank_2_3
+    401682: Oil_Tank_2_4
+    401684: Oil_Tank_2_5
+    401686: Oil_Tank_2_6
+    401688: Oil_Tank_2_7
+    401690: Oil_Tank_3
+    401692: Oil_Tank_3_2
+    401694: Oil_Tank_3_3
+    401696: Oil_Tank_3_4
+    401698: Oil_Tank_3_5
+    401700: Oil_Tank_3_6
+    401702: Oil_Tank_3_7
+    401704: Oil_Tank_4
+    401706: Oil_Tank_4_2
+    401708: Oil_Tank_4_3
+    401710: Oil_Tank_4_4
+    401712: Oil_Tank_4_5
+    401714: Oil_Tank_4_6
+    401716: Oil_Tank_4_7
+    401718: Oil_Tank_5
+    401720: Oil_Tank_5_2
+    401722: Oil_Tank_5_3
+    401724: Oil_Tank_5_4
+    401726: Oil_Tank_5_5
+    401728: Oil_Tank_5_6
+    401730: Oil_Tank_5_7
+    401732: Oil_Tank_6
+    401734: Oil_Tank_6_2
+    401736: Oil_Tank_6_3
+    401738: Oil_Tank_6_4
+    401740: Oil_Tank_6_5
+    401742: Oil_Tank_6_6
+    401744: Oil_Tank_6_7
+    401746: Oil_Tank_7
+    401748: Oil_Tank_7_2
+    401750: Oil_Tank_7_3
+    401752: Oil_Tank_7_4
+    401754: Oil_Tank_7_5
+    401756: Oil_Tank_7_6
+    401758: Oil_Tank_7_7
+    401760: Oil_Tank_8
+    401762: Oil_Tank_9
+    401764: Pipe
+    401766: Pipe_1
+    401768: Pipe_1_2
+    401770: Pipe_2
+    401772: Pipe_2_2
+    401774: Pipe_2_3
+    401776: Pipe_3
+    401778: Pipe_3_2
+    401780: Pipe_4
+    401782: Pipe_4_2
+    401784: Pipe_5
+    401786: Pipe_5_2
+    401788: Pipe_6
+    401790: Pipe_6_2
+    401792: Pipe_7
+    401794: Pipe_7_2
+    401796: screw
+    401798: screw_1
+    401800: screw_10
+    401802: screw_10_2
+    401804: screw_11
+    401806: screw_11_2
+    401808: screw_12
+    401810: screw_12_2
+    401812: screw_13
+    401814: screw_13_2
+    401816: screw_14
+    401818: screw_14_2
+    401820: screw_15
+    401822: screw_15_2
+    401824: screw_16
+    401826: screw_16_2
+    401828: screw_17
+    401830: screw_17_2
+    401832: screw_18
+    401834: screw_18_2
+    401836: screw_19
+    401838: screw_19_2
+    401840: screw_1_2
+    401842: screw_2
+    401844: screw_20
+    401846: screw_20_2
+    401848: screw_2_2
+    401850: screw_2_3
+    401852: screw_3
+    401854: screw_3_2
+    401856: screw_4
+    401858: screw_4_2
+    401860: screw_5
+    401862: screw_5_2
+    401864: screw_6
+    401866: screw_6_2
+    401868: screw_7
+    401870: screw_7_2
+    401872: screw_8
+    401874: screw_8_2
+    401876: screw_9
+    401878: screw_9_2
+    401880: Sphere
+    401882: Sphere_1
+    401884: Sphere_10
+    401886: Sphere_10_2
+    401888: Sphere_11
+    401890: Sphere_11_2
+    401892: Sphere_12
+    401894: Sphere_12_2
+    401896: Sphere_1_2
+    401898: Sphere_2
+    401900: Sphere_2_2
+    401902: Sphere_2_3
+    401904: Sphere_2_4
+    401906: Sphere_2_5
+    401908: Sphere_2_6
+    401910: Sphere_2_7
+    401912: Sphere_3
+    401914: Sphere_3_2
+    401916: Sphere_4
+    401918: Sphere_4_2
+    401920: Sphere_5
+    401922: Sphere_5_2
+    401924: Sphere_6
+    401926: Sphere_6_2
+    401928: Sphere_7
+    401930: Sphere_7_2
+    401932: Sphere_8
+    401934: Sphere_8_2
+    401936: Sphere_9
+    401938: Sphere_9_2
+    401940: Torus
+    401942: Torus_2
+    401944: Torus_3
+    401946: Torus_4
+    401948: Torus_5
+    401950: Torus_6
+    401952: Torus_7
+    401954: Torus_8
+    401956: Tube
+    401958: Tube_10
+    401960: Tube_11
+    401962: Tube_12
+    401964: Tube_13
+    401966: Tube_14
+    401968: Tube_15
+    401970: Tube_16
+    401972: Tube_17
+    401974: Tube_18
+    401976: Tube_19
+    401978: Tube_2
+    401980: Tube_20
+    401982: Tube_21
+    401984: Tube_22
+    401986: Tube_23
+    401988: Tube_24
+    401990: Tube_3
+    401992: Tube_4
+    401994: Tube_5
+    401996: Tube_6
+    401998: Tube_7
+    402000: Tube_8
+    402002: Tube_9
+    402004: valve
+    402006: valve_1
+    402008: valve_1_2
+    402010: valve_2
+    402012: valve_2_2
+    402014: valve_2_3
+    402016: valve_3
+    402018: valve_3_2
+    2300000: Box017
+    2300002: Box017_2
+    2300004: Box018
+    2300006: Box018_2
+    2300008: Box019
+    2300010: Box019_2
+    2300012: Box020
+    2300014: Box020_2
+    2300016: Box021
+    2300018: Box021_2
+    2300020: Box022
+    2300022: Box022_2
+    2300024: Box023
+    2300026: Box023_2
+    2300028: Box06
+    2300030: Box06_2
+    2300032: Box15
+    2300034: Box15_2
+    2300036: Capsule
+    2300038: Capsule_1
+    2300040: Capsule_10
+    2300042: Capsule_1_2
+    2300044: Capsule_1_3
+    2300046: Capsule_1_4
+    2300048: Capsule_1_5
+    2300050: Capsule_1_6
+    2300052: Capsule_1_7
+    2300054: Capsule_1_8
+    2300056: Capsule_2
+    2300058: Capsule_2_2
+    2300060: Capsule_2_3
+    2300062: Capsule_2_4
+    2300064: Capsule_2_5
+    2300066: Capsule_2_6
+    2300068: Capsule_2_7
+    2300070: Capsule_2_8
+    2300072: Capsule_2_9
+    2300074: Capsule_3
+    2300076: Capsule_3_2
+    2300078: Capsule_3_3
+    2300080: Capsule_3_4
+    2300082: Capsule_3_5
+    2300084: Capsule_3_6
+    2300086: Capsule_3_7
+    2300088: Capsule_3_8
+    2300090: Capsule_3_9
+    2300092: Capsule_4
+    2300094: Capsule_4_2
+    2300096: Capsule_4_3
+    2300098: Capsule_4_4
+    2300100: Capsule_4_5
+    2300102: Capsule_4_6
+    2300104: Capsule_4_7
+    2300106: Capsule_4_8
+    2300108: Capsule_4_9
+    2300110: Capsule_5
+    2300112: Capsule_5_2
+    2300114: Capsule_5_3
+    2300116: Capsule_5_4
+    2300118: Capsule_5_5
+    2300120: Capsule_5_6
+    2300122: Capsule_5_7
+    2300124: Capsule_5_8
+    2300126: Capsule_5_9
+    2300128: Capsule_6
+    2300130: Capsule_6_2
+    2300132: Capsule_6_3
+    2300134: Capsule_6_4
+    2300136: Capsule_6_5
+    2300138: Capsule_6_6
+    2300140: Capsule_6_7
+    2300142: Capsule_6_8
+    2300144: Capsule_6_9
+    2300146: Capsule_7
+    2300148: Capsule_8
+    2300150: Capsule_9
+    2300152: Cube
+    2300154: Cube_1
+    2300156: Cube_10
+    2300158: Cube_10_2
+    2300160: Cube_10_3
+    2300162: Cube_10_4
+    2300164: Cube_11
+    2300166: Cube_11_2
+    2300168: Cube_11_3
+    2300170: Cube_11_4
+    2300172: Cube_12
+    2300174: Cube_12_2
+    2300176: Cube_12_3
+    2300178: Cube_12_4
+    2300180: Cube_13
+    2300182: Cube_13_2
+    2300184: Cube_13_3
+    2300186: Cube_13_4
+    2300188: Cube_14
+    2300190: Cube_14_2
+    2300192: Cube_14_3
+    2300194: Cube_14_4
+    2300196: Cube_15
+    2300198: Cube_15_2
+    2300200: Cube_15_3
+    2300202: Cube_15_4
+    2300204: Cube_1_2
+    2300206: Cube_1_3
+    2300208: Cube_1_4
+    2300210: Cube_1_5
+    2300212: Cube_1_6
+    2300214: Cube_2
+    2300216: Cube_2_10
+    2300218: Cube_2_11
+    2300220: Cube_2_12
+    2300222: Cube_2_13
+    2300224: Cube_2_14
+    2300226: Cube_2_15
+    2300228: Cube_2_2
+    2300230: Cube_2_3
+    2300232: Cube_2_4
+    2300234: Cube_2_5
+    2300236: Cube_2_6
+    2300238: Cube_2_7
+    2300240: Cube_2_8
+    2300242: Cube_2_9
+    2300244: Cube_3
+    2300246: Cube_3_2
+    2300248: Cube_3_3
+    2300250: Cube_3_4
+    2300252: Cube_3_5
+    2300254: Cube_3_6
+    2300256: Cube_4
+    2300258: Cube_4_2
+    2300260: Cube_4_3
+    2300262: Cube_4_4
+    2300264: Cube_4_5
+    2300266: Cube_4_6
+    2300268: Cube_5
+    2300270: Cube_5_2
+    2300272: Cube_5_3
+    2300274: Cube_5_4
+    2300276: Cube_5_5
+    2300278: Cube_5_6
+    2300280: Cube_6
+    2300282: Cube_6_2
+    2300284: Cube_6_3
+    2300286: Cube_6_4
+    2300288: Cube_6_5
+    2300290: Cube_6_6
+    2300292: Cube_7
+    2300294: Cube_7_2
+    2300296: Cube_7_3
+    2300298: Cube_7_4
+    2300300: Cube_7_5
+    2300302: Cube_7_6
+    2300304: Cube_8
+    2300306: Cube_8_2
+    2300308: Cube_8_3
+    2300310: Cube_8_4
+    2300312: Cube_8_5
+    2300314: Cube_8_6
+    2300316: Cube_9
+    2300318: Cube_9_2
+    2300320: Cube_9_3
+    2300322: Cube_9_4
+    2300324: Cylinder
+    2300326: Cylinder_1
+    2300328: Cylinder_10
+    2300330: Cylinder_10_10
+    2300332: Cylinder_10_11
+    2300334: Cylinder_10_12
+    2300336: Cylinder_10_13
+    2300338: Cylinder_10_2
+    2300340: Cylinder_10_3
+    2300342: Cylinder_10_4
+    2300344: Cylinder_10_5
+    2300346: Cylinder_10_6
+    2300348: Cylinder_10_7
+    2300350: Cylinder_10_8
+    2300352: Cylinder_10_9
+    2300354: Cylinder_11
+    2300356: Cylinder_11_10
+    2300358: Cylinder_11_11
+    2300360: Cylinder_11_12
+    2300362: Cylinder_11_13
+    2300364: Cylinder_11_2
+    2300366: Cylinder_11_3
+    2300368: Cylinder_11_4
+    2300370: Cylinder_11_5
+    2300372: Cylinder_11_6
+    2300374: Cylinder_11_7
+    2300376: Cylinder_11_8
+    2300378: Cylinder_11_9
+    2300380: Cylinder_12
+    2300382: Cylinder_12_10
+    2300384: Cylinder_12_11
+    2300386: Cylinder_12_12
+    2300388: Cylinder_12_13
+    2300390: Cylinder_12_14
+    2300392: Cylinder_12_15
+    2300394: Cylinder_12_2
+    2300396: Cylinder_12_3
+    2300398: Cylinder_12_4
+    2300400: Cylinder_12_5
+    2300402: Cylinder_12_6
+    2300404: Cylinder_12_7
+    2300406: Cylinder_12_8
+    2300408: Cylinder_12_9
+    2300410: Cylinder_13
+    2300412: Cylinder_13_10
+    2300414: Cylinder_13_11
+    2300416: Cylinder_13_12
+    2300418: Cylinder_13_13
+    2300420: Cylinder_13_14
+    2300422: Cylinder_13_15
+    2300424: Cylinder_13_2
+    2300426: Cylinder_13_3
+    2300428: Cylinder_13_4
+    2300430: Cylinder_13_5
+    2300432: Cylinder_13_6
+    2300434: Cylinder_13_7
+    2300436: Cylinder_13_8
+    2300438: Cylinder_13_9
+    2300440: Cylinder_14
+    2300442: Cylinder_14_10
+    2300444: Cylinder_14_11
+    2300446: Cylinder_14_12
+    2300448: Cylinder_14_13
+    2300450: Cylinder_14_2
+    2300452: Cylinder_14_3
+    2300454: Cylinder_14_4
+    2300456: Cylinder_14_5
+    2300458: Cylinder_14_6
+    2300460: Cylinder_14_7
+    2300462: Cylinder_14_8
+    2300464: Cylinder_14_9
+    2300466: Cylinder_15
+    2300468: Cylinder_15_10
+    2300470: Cylinder_15_11
+    2300472: Cylinder_15_12
+    2300474: Cylinder_15_13
+    2300476: Cylinder_15_2
+    2300478: Cylinder_15_3
+    2300480: Cylinder_15_4
+    2300482: Cylinder_15_5
+    2300484: Cylinder_15_6
+    2300486: Cylinder_15_7
+    2300488: Cylinder_15_8
+    2300490: Cylinder_15_9
+    2300492: Cylinder_16
+    2300494: Cylinder_16_10
+    2300496: Cylinder_16_11
+    2300498: Cylinder_16_12
+    2300500: Cylinder_16_13
+    2300502: Cylinder_16_2
+    2300504: Cylinder_16_3
+    2300506: Cylinder_16_4
+    2300508: Cylinder_16_5
+    2300510: Cylinder_16_6
+    2300512: Cylinder_16_7
+    2300514: Cylinder_16_8
+    2300516: Cylinder_16_9
+    2300518: Cylinder_17
+    2300520: Cylinder_17_10
+    2300522: Cylinder_17_11
+    2300524: Cylinder_17_12
+    2300526: Cylinder_17_13
+    2300528: Cylinder_17_2
+    2300530: Cylinder_17_3
+    2300532: Cylinder_17_4
+    2300534: Cylinder_17_5
+    2300536: Cylinder_17_6
+    2300538: Cylinder_17_7
+    2300540: Cylinder_17_8
+    2300542: Cylinder_17_9
+    2300544: Cylinder_18
+    2300546: Cylinder_18_10
+    2300548: Cylinder_18_11
+    2300550: Cylinder_18_12
+    2300552: Cylinder_18_13
+    2300554: Cylinder_18_2
+    2300556: Cylinder_18_3
+    2300558: Cylinder_18_4
+    2300560: Cylinder_18_5
+    2300562: Cylinder_18_6
+    2300564: Cylinder_18_7
+    2300566: Cylinder_18_8
+    2300568: Cylinder_18_9
+    2300570: Cylinder_19
+    2300572: Cylinder_19_10
+    2300574: Cylinder_19_11
+    2300576: Cylinder_19_12
+    2300578: Cylinder_19_13
+    2300580: Cylinder_19_14
+    2300582: Cylinder_19_15
+    2300584: Cylinder_19_16
+    2300586: Cylinder_19_17
+    2300588: Cylinder_19_18
+    2300590: Cylinder_19_19
+    2300592: Cylinder_19_2
+    2300594: Cylinder_19_3
+    2300596: Cylinder_19_4
+    2300598: Cylinder_19_5
+    2300600: Cylinder_19_6
+    2300602: Cylinder_19_7
+    2300604: Cylinder_19_8
+    2300606: Cylinder_19_9
+    2300608: Cylinder_1_10
+    2300610: Cylinder_1_11
+    2300612: Cylinder_1_12
+    2300614: Cylinder_1_13
+    2300616: Cylinder_1_14
+    2300618: Cylinder_1_15
+    2300620: Cylinder_1_16
+    2300622: Cylinder_1_2
+    2300624: Cylinder_1_3
+    2300626: Cylinder_1_4
+    2300628: Cylinder_1_5
+    2300630: Cylinder_1_6
+    2300632: Cylinder_1_7
+    2300634: Cylinder_1_8
+    2300636: Cylinder_1_9
+    2300638: Cylinder_2
+    2300640: Cylinder_20
+    2300642: Cylinder_20_2
+    2300644: Cylinder_20_3
+    2300646: Cylinder_21
+    2300648: Cylinder_22
+    2300650: Cylinder_23
+    2300652: Cylinder_24
+    2300654: Cylinder_2_10
+    2300656: Cylinder_2_11
+    2300658: Cylinder_2_2
+    2300660: Cylinder_2_3
+    2300662: Cylinder_2_4
+    2300664: Cylinder_2_5
+    2300666: Cylinder_2_6
+    2300668: Cylinder_2_7
+    2300670: Cylinder_2_8
+    2300672: Cylinder_2_9
+    2300674: Cylinder_3
+    2300676: Cylinder_3_2
+    2300678: Cylinder_3_3
+    2300680: Cylinder_3_4
+    2300682: Cylinder_3_5
+    2300684: Cylinder_4
+    2300686: Cylinder_4_10
+    2300688: Cylinder_4_11
+    2300690: Cylinder_4_12
+    2300692: Cylinder_4_13
+    2300694: Cylinder_4_14
+    2300696: Cylinder_4_15
+    2300698: Cylinder_4_16
+    2300700: Cylinder_4_17
+    2300702: Cylinder_4_18
+    2300704: Cylinder_4_19
+    2300706: Cylinder_4_2
+    2300708: Cylinder_4_20
+    2300710: Cylinder_4_21
+    2300712: Cylinder_4_22
+    2300714: Cylinder_4_23
+    2300716: Cylinder_4_24
+    2300718: Cylinder_4_25
+    2300720: Cylinder_4_26
+    2300722: Cylinder_4_27
+    2300724: Cylinder_4_28
+    2300726: Cylinder_4_29
+    2300728: Cylinder_4_3
+    2300730: Cylinder_4_30
+    2300732: Cylinder_4_31
+    2300734: Cylinder_4_32
+    2300736: Cylinder_4_33
+    2300738: Cylinder_4_34
+    2300740: Cylinder_4_35
+    2300742: Cylinder_4_36
+    2300744: Cylinder_4_37
+    2300746: Cylinder_4_38
+    2300748: Cylinder_4_39
+    2300750: Cylinder_4_4
+    2300752: Cylinder_4_40
+    2300754: Cylinder_4_41
+    2300756: Cylinder_4_42
+    2300758: Cylinder_4_43
+    2300760: Cylinder_4_44
+    2300762: Cylinder_4_45
+    2300764: Cylinder_4_46
+    2300766: Cylinder_4_47
+    2300768: Cylinder_4_48
+    2300770: Cylinder_4_49
+    2300772: Cylinder_4_5
+    2300774: Cylinder_4_50
+    2300776: Cylinder_4_51
+    2300778: Cylinder_4_52
+    2300780: Cylinder_4_53
+    2300782: Cylinder_4_54
+    2300784: Cylinder_4_55
+    2300786: Cylinder_4_56
+    2300788: Cylinder_4_57
+    2300790: Cylinder_4_58
+    2300792: Cylinder_4_59
+    2300794: Cylinder_4_6
+    2300796: Cylinder_4_60
+    2300798: Cylinder_4_61
+    2300800: Cylinder_4_62
+    2300802: Cylinder_4_63
+    2300804: Cylinder_4_64
+    2300806: Cylinder_4_65
+    2300808: Cylinder_4_66
+    2300810: Cylinder_4_67
+    2300812: Cylinder_4_68
+    2300814: Cylinder_4_69
+    2300816: Cylinder_4_7
+    2300818: Cylinder_4_70
+    2300820: Cylinder_4_71
+    2300822: Cylinder_4_72
+    2300824: Cylinder_4_73
+    2300826: Cylinder_4_74
+    2300828: Cylinder_4_75
+    2300830: Cylinder_4_76
+    2300832: Cylinder_4_77
+    2300834: Cylinder_4_78
+    2300836: Cylinder_4_79
+    2300838: Cylinder_4_8
+    2300840: Cylinder_4_80
+    2300842: Cylinder_4_81
+    2300844: Cylinder_4_82
+    2300846: Cylinder_4_83
+    2300848: Cylinder_4_84
+    2300850: Cylinder_4_85
+    2300852: Cylinder_4_86
+    2300854: Cylinder_4_87
+    2300856: Cylinder_4_88
+    2300858: Cylinder_4_89
+    2300860: Cylinder_4_9
+    2300862: Cylinder_4_90
+    2300864: Cylinder_4_91
+    2300866: Cylinder_4_92
+    2300868: Cylinder_4_93
+    2300870: Cylinder_5
+    2300872: Cylinder_5_10
+    2300874: Cylinder_5_11
+    2300876: Cylinder_5_12
+    2300878: Cylinder_5_13
+    2300880: Cylinder_5_14
+    2300882: Cylinder_5_15
+    2300884: Cylinder_5_16
+    2300886: Cylinder_5_17
+    2300888: Cylinder_5_18
+    2300890: Cylinder_5_19
+    2300892: Cylinder_5_2
+    2300894: Cylinder_5_20
+    2300896: Cylinder_5_21
+    2300898: Cylinder_5_22
+    2300900: Cylinder_5_23
+    2300902: Cylinder_5_24
+    2300904: Cylinder_5_25
+    2300906: Cylinder_5_26
+    2300908: Cylinder_5_27
+    2300910: Cylinder_5_28
+    2300912: Cylinder_5_29
+    2300914: Cylinder_5_3
+    2300916: Cylinder_5_30
+    2300918: Cylinder_5_31
+    2300920: Cylinder_5_32
+    2300922: Cylinder_5_33
+    2300924: Cylinder_5_34
+    2300926: Cylinder_5_35
+    2300928: Cylinder_5_36
+    2300930: Cylinder_5_37
+    2300932: Cylinder_5_38
+    2300934: Cylinder_5_39
+    2300936: Cylinder_5_4
+    2300938: Cylinder_5_40
+    2300940: Cylinder_5_41
+    2300942: Cylinder_5_42
+    2300944: Cylinder_5_43
+    2300946: Cylinder_5_44
+    2300948: Cylinder_5_45
+    2300950: Cylinder_5_46
+    2300952: Cylinder_5_47
+    2300954: Cylinder_5_48
+    2300956: Cylinder_5_49
+    2300958: Cylinder_5_5
+    2300960: Cylinder_5_50
+    2300962: Cylinder_5_51
+    2300964: Cylinder_5_52
+    2300966: Cylinder_5_53
+    2300968: Cylinder_5_54
+    2300970: Cylinder_5_55
+    2300972: Cylinder_5_56
+    2300974: Cylinder_5_57
+    2300976: Cylinder_5_58
+    2300978: Cylinder_5_59
+    2300980: Cylinder_5_6
+    2300982: Cylinder_5_60
+    2300984: Cylinder_5_61
+    2300986: Cylinder_5_62
+    2300988: Cylinder_5_63
+    2300990: Cylinder_5_64
+    2300992: Cylinder_5_65
+    2300994: Cylinder_5_66
+    2300996: Cylinder_5_67
+    2300998: Cylinder_5_68
+    2301000: Cylinder_5_69
+    2301002: Cylinder_5_7
+    2301004: Cylinder_5_70
+    2301006: Cylinder_5_71
+    2301008: Cylinder_5_72
+    2301010: Cylinder_5_73
+    2301012: Cylinder_5_8
+    2301014: Cylinder_5_9
+    2301016: Cylinder_6
+    2301018: Cylinder_6_10
+    2301020: Cylinder_6_11
+    2301022: Cylinder_6_12
+    2301024: Cylinder_6_13
+    2301026: Cylinder_6_14
+    2301028: Cylinder_6_15
+    2301030: Cylinder_6_16
+    2301032: Cylinder_6_17
+    2301034: Cylinder_6_18
+    2301036: Cylinder_6_19
+    2301038: Cylinder_6_2
+    2301040: Cylinder_6_20
+    2301042: Cylinder_6_21
+    2301044: Cylinder_6_22
+    2301046: Cylinder_6_23
+    2301048: Cylinder_6_24
+    2301050: Cylinder_6_25
+    2301052: Cylinder_6_26
+    2301054: Cylinder_6_27
+    2301056: Cylinder_6_28
+    2301058: Cylinder_6_29
+    2301060: Cylinder_6_3
+    2301062: Cylinder_6_30
+    2301064: Cylinder_6_31
+    2301066: Cylinder_6_32
+    2301068: Cylinder_6_33
+    2301070: Cylinder_6_34
+    2301072: Cylinder_6_35
+    2301074: Cylinder_6_36
+    2301076: Cylinder_6_37
+    2301078: Cylinder_6_38
+    2301080: Cylinder_6_39
+    2301082: Cylinder_6_4
+    2301084: Cylinder_6_40
+    2301086: Cylinder_6_41
+    2301088: Cylinder_6_42
+    2301090: Cylinder_6_43
+    2301092: Cylinder_6_44
+    2301094: Cylinder_6_45
+    2301096: Cylinder_6_46
+    2301098: Cylinder_6_47
+    2301100: Cylinder_6_48
+    2301102: Cylinder_6_49
+    2301104: Cylinder_6_5
+    2301106: Cylinder_6_50
+    2301108: Cylinder_6_51
+    2301110: Cylinder_6_52
+    2301112: Cylinder_6_53
+    2301114: Cylinder_6_54
+    2301116: Cylinder_6_55
+    2301118: Cylinder_6_6
+    2301120: Cylinder_6_7
+    2301122: Cylinder_6_8
+    2301124: Cylinder_6_9
+    2301126: Cylinder_7
+    2301128: Cylinder_7_10
+    2301130: Cylinder_7_11
+    2301132: Cylinder_7_12
+    2301134: Cylinder_7_13
+    2301136: Cylinder_7_14
+    2301138: Cylinder_7_15
+    2301140: Cylinder_7_16
+    2301142: Cylinder_7_17
+    2301144: Cylinder_7_18
+    2301146: Cylinder_7_19
+    2301148: Cylinder_7_2
+    2301150: Cylinder_7_20
+    2301152: Cylinder_7_21
+    2301154: Cylinder_7_22
+    2301156: Cylinder_7_23
+    2301158: Cylinder_7_24
+    2301160: Cylinder_7_25
+    2301162: Cylinder_7_26
+    2301164: Cylinder_7_27
+    2301166: Cylinder_7_28
+    2301168: Cylinder_7_29
+    2301170: Cylinder_7_3
+    2301172: Cylinder_7_30
+    2301174: Cylinder_7_31
+    2301176: Cylinder_7_32
+    2301178: Cylinder_7_33
+    2301180: Cylinder_7_34
+    2301182: Cylinder_7_35
+    2301184: Cylinder_7_36
+    2301186: Cylinder_7_37
+    2301188: Cylinder_7_38
+    2301190: Cylinder_7_39
+    2301192: Cylinder_7_4
+    2301194: Cylinder_7_40
+    2301196: Cylinder_7_41
+    2301198: Cylinder_7_42
+    2301200: Cylinder_7_43
+    2301202: Cylinder_7_44
+    2301204: Cylinder_7_45
+    2301206: Cylinder_7_46
+    2301208: Cylinder_7_47
+    2301210: Cylinder_7_48
+    2301212: Cylinder_7_49
+    2301214: Cylinder_7_5
+    2301216: Cylinder_7_50
+    2301218: Cylinder_7_51
+    2301220: Cylinder_7_52
+    2301222: Cylinder_7_53
+    2301224: Cylinder_7_6
+    2301226: Cylinder_7_7
+    2301228: Cylinder_7_8
+    2301230: Cylinder_7_9
+    2301232: Cylinder_8
+    2301234: Cylinder_8_10
+    2301236: Cylinder_8_11
+    2301238: Cylinder_8_12
+    2301240: Cylinder_8_13
+    2301242: Cylinder_8_14
+    2301244: Cylinder_8_15
+    2301246: Cylinder_8_16
+    2301248: Cylinder_8_17
+    2301250: Cylinder_8_18
+    2301252: Cylinder_8_19
+    2301254: Cylinder_8_2
+    2301256: Cylinder_8_20
+    2301258: Cylinder_8_21
+    2301260: Cylinder_8_22
+    2301262: Cylinder_8_23
+    2301264: Cylinder_8_24
+    2301266: Cylinder_8_25
+    2301268: Cylinder_8_26
+    2301270: Cylinder_8_27
+    2301272: Cylinder_8_28
+    2301274: Cylinder_8_29
+    2301276: Cylinder_8_3
+    2301278: Cylinder_8_30
+    2301280: Cylinder_8_31
+    2301282: Cylinder_8_32
+    2301284: Cylinder_8_33
+    2301286: Cylinder_8_34
+    2301288: Cylinder_8_35
+    2301290: Cylinder_8_36
+    2301292: Cylinder_8_37
+    2301294: Cylinder_8_38
+    2301296: Cylinder_8_39
+    2301298: Cylinder_8_4
+    2301300: Cylinder_8_40
+    2301302: Cylinder_8_41
+    2301304: Cylinder_8_42
+    2301306: Cylinder_8_43
+    2301308: Cylinder_8_44
+    2301310: Cylinder_8_45
+    2301312: Cylinder_8_46
+    2301314: Cylinder_8_47
+    2301316: Cylinder_8_48
+    2301318: Cylinder_8_49
+    2301320: Cylinder_8_5
+    2301322: Cylinder_8_50
+    2301324: Cylinder_8_51
+    2301326: Cylinder_8_52
+    2301328: Cylinder_8_53
+    2301330: Cylinder_8_54
+    2301332: Cylinder_8_55
+    2301334: Cylinder_8_6
+    2301336: Cylinder_8_7
+    2301338: Cylinder_8_8
+    2301340: Cylinder_8_9
+    2301342: Cylinder_9
+    2301344: Cylinder_9_10
+    2301346: Cylinder_9_11
+    2301348: Cylinder_9_12
+    2301350: Cylinder_9_13
+    2301352: Cylinder_9_14
+    2301354: Cylinder_9_15
+    2301356: Cylinder_9_16
+    2301358: Cylinder_9_17
+    2301360: Cylinder_9_18
+    2301362: Cylinder_9_19
+    2301364: Cylinder_9_2
+    2301366: Cylinder_9_20
+    2301368: Cylinder_9_21
+    2301370: Cylinder_9_22
+    2301372: Cylinder_9_23
+    2301374: Cylinder_9_24
+    2301376: Cylinder_9_25
+    2301378: Cylinder_9_26
+    2301380: Cylinder_9_27
+    2301382: Cylinder_9_28
+    2301384: Cylinder_9_29
+    2301386: Cylinder_9_3
+    2301388: Cylinder_9_30
+    2301390: Cylinder_9_31
+    2301392: Cylinder_9_32
+    2301394: Cylinder_9_33
+    2301396: Cylinder_9_34
+    2301398: Cylinder_9_35
+    2301400: Cylinder_9_36
+    2301402: Cylinder_9_37
+    2301404: Cylinder_9_38
+    2301406: Cylinder_9_39
+    2301408: Cylinder_9_4
+    2301410: Cylinder_9_40
+    2301412: Cylinder_9_41
+    2301414: Cylinder_9_42
+    2301416: Cylinder_9_43
+    2301418: Cylinder_9_44
+    2301420: Cylinder_9_45
+    2301422: Cylinder_9_46
+    2301424: Cylinder_9_47
+    2301426: Cylinder_9_48
+    2301428: Cylinder_9_49
+    2301430: Cylinder_9_5
+    2301432: Cylinder_9_50
+    2301434: Cylinder_9_51
+    2301436: Cylinder_9_52
+    2301438: Cylinder_9_53
+    2301440: Cylinder_9_54
+    2301442: Cylinder_9_55
+    2301444: Cylinder_9_6
+    2301446: Cylinder_9_7
+    2301448: Cylinder_9_8
+    2301450: Cylinder_9_9
+    2301452: L_Ext05
+    2301454: L_Ext05_2
+    2301456: Line014
+    2301458: Line014_2
+    2301460: Line015
+    2301462: Line015_2
+    2301464: Line07
+    2301466: Line07_2
+    2301468: Object235
+    2301470: Object235_2
+    2301472: Oil_Tank
+    2301474: Oil_Tank_1
+    2301476: Oil_Tank_10
+    2301478: Oil_Tank_11
+    2301480: Oil_Tank_12
+    2301482: Oil_Tank_13
+    2301484: Oil_Tank_14
+    2301486: Oil_Tank_15
+    2301488: Oil_Tank_16
+    2301490: Oil_Tank_17
+    2301492: Oil_Tank_18
+    2301494: Oil_Tank_19
+    2301496: Oil_Tank_1_10
+    2301498: Oil_Tank_1_11
+    2301500: Oil_Tank_1_12
+    2301502: Oil_Tank_1_13
+    2301504: Oil_Tank_1_14
+    2301506: Oil_Tank_1_15
+    2301508: Oil_Tank_1_16
+    2301510: Oil_Tank_1_17
+    2301512: Oil_Tank_1_18
+    2301514: Oil_Tank_1_19
+    2301516: Oil_Tank_1_2
+    2301518: Oil_Tank_1_20
+    2301520: Oil_Tank_1_21
+    2301522: Oil_Tank_1_22
+    2301524: Oil_Tank_1_23
+    2301526: Oil_Tank_1_24
+    2301528: Oil_Tank_1_25
+    2301530: Oil_Tank_1_26
+    2301532: Oil_Tank_1_27
+    2301534: Oil_Tank_1_28
+    2301536: Oil_Tank_1_29
+    2301538: Oil_Tank_1_3
+    2301540: Oil_Tank_1_30
+    2301542: Oil_Tank_1_31
+    2301544: Oil_Tank_1_32
+    2301546: Oil_Tank_1_33
+    2301548: Oil_Tank_1_34
+    2301550: Oil_Tank_1_35
+    2301552: Oil_Tank_1_36
+    2301554: Oil_Tank_1_37
+    2301556: Oil_Tank_1_38
+    2301558: Oil_Tank_1_39
+    2301560: Oil_Tank_1_4
+    2301562: Oil_Tank_1_40
+    2301564: Oil_Tank_1_41
+    2301566: Oil_Tank_1_42
+    2301568: Oil_Tank_1_43
+    2301570: Oil_Tank_1_44
+    2301572: Oil_Tank_1_45
+    2301574: Oil_Tank_1_46
+    2301576: Oil_Tank_1_5
+    2301578: Oil_Tank_1_6
+    2301580: Oil_Tank_1_7
+    2301582: Oil_Tank_1_8
+    2301584: Oil_Tank_1_9
+    2301586: Oil_Tank_2
+    2301588: Oil_Tank_20
+    2301590: Oil_Tank_2_2
+    2301592: Oil_Tank_2_3
+    2301594: Oil_Tank_2_4
+    2301596: Oil_Tank_2_5
+    2301598: Oil_Tank_2_6
+    2301600: Oil_Tank_2_7
+    2301602: Oil_Tank_3
+    2301604: Oil_Tank_3_2
+    2301606: Oil_Tank_3_3
+    2301608: Oil_Tank_3_4
+    2301610: Oil_Tank_3_5
+    2301612: Oil_Tank_3_6
+    2301614: Oil_Tank_3_7
+    2301616: Oil_Tank_4
+    2301618: Oil_Tank_4_2
+    2301620: Oil_Tank_4_3
+    2301622: Oil_Tank_4_4
+    2301624: Oil_Tank_4_5
+    2301626: Oil_Tank_4_6
+    2301628: Oil_Tank_4_7
+    2301630: Oil_Tank_5
+    2301632: Oil_Tank_5_2
+    2301634: Oil_Tank_5_3
+    2301636: Oil_Tank_5_4
+    2301638: Oil_Tank_5_5
+    2301640: Oil_Tank_5_6
+    2301642: Oil_Tank_5_7
+    2301644: Oil_Tank_6
+    2301646: Oil_Tank_6_2
+    2301648: Oil_Tank_6_3
+    2301650: Oil_Tank_6_4
+    2301652: Oil_Tank_6_5
+    2301654: Oil_Tank_6_6
+    2301656: Oil_Tank_6_7
+    2301658: Oil_Tank_7
+    2301660: Oil_Tank_7_2
+    2301662: Oil_Tank_7_3
+    2301664: Oil_Tank_7_4
+    2301666: Oil_Tank_7_5
+    2301668: Oil_Tank_7_6
+    2301670: Oil_Tank_7_7
+    2301672: Oil_Tank_8
+    2301674: Oil_Tank_9
+    2301676: Sphere
+    2301678: Sphere_1
+    2301680: Sphere_10
+    2301682: Sphere_10_2
+    2301684: Sphere_11
+    2301686: Sphere_11_2
+    2301688: Sphere_12
+    2301690: Sphere_12_2
+    2301692: Sphere_1_2
+    2301694: Sphere_2
+    2301696: Sphere_2_2
+    2301698: Sphere_2_3
+    2301700: Sphere_2_4
+    2301702: Sphere_2_5
+    2301704: Sphere_2_6
+    2301706: Sphere_2_7
+    2301708: Sphere_3
+    2301710: Sphere_3_2
+    2301712: Sphere_4
+    2301714: Sphere_4_2
+    2301716: Sphere_5
+    2301718: Sphere_5_2
+    2301720: Sphere_6
+    2301722: Sphere_6_2
+    2301724: Sphere_7
+    2301726: Sphere_7_2
+    2301728: Sphere_8
+    2301730: Sphere_8_2
+    2301732: Sphere_9
+    2301734: Sphere_9_2
+    2301736: Torus
+    2301738: Torus_2
+    2301740: Torus_3
+    2301742: Torus_4
+    2301744: Torus_5
+    2301746: Torus_6
+    2301748: Torus_7
+    2301750: Torus_8
+    2301752: Tube
+    2301754: Tube_10
+    2301756: Tube_11
+    2301758: Tube_12
+    2301760: Tube_13
+    2301762: Tube_14
+    2301764: Tube_15
+    2301766: Tube_16
+    2301768: Tube_17
+    2301770: Tube_18
+    2301772: Tube_19
+    2301774: Tube_2
+    2301776: Tube_20
+    2301778: Tube_21
+    2301780: Tube_22
+    2301782: Tube_23
+    2301784: Tube_24
+    2301786: Tube_3
+    2301788: Tube_4
+    2301790: Tube_5
+    2301792: Tube_6
+    2301794: Tube_7
+    2301796: Tube_8
+    2301798: Tube_9
+    3300000: Box017
+    3300002: Box017_2
+    3300004: Box018
+    3300006: Box018_2
+    3300008: Box019
+    3300010: Box019_2
+    3300012: Box020
+    3300014: Box020_2
+    3300016: Box021
+    3300018: Box021_2
+    3300020: Box022
+    3300022: Box022_2
+    3300024: Box023
+    3300026: Box023_2
+    3300028: Box06
+    3300030: Box06_2
+    3300032: Box15
+    3300034: Box15_2
+    3300036: Capsule
+    3300038: Capsule_1
+    3300040: Capsule_10
+    3300042: Capsule_1_2
+    3300044: Capsule_1_3
+    3300046: Capsule_1_4
+    3300048: Capsule_1_5
+    3300050: Capsule_1_6
+    3300052: Capsule_1_7
+    3300054: Capsule_1_8
+    3300056: Capsule_2
+    3300058: Capsule_2_2
+    3300060: Capsule_2_3
+    3300062: Capsule_2_4
+    3300064: Capsule_2_5
+    3300066: Capsule_2_6
+    3300068: Capsule_2_7
+    3300070: Capsule_2_8
+    3300072: Capsule_2_9
+    3300074: Capsule_3
+    3300076: Capsule_3_2
+    3300078: Capsule_3_3
+    3300080: Capsule_3_4
+    3300082: Capsule_3_5
+    3300084: Capsule_3_6
+    3300086: Capsule_3_7
+    3300088: Capsule_3_8
+    3300090: Capsule_3_9
+    3300092: Capsule_4
+    3300094: Capsule_4_2
+    3300096: Capsule_4_3
+    3300098: Capsule_4_4
+    3300100: Capsule_4_5
+    3300102: Capsule_4_6
+    3300104: Capsule_4_7
+    3300106: Capsule_4_8
+    3300108: Capsule_4_9
+    3300110: Capsule_5
+    3300112: Capsule_5_2
+    3300114: Capsule_5_3
+    3300116: Capsule_5_4
+    3300118: Capsule_5_5
+    3300120: Capsule_5_6
+    3300122: Capsule_5_7
+    3300124: Capsule_5_8
+    3300126: Capsule_5_9
+    3300128: Capsule_6
+    3300130: Capsule_6_2
+    3300132: Capsule_6_3
+    3300134: Capsule_6_4
+    3300136: Capsule_6_5
+    3300138: Capsule_6_6
+    3300140: Capsule_6_7
+    3300142: Capsule_6_8
+    3300144: Capsule_6_9
+    3300146: Capsule_7
+    3300148: Capsule_8
+    3300150: Capsule_9
+    3300152: Cube
+    3300154: Cube_1
+    3300156: Cube_10
+    3300158: Cube_10_2
+    3300160: Cube_10_3
+    3300162: Cube_10_4
+    3300164: Cube_11
+    3300166: Cube_11_2
+    3300168: Cube_11_3
+    3300170: Cube_11_4
+    3300172: Cube_12
+    3300174: Cube_12_2
+    3300176: Cube_12_3
+    3300178: Cube_12_4
+    3300180: Cube_13
+    3300182: Cube_13_2
+    3300184: Cube_13_3
+    3300186: Cube_13_4
+    3300188: Cube_14
+    3300190: Cube_14_2
+    3300192: Cube_14_3
+    3300194: Cube_14_4
+    3300196: Cube_15
+    3300198: Cube_15_2
+    3300200: Cube_15_3
+    3300202: Cube_15_4
+    3300204: Cube_1_2
+    3300206: Cube_1_3
+    3300208: Cube_1_4
+    3300210: Cube_1_5
+    3300212: Cube_1_6
+    3300214: Cube_2
+    3300216: Cube_2_10
+    3300218: Cube_2_11
+    3300220: Cube_2_12
+    3300222: Cube_2_13
+    3300224: Cube_2_14
+    3300226: Cube_2_15
+    3300228: Cube_2_2
+    3300230: Cube_2_3
+    3300232: Cube_2_4
+    3300234: Cube_2_5
+    3300236: Cube_2_6
+    3300238: Cube_2_7
+    3300240: Cube_2_8
+    3300242: Cube_2_9
+    3300244: Cube_3
+    3300246: Cube_3_2
+    3300248: Cube_3_3
+    3300250: Cube_3_4
+    3300252: Cube_3_5
+    3300254: Cube_3_6
+    3300256: Cube_4
+    3300258: Cube_4_2
+    3300260: Cube_4_3
+    3300262: Cube_4_4
+    3300264: Cube_4_5
+    3300266: Cube_4_6
+    3300268: Cube_5
+    3300270: Cube_5_2
+    3300272: Cube_5_3
+    3300274: Cube_5_4
+    3300276: Cube_5_5
+    3300278: Cube_5_6
+    3300280: Cube_6
+    3300282: Cube_6_2
+    3300284: Cube_6_3
+    3300286: Cube_6_4
+    3300288: Cube_6_5
+    3300290: Cube_6_6
+    3300292: Cube_7
+    3300294: Cube_7_2
+    3300296: Cube_7_3
+    3300298: Cube_7_4
+    3300300: Cube_7_5
+    3300302: Cube_7_6
+    3300304: Cube_8
+    3300306: Cube_8_2
+    3300308: Cube_8_3
+    3300310: Cube_8_4
+    3300312: Cube_8_5
+    3300314: Cube_8_6
+    3300316: Cube_9
+    3300318: Cube_9_2
+    3300320: Cube_9_3
+    3300322: Cube_9_4
+    3300324: Cylinder
+    3300326: Cylinder_1
+    3300328: Cylinder_10
+    3300330: Cylinder_10_10
+    3300332: Cylinder_10_11
+    3300334: Cylinder_10_12
+    3300336: Cylinder_10_13
+    3300338: Cylinder_10_2
+    3300340: Cylinder_10_3
+    3300342: Cylinder_10_4
+    3300344: Cylinder_10_5
+    3300346: Cylinder_10_6
+    3300348: Cylinder_10_7
+    3300350: Cylinder_10_8
+    3300352: Cylinder_10_9
+    3300354: Cylinder_11
+    3300356: Cylinder_11_10
+    3300358: Cylinder_11_11
+    3300360: Cylinder_11_12
+    3300362: Cylinder_11_13
+    3300364: Cylinder_11_2
+    3300366: Cylinder_11_3
+    3300368: Cylinder_11_4
+    3300370: Cylinder_11_5
+    3300372: Cylinder_11_6
+    3300374: Cylinder_11_7
+    3300376: Cylinder_11_8
+    3300378: Cylinder_11_9
+    3300380: Cylinder_12
+    3300382: Cylinder_12_10
+    3300384: Cylinder_12_11
+    3300386: Cylinder_12_12
+    3300388: Cylinder_12_13
+    3300390: Cylinder_12_14
+    3300392: Cylinder_12_15
+    3300394: Cylinder_12_2
+    3300396: Cylinder_12_3
+    3300398: Cylinder_12_4
+    3300400: Cylinder_12_5
+    3300402: Cylinder_12_6
+    3300404: Cylinder_12_7
+    3300406: Cylinder_12_8
+    3300408: Cylinder_12_9
+    3300410: Cylinder_13
+    3300412: Cylinder_13_10
+    3300414: Cylinder_13_11
+    3300416: Cylinder_13_12
+    3300418: Cylinder_13_13
+    3300420: Cylinder_13_14
+    3300422: Cylinder_13_15
+    3300424: Cylinder_13_2
+    3300426: Cylinder_13_3
+    3300428: Cylinder_13_4
+    3300430: Cylinder_13_5
+    3300432: Cylinder_13_6
+    3300434: Cylinder_13_7
+    3300436: Cylinder_13_8
+    3300438: Cylinder_13_9
+    3300440: Cylinder_14
+    3300442: Cylinder_14_10
+    3300444: Cylinder_14_11
+    3300446: Cylinder_14_12
+    3300448: Cylinder_14_13
+    3300450: Cylinder_14_2
+    3300452: Cylinder_14_3
+    3300454: Cylinder_14_4
+    3300456: Cylinder_14_5
+    3300458: Cylinder_14_6
+    3300460: Cylinder_14_7
+    3300462: Cylinder_14_8
+    3300464: Cylinder_14_9
+    3300466: Cylinder_15
+    3300468: Cylinder_15_10
+    3300470: Cylinder_15_11
+    3300472: Cylinder_15_12
+    3300474: Cylinder_15_13
+    3300476: Cylinder_15_2
+    3300478: Cylinder_15_3
+    3300480: Cylinder_15_4
+    3300482: Cylinder_15_5
+    3300484: Cylinder_15_6
+    3300486: Cylinder_15_7
+    3300488: Cylinder_15_8
+    3300490: Cylinder_15_9
+    3300492: Cylinder_16
+    3300494: Cylinder_16_10
+    3300496: Cylinder_16_11
+    3300498: Cylinder_16_12
+    3300500: Cylinder_16_13
+    3300502: Cylinder_16_2
+    3300504: Cylinder_16_3
+    3300506: Cylinder_16_4
+    3300508: Cylinder_16_5
+    3300510: Cylinder_16_6
+    3300512: Cylinder_16_7
+    3300514: Cylinder_16_8
+    3300516: Cylinder_16_9
+    3300518: Cylinder_17
+    3300520: Cylinder_17_10
+    3300522: Cylinder_17_11
+    3300524: Cylinder_17_12
+    3300526: Cylinder_17_13
+    3300528: Cylinder_17_2
+    3300530: Cylinder_17_3
+    3300532: Cylinder_17_4
+    3300534: Cylinder_17_5
+    3300536: Cylinder_17_6
+    3300538: Cylinder_17_7
+    3300540: Cylinder_17_8
+    3300542: Cylinder_17_9
+    3300544: Cylinder_18
+    3300546: Cylinder_18_10
+    3300548: Cylinder_18_11
+    3300550: Cylinder_18_12
+    3300552: Cylinder_18_13
+    3300554: Cylinder_18_2
+    3300556: Cylinder_18_3
+    3300558: Cylinder_18_4
+    3300560: Cylinder_18_5
+    3300562: Cylinder_18_6
+    3300564: Cylinder_18_7
+    3300566: Cylinder_18_8
+    3300568: Cylinder_18_9
+    3300570: Cylinder_19
+    3300572: Cylinder_19_10
+    3300574: Cylinder_19_11
+    3300576: Cylinder_19_12
+    3300578: Cylinder_19_13
+    3300580: Cylinder_19_14
+    3300582: Cylinder_19_15
+    3300584: Cylinder_19_16
+    3300586: Cylinder_19_17
+    3300588: Cylinder_19_18
+    3300590: Cylinder_19_19
+    3300592: Cylinder_19_2
+    3300594: Cylinder_19_3
+    3300596: Cylinder_19_4
+    3300598: Cylinder_19_5
+    3300600: Cylinder_19_6
+    3300602: Cylinder_19_7
+    3300604: Cylinder_19_8
+    3300606: Cylinder_19_9
+    3300608: Cylinder_1_10
+    3300610: Cylinder_1_11
+    3300612: Cylinder_1_12
+    3300614: Cylinder_1_13
+    3300616: Cylinder_1_14
+    3300618: Cylinder_1_15
+    3300620: Cylinder_1_16
+    3300622: Cylinder_1_2
+    3300624: Cylinder_1_3
+    3300626: Cylinder_1_4
+    3300628: Cylinder_1_5
+    3300630: Cylinder_1_6
+    3300632: Cylinder_1_7
+    3300634: Cylinder_1_8
+    3300636: Cylinder_1_9
+    3300638: Cylinder_2
+    3300640: Cylinder_20
+    3300642: Cylinder_20_2
+    3300644: Cylinder_20_3
+    3300646: Cylinder_21
+    3300648: Cylinder_22
+    3300650: Cylinder_23
+    3300652: Cylinder_24
+    3300654: Cylinder_2_10
+    3300656: Cylinder_2_11
+    3300658: Cylinder_2_2
+    3300660: Cylinder_2_3
+    3300662: Cylinder_2_4
+    3300664: Cylinder_2_5
+    3300666: Cylinder_2_6
+    3300668: Cylinder_2_7
+    3300670: Cylinder_2_8
+    3300672: Cylinder_2_9
+    3300674: Cylinder_3
+    3300676: Cylinder_3_2
+    3300678: Cylinder_3_3
+    3300680: Cylinder_3_4
+    3300682: Cylinder_3_5
+    3300684: Cylinder_4
+    3300686: Cylinder_4_10
+    3300688: Cylinder_4_11
+    3300690: Cylinder_4_12
+    3300692: Cylinder_4_13
+    3300694: Cylinder_4_14
+    3300696: Cylinder_4_15
+    3300698: Cylinder_4_16
+    3300700: Cylinder_4_17
+    3300702: Cylinder_4_18
+    3300704: Cylinder_4_19
+    3300706: Cylinder_4_2
+    3300708: Cylinder_4_20
+    3300710: Cylinder_4_21
+    3300712: Cylinder_4_22
+    3300714: Cylinder_4_23
+    3300716: Cylinder_4_24
+    3300718: Cylinder_4_25
+    3300720: Cylinder_4_26
+    3300722: Cylinder_4_27
+    3300724: Cylinder_4_28
+    3300726: Cylinder_4_29
+    3300728: Cylinder_4_3
+    3300730: Cylinder_4_30
+    3300732: Cylinder_4_31
+    3300734: Cylinder_4_32
+    3300736: Cylinder_4_33
+    3300738: Cylinder_4_34
+    3300740: Cylinder_4_35
+    3300742: Cylinder_4_36
+    3300744: Cylinder_4_37
+    3300746: Cylinder_4_38
+    3300748: Cylinder_4_39
+    3300750: Cylinder_4_4
+    3300752: Cylinder_4_40
+    3300754: Cylinder_4_41
+    3300756: Cylinder_4_42
+    3300758: Cylinder_4_43
+    3300760: Cylinder_4_44
+    3300762: Cylinder_4_45
+    3300764: Cylinder_4_46
+    3300766: Cylinder_4_47
+    3300768: Cylinder_4_48
+    3300770: Cylinder_4_49
+    3300772: Cylinder_4_5
+    3300774: Cylinder_4_50
+    3300776: Cylinder_4_51
+    3300778: Cylinder_4_52
+    3300780: Cylinder_4_53
+    3300782: Cylinder_4_54
+    3300784: Cylinder_4_55
+    3300786: Cylinder_4_56
+    3300788: Cylinder_4_57
+    3300790: Cylinder_4_58
+    3300792: Cylinder_4_59
+    3300794: Cylinder_4_6
+    3300796: Cylinder_4_60
+    3300798: Cylinder_4_61
+    3300800: Cylinder_4_62
+    3300802: Cylinder_4_63
+    3300804: Cylinder_4_64
+    3300806: Cylinder_4_65
+    3300808: Cylinder_4_66
+    3300810: Cylinder_4_67
+    3300812: Cylinder_4_68
+    3300814: Cylinder_4_69
+    3300816: Cylinder_4_7
+    3300818: Cylinder_4_70
+    3300820: Cylinder_4_71
+    3300822: Cylinder_4_72
+    3300824: Cylinder_4_73
+    3300826: Cylinder_4_74
+    3300828: Cylinder_4_75
+    3300830: Cylinder_4_76
+    3300832: Cylinder_4_77
+    3300834: Cylinder_4_78
+    3300836: Cylinder_4_79
+    3300838: Cylinder_4_8
+    3300840: Cylinder_4_80
+    3300842: Cylinder_4_81
+    3300844: Cylinder_4_82
+    3300846: Cylinder_4_83
+    3300848: Cylinder_4_84
+    3300850: Cylinder_4_85
+    3300852: Cylinder_4_86
+    3300854: Cylinder_4_87
+    3300856: Cylinder_4_88
+    3300858: Cylinder_4_89
+    3300860: Cylinder_4_9
+    3300862: Cylinder_4_90
+    3300864: Cylinder_4_91
+    3300866: Cylinder_4_92
+    3300868: Cylinder_4_93
+    3300870: Cylinder_5
+    3300872: Cylinder_5_10
+    3300874: Cylinder_5_11
+    3300876: Cylinder_5_12
+    3300878: Cylinder_5_13
+    3300880: Cylinder_5_14
+    3300882: Cylinder_5_15
+    3300884: Cylinder_5_16
+    3300886: Cylinder_5_17
+    3300888: Cylinder_5_18
+    3300890: Cylinder_5_19
+    3300892: Cylinder_5_2
+    3300894: Cylinder_5_20
+    3300896: Cylinder_5_21
+    3300898: Cylinder_5_22
+    3300900: Cylinder_5_23
+    3300902: Cylinder_5_24
+    3300904: Cylinder_5_25
+    3300906: Cylinder_5_26
+    3300908: Cylinder_5_27
+    3300910: Cylinder_5_28
+    3300912: Cylinder_5_29
+    3300914: Cylinder_5_3
+    3300916: Cylinder_5_30
+    3300918: Cylinder_5_31
+    3300920: Cylinder_5_32
+    3300922: Cylinder_5_33
+    3300924: Cylinder_5_34
+    3300926: Cylinder_5_35
+    3300928: Cylinder_5_36
+    3300930: Cylinder_5_37
+    3300932: Cylinder_5_38
+    3300934: Cylinder_5_39
+    3300936: Cylinder_5_4
+    3300938: Cylinder_5_40
+    3300940: Cylinder_5_41
+    3300942: Cylinder_5_42
+    3300944: Cylinder_5_43
+    3300946: Cylinder_5_44
+    3300948: Cylinder_5_45
+    3300950: Cylinder_5_46
+    3300952: Cylinder_5_47
+    3300954: Cylinder_5_48
+    3300956: Cylinder_5_49
+    3300958: Cylinder_5_5
+    3300960: Cylinder_5_50
+    3300962: Cylinder_5_51
+    3300964: Cylinder_5_52
+    3300966: Cylinder_5_53
+    3300968: Cylinder_5_54
+    3300970: Cylinder_5_55
+    3300972: Cylinder_5_56
+    3300974: Cylinder_5_57
+    3300976: Cylinder_5_58
+    3300978: Cylinder_5_59
+    3300980: Cylinder_5_6
+    3300982: Cylinder_5_60
+    3300984: Cylinder_5_61
+    3300986: Cylinder_5_62
+    3300988: Cylinder_5_63
+    3300990: Cylinder_5_64
+    3300992: Cylinder_5_65
+    3300994: Cylinder_5_66
+    3300996: Cylinder_5_67
+    3300998: Cylinder_5_68
+    3301000: Cylinder_5_69
+    3301002: Cylinder_5_7
+    3301004: Cylinder_5_70
+    3301006: Cylinder_5_71
+    3301008: Cylinder_5_72
+    3301010: Cylinder_5_73
+    3301012: Cylinder_5_8
+    3301014: Cylinder_5_9
+    3301016: Cylinder_6
+    3301018: Cylinder_6_10
+    3301020: Cylinder_6_11
+    3301022: Cylinder_6_12
+    3301024: Cylinder_6_13
+    3301026: Cylinder_6_14
+    3301028: Cylinder_6_15
+    3301030: Cylinder_6_16
+    3301032: Cylinder_6_17
+    3301034: Cylinder_6_18
+    3301036: Cylinder_6_19
+    3301038: Cylinder_6_2
+    3301040: Cylinder_6_20
+    3301042: Cylinder_6_21
+    3301044: Cylinder_6_22
+    3301046: Cylinder_6_23
+    3301048: Cylinder_6_24
+    3301050: Cylinder_6_25
+    3301052: Cylinder_6_26
+    3301054: Cylinder_6_27
+    3301056: Cylinder_6_28
+    3301058: Cylinder_6_29
+    3301060: Cylinder_6_3
+    3301062: Cylinder_6_30
+    3301064: Cylinder_6_31
+    3301066: Cylinder_6_32
+    3301068: Cylinder_6_33
+    3301070: Cylinder_6_34
+    3301072: Cylinder_6_35
+    3301074: Cylinder_6_36
+    3301076: Cylinder_6_37
+    3301078: Cylinder_6_38
+    3301080: Cylinder_6_39
+    3301082: Cylinder_6_4
+    3301084: Cylinder_6_40
+    3301086: Cylinder_6_41
+    3301088: Cylinder_6_42
+    3301090: Cylinder_6_43
+    3301092: Cylinder_6_44
+    3301094: Cylinder_6_45
+    3301096: Cylinder_6_46
+    3301098: Cylinder_6_47
+    3301100: Cylinder_6_48
+    3301102: Cylinder_6_49
+    3301104: Cylinder_6_5
+    3301106: Cylinder_6_50
+    3301108: Cylinder_6_51
+    3301110: Cylinder_6_52
+    3301112: Cylinder_6_53
+    3301114: Cylinder_6_54
+    3301116: Cylinder_6_55
+    3301118: Cylinder_6_6
+    3301120: Cylinder_6_7
+    3301122: Cylinder_6_8
+    3301124: Cylinder_6_9
+    3301126: Cylinder_7
+    3301128: Cylinder_7_10
+    3301130: Cylinder_7_11
+    3301132: Cylinder_7_12
+    3301134: Cylinder_7_13
+    3301136: Cylinder_7_14
+    3301138: Cylinder_7_15
+    3301140: Cylinder_7_16
+    3301142: Cylinder_7_17
+    3301144: Cylinder_7_18
+    3301146: Cylinder_7_19
+    3301148: Cylinder_7_2
+    3301150: Cylinder_7_20
+    3301152: Cylinder_7_21
+    3301154: Cylinder_7_22
+    3301156: Cylinder_7_23
+    3301158: Cylinder_7_24
+    3301160: Cylinder_7_25
+    3301162: Cylinder_7_26
+    3301164: Cylinder_7_27
+    3301166: Cylinder_7_28
+    3301168: Cylinder_7_29
+    3301170: Cylinder_7_3
+    3301172: Cylinder_7_30
+    3301174: Cylinder_7_31
+    3301176: Cylinder_7_32
+    3301178: Cylinder_7_33
+    3301180: Cylinder_7_34
+    3301182: Cylinder_7_35
+    3301184: Cylinder_7_36
+    3301186: Cylinder_7_37
+    3301188: Cylinder_7_38
+    3301190: Cylinder_7_39
+    3301192: Cylinder_7_4
+    3301194: Cylinder_7_40
+    3301196: Cylinder_7_41
+    3301198: Cylinder_7_42
+    3301200: Cylinder_7_43
+    3301202: Cylinder_7_44
+    3301204: Cylinder_7_45
+    3301206: Cylinder_7_46
+    3301208: Cylinder_7_47
+    3301210: Cylinder_7_48
+    3301212: Cylinder_7_49
+    3301214: Cylinder_7_5
+    3301216: Cylinder_7_50
+    3301218: Cylinder_7_51
+    3301220: Cylinder_7_52
+    3301222: Cylinder_7_53
+    3301224: Cylinder_7_6
+    3301226: Cylinder_7_7
+    3301228: Cylinder_7_8
+    3301230: Cylinder_7_9
+    3301232: Cylinder_8
+    3301234: Cylinder_8_10
+    3301236: Cylinder_8_11
+    3301238: Cylinder_8_12
+    3301240: Cylinder_8_13
+    3301242: Cylinder_8_14
+    3301244: Cylinder_8_15
+    3301246: Cylinder_8_16
+    3301248: Cylinder_8_17
+    3301250: Cylinder_8_18
+    3301252: Cylinder_8_19
+    3301254: Cylinder_8_2
+    3301256: Cylinder_8_20
+    3301258: Cylinder_8_21
+    3301260: Cylinder_8_22
+    3301262: Cylinder_8_23
+    3301264: Cylinder_8_24
+    3301266: Cylinder_8_25
+    3301268: Cylinder_8_26
+    3301270: Cylinder_8_27
+    3301272: Cylinder_8_28
+    3301274: Cylinder_8_29
+    3301276: Cylinder_8_3
+    3301278: Cylinder_8_30
+    3301280: Cylinder_8_31
+    3301282: Cylinder_8_32
+    3301284: Cylinder_8_33
+    3301286: Cylinder_8_34
+    3301288: Cylinder_8_35
+    3301290: Cylinder_8_36
+    3301292: Cylinder_8_37
+    3301294: Cylinder_8_38
+    3301296: Cylinder_8_39
+    3301298: Cylinder_8_4
+    3301300: Cylinder_8_40
+    3301302: Cylinder_8_41
+    3301304: Cylinder_8_42
+    3301306: Cylinder_8_43
+    3301308: Cylinder_8_44
+    3301310: Cylinder_8_45
+    3301312: Cylinder_8_46
+    3301314: Cylinder_8_47
+    3301316: Cylinder_8_48
+    3301318: Cylinder_8_49
+    3301320: Cylinder_8_5
+    3301322: Cylinder_8_50
+    3301324: Cylinder_8_51
+    3301326: Cylinder_8_52
+    3301328: Cylinder_8_53
+    3301330: Cylinder_8_54
+    3301332: Cylinder_8_55
+    3301334: Cylinder_8_6
+    3301336: Cylinder_8_7
+    3301338: Cylinder_8_8
+    3301340: Cylinder_8_9
+    3301342: Cylinder_9
+    3301344: Cylinder_9_10
+    3301346: Cylinder_9_11
+    3301348: Cylinder_9_12
+    3301350: Cylinder_9_13
+    3301352: Cylinder_9_14
+    3301354: Cylinder_9_15
+    3301356: Cylinder_9_16
+    3301358: Cylinder_9_17
+    3301360: Cylinder_9_18
+    3301362: Cylinder_9_19
+    3301364: Cylinder_9_2
+    3301366: Cylinder_9_20
+    3301368: Cylinder_9_21
+    3301370: Cylinder_9_22
+    3301372: Cylinder_9_23
+    3301374: Cylinder_9_24
+    3301376: Cylinder_9_25
+    3301378: Cylinder_9_26
+    3301380: Cylinder_9_27
+    3301382: Cylinder_9_28
+    3301384: Cylinder_9_29
+    3301386: Cylinder_9_3
+    3301388: Cylinder_9_30
+    3301390: Cylinder_9_31
+    3301392: Cylinder_9_32
+    3301394: Cylinder_9_33
+    3301396: Cylinder_9_34
+    3301398: Cylinder_9_35
+    3301400: Cylinder_9_36
+    3301402: Cylinder_9_37
+    3301404: Cylinder_9_38
+    3301406: Cylinder_9_39
+    3301408: Cylinder_9_4
+    3301410: Cylinder_9_40
+    3301412: Cylinder_9_41
+    3301414: Cylinder_9_42
+    3301416: Cylinder_9_43
+    3301418: Cylinder_9_44
+    3301420: Cylinder_9_45
+    3301422: Cylinder_9_46
+    3301424: Cylinder_9_47
+    3301426: Cylinder_9_48
+    3301428: Cylinder_9_49
+    3301430: Cylinder_9_5
+    3301432: Cylinder_9_50
+    3301434: Cylinder_9_51
+    3301436: Cylinder_9_52
+    3301438: Cylinder_9_53
+    3301440: Cylinder_9_54
+    3301442: Cylinder_9_55
+    3301444: Cylinder_9_6
+    3301446: Cylinder_9_7
+    3301448: Cylinder_9_8
+    3301450: Cylinder_9_9
+    3301452: L_Ext05
+    3301454: L_Ext05_2
+    3301456: Line014
+    3301458: Line014_2
+    3301460: Line015
+    3301462: Line015_2
+    3301464: Line07
+    3301466: Line07_2
+    3301468: Object235
+    3301470: Object235_2
+    3301472: Oil_Tank
+    3301474: Oil_Tank_1
+    3301476: Oil_Tank_10
+    3301478: Oil_Tank_11
+    3301480: Oil_Tank_12
+    3301482: Oil_Tank_13
+    3301484: Oil_Tank_14
+    3301486: Oil_Tank_15
+    3301488: Oil_Tank_16
+    3301490: Oil_Tank_17
+    3301492: Oil_Tank_18
+    3301494: Oil_Tank_19
+    3301496: Oil_Tank_1_10
+    3301498: Oil_Tank_1_11
+    3301500: Oil_Tank_1_12
+    3301502: Oil_Tank_1_13
+    3301504: Oil_Tank_1_14
+    3301506: Oil_Tank_1_15
+    3301508: Oil_Tank_1_16
+    3301510: Oil_Tank_1_17
+    3301512: Oil_Tank_1_18
+    3301514: Oil_Tank_1_19
+    3301516: Oil_Tank_1_2
+    3301518: Oil_Tank_1_20
+    3301520: Oil_Tank_1_21
+    3301522: Oil_Tank_1_22
+    3301524: Oil_Tank_1_23
+    3301526: Oil_Tank_1_24
+    3301528: Oil_Tank_1_25
+    3301530: Oil_Tank_1_26
+    3301532: Oil_Tank_1_27
+    3301534: Oil_Tank_1_28
+    3301536: Oil_Tank_1_29
+    3301538: Oil_Tank_1_3
+    3301540: Oil_Tank_1_30
+    3301542: Oil_Tank_1_31
+    3301544: Oil_Tank_1_32
+    3301546: Oil_Tank_1_33
+    3301548: Oil_Tank_1_34
+    3301550: Oil_Tank_1_35
+    3301552: Oil_Tank_1_36
+    3301554: Oil_Tank_1_37
+    3301556: Oil_Tank_1_38
+    3301558: Oil_Tank_1_39
+    3301560: Oil_Tank_1_4
+    3301562: Oil_Tank_1_40
+    3301564: Oil_Tank_1_41
+    3301566: Oil_Tank_1_42
+    3301568: Oil_Tank_1_43
+    3301570: Oil_Tank_1_44
+    3301572: Oil_Tank_1_45
+    3301574: Oil_Tank_1_46
+    3301576: Oil_Tank_1_5
+    3301578: Oil_Tank_1_6
+    3301580: Oil_Tank_1_7
+    3301582: Oil_Tank_1_8
+    3301584: Oil_Tank_1_9
+    3301586: Oil_Tank_2
+    3301588: Oil_Tank_20
+    3301590: Oil_Tank_2_2
+    3301592: Oil_Tank_2_3
+    3301594: Oil_Tank_2_4
+    3301596: Oil_Tank_2_5
+    3301598: Oil_Tank_2_6
+    3301600: Oil_Tank_2_7
+    3301602: Oil_Tank_3
+    3301604: Oil_Tank_3_2
+    3301606: Oil_Tank_3_3
+    3301608: Oil_Tank_3_4
+    3301610: Oil_Tank_3_5
+    3301612: Oil_Tank_3_6
+    3301614: Oil_Tank_3_7
+    3301616: Oil_Tank_4
+    3301618: Oil_Tank_4_2
+    3301620: Oil_Tank_4_3
+    3301622: Oil_Tank_4_4
+    3301624: Oil_Tank_4_5
+    3301626: Oil_Tank_4_6
+    3301628: Oil_Tank_4_7
+    3301630: Oil_Tank_5
+    3301632: Oil_Tank_5_2
+    3301634: Oil_Tank_5_3
+    3301636: Oil_Tank_5_4
+    3301638: Oil_Tank_5_5
+    3301640: Oil_Tank_5_6
+    3301642: Oil_Tank_5_7
+    3301644: Oil_Tank_6
+    3301646: Oil_Tank_6_2
+    3301648: Oil_Tank_6_3
+    3301650: Oil_Tank_6_4
+    3301652: Oil_Tank_6_5
+    3301654: Oil_Tank_6_6
+    3301656: Oil_Tank_6_7
+    3301658: Oil_Tank_7
+    3301660: Oil_Tank_7_2
+    3301662: Oil_Tank_7_3
+    3301664: Oil_Tank_7_4
+    3301666: Oil_Tank_7_5
+    3301668: Oil_Tank_7_6
+    3301670: Oil_Tank_7_7
+    3301672: Oil_Tank_8
+    3301674: Oil_Tank_9
+    3301676: Sphere
+    3301678: Sphere_1
+    3301680: Sphere_10
+    3301682: Sphere_10_2
+    3301684: Sphere_11
+    3301686: Sphere_11_2
+    3301688: Sphere_12
+    3301690: Sphere_12_2
+    3301692: Sphere_1_2
+    3301694: Sphere_2
+    3301696: Sphere_2_2
+    3301698: Sphere_2_3
+    3301700: Sphere_2_4
+    3301702: Sphere_2_5
+    3301704: Sphere_2_6
+    3301706: Sphere_2_7
+    3301708: Sphere_3
+    3301710: Sphere_3_2
+    3301712: Sphere_4
+    3301714: Sphere_4_2
+    3301716: Sphere_5
+    3301718: Sphere_5_2
+    3301720: Sphere_6
+    3301722: Sphere_6_2
+    3301724: Sphere_7
+    3301726: Sphere_7_2
+    3301728: Sphere_8
+    3301730: Sphere_8_2
+    3301732: Sphere_9
+    3301734: Sphere_9_2
+    3301736: Torus
+    3301738: Torus_2
+    3301740: Torus_3
+    3301742: Torus_4
+    3301744: Torus_5
+    3301746: Torus_6
+    3301748: Torus_7
+    3301750: Torus_8
+    3301752: Tube
+    3301754: Tube_10
+    3301756: Tube_11
+    3301758: Tube_12
+    3301760: Tube_13
+    3301762: Tube_14
+    3301764: Tube_15
+    3301766: Tube_16
+    3301768: Tube_17
+    3301770: Tube_18
+    3301772: Tube_19
+    3301774: Tube_2
+    3301776: Tube_20
+    3301778: Tube_21
+    3301780: Tube_22
+    3301782: Tube_23
+    3301784: Tube_24
+    3301786: Tube_3
+    3301788: Tube_4
+    3301790: Tube_5
+    3301792: Tube_6
+    3301794: Tube_7
+    3301796: Tube_8
+    3301798: Tube_9
+    4300000: Cylinder_4
+    4300002: Cylinder_9
+    4300004: Cylinder_8
+    4300006: Cylinder_7
+    4300008: Cylinder_6
+    4300010: Cylinder_5
+    4300012: Cylinder_4_2
+    4300014: Cylinder
+    4300016: Oil_Tank_1
+    4300018: Cylinder_4_3
+    4300020: Cylinder_9_2
+    4300022: Cylinder_8_2
+    4300024: Cylinder_7_2
+    4300026: Cylinder_6_2
+    4300028: Cylinder_5_2
+    4300030: Cylinder_4_4
+    4300032: Oil_Tank_1_2
+    4300034: Cylinder_2
+    4300036: Cylinder_9_3
+    4300038: Cylinder_8_3
+    4300040: Cylinder_7_3
+    4300042: Cylinder_6_3
+    4300044: Cylinder_5_3
+    4300046: Cylinder_4_5
+    4300048: Oil_Tank_1_3
+    4300050: Cylinder_1
+    4300052: Cylinder_9_4
+    4300054: Cylinder_8_4
+    4300056: Cylinder_7_4
+    4300058: Cylinder_6_4
+    4300060: Cylinder_5_4
+    4300062: Cylinder_4_6
+    4300064: Oil_Tank_1_4
+    4300066: Cube_15
+    4300068: Cube_14
+    4300070: Cube_13
+    4300072: Cube_12
+    4300074: Cube_11
+    4300076: Cube_10
+    4300078: Cube_9
+    4300080: Cube_8
+    4300082: Cube_7
+    4300084: Cube_6
+    4300086: Cube_5
+    4300088: Cube_4
+    4300090: Cube_3
+    4300092: Cube_2
+    4300094: Cube_1
+    4300096: Cylinder_1_2
+    4300098: Cylinder_9_5
+    4300100: Cylinder_8_5
+    4300102: Cylinder_7_5
+    4300104: Cylinder_6_5
+    4300106: Cylinder_5_5
+    4300108: Cylinder_4_7
+    4300110: Cylinder_1_3
+    4300112: Cylinder_9_6
+    4300114: Cylinder_8_6
+    4300116: Cylinder_7_6
+    4300118: Cylinder_6_6
+    4300120: Cylinder_5_6
+    4300122: Cylinder_4_8
+    4300124: Oil_Tank_1_5
+    4300126: Cylinder_3
+    4300128: Cylinder_9_7
+    4300130: Cylinder_8_7
+    4300132: Cylinder_7_7
+    4300134: Cylinder_6_7
+    4300136: Cylinder_5_7
+    4300138: Cylinder_4_9
+    4300140: Oil_Tank_1_6
+    4300142: Cylinder_4_10
+    4300144: Cylinder_9_8
+    4300146: Cylinder_8_8
+    4300148: Cylinder_7_8
+    4300150: Cylinder_6_8
+    4300152: Cylinder_5_8
+    4300154: Cylinder_4_11
+    4300156: Oil_Tank_1_7
+    4300158: Cylinder_4_12
+    4300160: Cylinder_9_9
+    4300162: Cylinder_8_9
+    4300164: Cylinder_7_9
+    4300166: Cylinder_6_9
+    4300168: Cylinder_5_9
+    4300170: Cylinder_4_13
+    4300172: Cylinder_4_14
+    4300174: Oil_Tank_1_8
+    4300176: Cylinder_20
+    4300178: Cylinder_19
+    4300180: Tube
+    4300182: Cylinder_19_2
+    4300184: Capsule_6
+    4300186: Cube_2_2
+    4300188: Cylinder_18
+    4300190: Cylinder_17
+    4300192: Cylinder_16
+    4300194: Cylinder_15
+    4300196: Cylinder_7_10
+    4300198: Cylinder_6_10
+    4300200: Cylinder_5_10
+    4300202: Cylinder_4_15
+    4300204: Cylinder_14
+    4300206: Cylinder_13
+    4300208: Cylinder_12
+    4300210: Cylinder_11
+    4300212: Cylinder_10
+    4300214: Capsule_5
+    4300216: Torus
+    4300218: Cylinder_8_10
+    4300220: Cylinder_9_10
+    4300222: Capsule_4
+    4300224: Capsule_3
+    4300226: Capsule_2
+    4300228: Capsule_1
+    4300230: Capsule
+    4300232: Cylinder_19_3
+    4300234: Cylinder_17_2
+    4300236: Cylinder_16_2
+    4300238: Cylinder_15_2
+    4300240: Cylinder_14_2
+    4300242: Cylinder_12_2
+    4300244: Cylinder_18_2
+    4300246: Cylinder_13_2
+    4300248: Cylinder_5_11
+    4300250: Cylinder_5_12
+    4300252: Cylinder_5_13
+    4300254: Cylinder_5_14
+    4300256: Cylinder_5_15
+    4300258: Cylinder_5_16
+    4300260: Cylinder_2_2
+    4300262: Cylinder_5_17
+    4300264: Cube_8_2
+    4300266: Cube_7_2
+    4300268: Sphere_7
+    4300270: Sphere_6
+    4300272: Cylinder_7_11
+    4300274: Cylinder_17_3
+    4300276: Cylinder_16_3
+    4300278: Cylinder_15_3
+    4300280: Cylinder_14_3
+    4300282: Cylinder_5_18
+    4300284: Cylinder_1_4
+    4300286: Cylinder_2_3
+    4300288: Cylinder_3_2
+    4300290: Cylinder_4_16
+    4300292: Cylinder_5_19
+    4300294: Cylinder_6_11
+    4300296: Cylinder_9_11
+    4300298: Cylinder_8_11
+    4300300: Cylinder_10_2
+    4300302: Cylinder_11_2
+    4300304: Cylinder_12_3
+    4300306: Cylinder_13_3
+    4300308: Cylinder_18_3
+    4300310: Cylinder_19_4
+    4300312: Oil_Tank_7
+    4300314: Oil_Tank_6
+    4300316: Oil_Tank_5
+    4300318: Oil_Tank_4
+    4300320: Oil_Tank_3
+    4300322: Oil_Tank_2
+    4300324: Oil_Tank_1_9
+    4300326: Oil_Tank_7_2
+    4300328: Oil_Tank_6_2
+    4300330: Oil_Tank_5_2
+    4300332: Oil_Tank_4_2
+    4300334: Oil_Tank_3_2
+    4300336: Oil_Tank_2_2
+    4300338: Oil_Tank_1_10
+    4300340: Oil_Tank_7_3
+    4300342: Oil_Tank_6_3
+    4300344: Oil_Tank_5_3
+    4300346: Oil_Tank_4_3
+    4300348: Oil_Tank_3_3
+    4300350: Oil_Tank_2_3
+    4300352: Oil_Tank_1_11
+    4300354: Cylinder_13_4
+    4300356: Cylinder_12_4
+    4300358: Cylinder_11_3
+    4300360: Cylinder_10_3
+    4300362: Cylinder_9_12
+    4300364: Cylinder_8_12
+    4300366: Cylinder_7_12
+    4300368: Cylinder_6_12
+    4300370: Cylinder_5_20
+    4300372: Cylinder_4_17
+    4300374: Cylinder_1_5
+    4300376: Cylinder_9_13
+    4300378: Cylinder_8_13
+    4300380: Cylinder_7_13
+    4300382: Cylinder_6_13
+    4300384: Cylinder_5_21
+    4300386: Cylinder_4_18
+    4300388: Oil_Tank_1_12
+    4300390: Cylinder_6_14
+    4300392: Cylinder_9_14
+    4300394: Cylinder_8_14
+    4300396: Cylinder_7_14
+    4300398: Cylinder_6_15
+    4300400: Cylinder_5_22
+    4300402: Cylinder_4_19
+    4300404: Oil_Tank_1_13
+    4300406: Cylinder_4_20
+    4300408: Cylinder_9_15
+    4300410: Cylinder_8_15
+    4300412: Cylinder_7_15
+    4300414: Cylinder_6_16
+    4300416: Cylinder_5_23
+    4300418: Cylinder_4_21
+    4300420: Oil_Tank_1_14
+    4300422: Cylinder_4_22
+    4300424: Cylinder_9_16
+    4300426: Cylinder_8_16
+    4300428: Cylinder_7_16
+    4300430: Cylinder_6_17
+    4300432: Cylinder_5_24
+    4300434: Cylinder_4_23
+    4300436: Cylinder_7_17
+    4300438: Oil_Tank_1_15
+    4300440: Cube_6_2
+    4300442: Cube_5_2
+    4300444: Capsule_2_2
+    4300446: Tube_2
+    4300448: Cylinder_4_24
+    4300450: Oil_Tank
+    4300452: Tube_3
+    4300454: Cylinder_4_25
+    4300456: Oil_Tank_2_4
+    4300458: Cube_4_2
+    4300460: Cube_2_3
+    4300462: Tube_4
+    4300464: Cylinder_4_26
+    4300466: Oil_Tank_3_4
+    4300468: Tube_5
+    4300470: Cylinder_4_27
+    4300472: Tube_6
+    4300474: Cylinder_4_28
+    4300476: Oil_Tank_4_4
+    4300478: Tube_7
+    4300480: Cylinder_4_29
+    4300482: Oil_Tank_5_4
+    4300484: Cube_3_2
+    4300486: Oil_Tank_6_4
+    4300488: Cylinder_8_17
+    4300490: Oil_Tank_7_4
+    4300492: Sphere
+    4300494: Cylinder_4_30
+    4300496: Cylinder_9_17
+    4300498: Cylinder_8_18
+    4300500: Cylinder_7_18
+    4300502: Cylinder_6_18
+    4300504: Cylinder_5_25
+    4300506: Cylinder_4_31
+    4300508: Cylinder_9_18
+    4300510: Oil_Tank_1_16
+    4300512: Cylinder_4_32
+    4300514: Cylinder_9_19
+    4300516: Cylinder_8_19
+    4300518: Cylinder_7_19
+    4300520: Cylinder_6_19
+    4300522: Cylinder_5_26
+    4300524: Cylinder_4_33
+    4300526: Oil_Tank_1_17
+    4300528: Cylinder_10_4
+    4300530: Cylinder_9_20
+    4300532: Cylinder_8_20
+    4300534: Cylinder_7_20
+    4300536: Cylinder_6_20
+    4300538: Cylinder_5_27
+    4300540: Cylinder_4_34
+    4300542: Oil_Tank_1_18
+    4300544: Cylinder_1_6
+    4300546: Cylinder_9_21
+    4300548: Cylinder_8_21
+    4300550: Cylinder_7_21
+    4300552: Cylinder_6_21
+    4300554: Cylinder_5_28
+    4300556: Cylinder_4_35
+    4300558: Oil_Tank_1_19
+    4300560: Cylinder_1_7
+    4300562: Cylinder_9_22
+    4300564: Cylinder_8_22
+    4300566: Cylinder_7_22
+    4300568: Cylinder_6_22
+    4300570: Cylinder_5_29
+    4300572: Cylinder_4_36
+    4300574: Oil_Tank_1_20
+    4300576: Cylinder_11_4
+    4300578: Cylinder_9_23
+    4300580: Cylinder_8_23
+    4300582: Cylinder_7_23
+    4300584: Cylinder_6_23
+    4300586: Cylinder_5_30
+    4300588: Cylinder_4_37
+    4300590: Oil_Tank_1_21
+    4300592: Cylinder_4_38
+    4300594: Cylinder_9_24
+    4300596: Cylinder_8_24
+    4300598: Cylinder_7_24
+    4300600: Cylinder_6_24
+    4300602: Cylinder_5_31
+    4300604: Cylinder_4_39
+    4300606: Oil_Tank_1_22
+    4300608: Cylinder_4_40
+    4300610: Cylinder_9_25
+    4300612: Cylinder_8_25
+    4300614: Cylinder_7_25
+    4300616: Cylinder_6_25
+    4300618: Cylinder_5_32
+    4300620: Cylinder_4_41
+    4300622: Cylinder_12_5
+    4300624: Oil_Tank_1_23
+    4300626: Tube_8
+    4300628: Cylinder_4_42
+    4300630: Oil_Tank_8
+    4300632: Tube_9
+    4300634: Cylinder_4_43
+    4300636: Oil_Tank_9
+    4300638: Tube_10
+    4300640: Cylinder_4_44
+    4300642: Oil_Tank_10
+    4300644: Cylinder_14_4
+    4300646: Cylinder_13_5
+    4300648: Cylinder_12_6
+    4300650: Cylinder_11_5
+    4300652: Cylinder_10_5
+    4300654: Capsule_5_2
+    4300656: Torus_2
+    4300658: Cylinder_8_26
+    4300660: Cylinder_9_26
+    4300662: Capsule_4_2
+    4300664: Capsule_3_2
+    4300666: Capsule_2_3
+    4300668: Capsule_1_2
+    4300670: Capsule_3_3
+    4300672: Cylinder_19_5
+    4300674: Tube_11
+    4300676: Cylinder_19_6
+    4300678: Capsule_6_2
+    4300680: Cube_2_4
+    4300682: Cylinder_18_4
+    4300684: Cylinder_17_4
+    4300686: Cylinder_16_4
+    4300688: Cylinder_15_4
+    4300690: Cylinder_6_26
+    4300692: Cylinder_5_33
+    4300694: Cylinder_4_45
+    4300696: Cylinder_14_5
+    4300698: Cylinder_13_6
+    4300700: Cylinder_12_7
+    4300702: Cylinder_11_6
+    4300704: Cylinder_10_6
+    4300706: Capsule_5_3
+    4300708: Torus_3
+    4300710: Cylinder_8_27
+    4300712: Cylinder_9_27
+    4300714: Capsule_4_3
+    4300716: Capsule_3_4
+    4300718: Capsule_2_4
+    4300720: Capsule_1_3
+    4300722: Capsule_4_4
+    4300724: Cylinder_5_34
+    4300726: Cylinder_19_7
+    4300728: Tube_12
+    4300730: Cylinder_19_8
+    4300732: Capsule_6_3
+    4300734: Cube_2_5
+    4300736: Cylinder_18_5
+    4300738: Cylinder_17_5
+    4300740: Cylinder_16_5
+    4300742: Cylinder_15_5
+    4300744: Cylinder_7_26
+    4300746: Cylinder_6_27
+    4300748: Cylinder_4_46
+    4300750: Cylinder_14_6
+    4300752: Cylinder_13_7
+    4300754: Cylinder_12_8
+    4300756: Cylinder_11_7
+    4300758: Cylinder_10_7
+    4300760: Capsule_5_4
+    4300762: Torus_4
+    4300764: Cylinder_8_28
+    4300766: Cylinder_9_28
+    4300768: Capsule_4_5
+    4300770: Capsule_3_5
+    4300772: Capsule_2_5
+    4300774: Capsule_1_4
+    4300776: Capsule_5_5
+    4300778: Cylinder_19_9
+    4300780: Capsule_6_4
+    4300782: Cube_2_6
+    4300784: Cylinder_18_6
+    4300786: Cylinder_17_6
+    4300788: Cylinder_16_6
+    4300790: Cylinder_15_6
+    4300792: Cylinder_7_27
+    4300794: Cylinder_6_28
+    4300796: Cylinder_5_35
+    4300798: Cylinder_4_47
+    4300800: Sphere_5
+    4300802: Sphere_4
+    4300804: Sphere_3
+    4300806: Cylinder_2_4
+    4300808: Cube_1_2
+    4300810: Cylinder_2_5
+    4300812: Cylinder_5_36
+    4300814: Cylinder_2_6
+    4300816: Cylinder_5_37
+    4300818: Cube_15_2
+    4300820: Cube_14_2
+    4300822: Cube_13_2
+    4300824: Cube_12_2
+    4300826: Cube_11_2
+    4300828: Cube_10_2
+    4300830: Cube_9_2
+    4300832: Cube_8_3
+    4300834: Cube_7_3
+    4300836: Cube_6_3
+    4300838: Cube_5_3
+    4300840: Cube_4_3
+    4300842: Cube_3_3
+    4300844: Cube_2_7
+    4300846: Cube_1_3
+    4300848: Cube
+    4300850: Cylinder_3_3
+    4300852: Cylinder_1_8
+    4300854: Sphere_10
+    4300856: Sphere_9
+    4300858: Sphere_8
+    4300860: Sphere_11
+    4300862: Sphere_2
+    4300864: Sphere_2_2
+    4300866: Sphere_12
+    4300868: Sphere_2_3
+    4300870: Sphere_1
+    4300872: Line015
+    4300874: Line014
+    4300876: Line07
+    4300878: L_Ext05
+    4300880: Box15
+    4300882: Box06
+    4300884: Box017
+    4300886: Box018
+    4300888: Box019
+    4300890: Object235
+    4300892: Box020
+    4300894: Box021
+    4300896: Box022
+    4300898: Box023
+    4300900: Cylinder_4_48
+    4300902: Cylinder_9_29
+    4300904: Cylinder_8_29
+    4300906: Cylinder_7_28
+    4300908: Cylinder_6_29
+    4300910: Cylinder_5_38
+    4300912: Cylinder_4_49
+    4300914: Cylinder_13_8
+    4300916: Oil_Tank_1_24
+    4300918: Cylinder_4_50
+    4300920: Cylinder_9_30
+    4300922: Cylinder_8_30
+    4300924: Cylinder_7_29
+    4300926: Cylinder_6_30
+    4300928: Cylinder_5_39
+    4300930: Cylinder_4_51
+    4300932: Oil_Tank_1_25
+    4300934: Cylinder_14_7
+    4300936: Cylinder_9_31
+    4300938: Cylinder_8_31
+    4300940: Cylinder_7_30
+    4300942: Cylinder_6_31
+    4300944: Cylinder_5_40
+    4300946: Cylinder_4_52
+    4300948: Oil_Tank_1_26
+    4300950: Cylinder_1_9
+    4300952: Cylinder_9_32
+    4300954: Cylinder_8_32
+    4300956: Cylinder_7_31
+    4300958: Cylinder_6_32
+    4300960: Cylinder_5_41
+    4300962: Cylinder_4_53
+    4300964: Oil_Tank_1_27
+    4300966: Cube_15_3
+    4300968: Cube_14_3
+    4300970: Cube_13_3
+    4300972: Cube_12_3
+    4300974: Cube_11_3
+    4300976: Cube_10_3
+    4300978: Cube_9_3
+    4300980: Cube_8_4
+    4300982: Cube_7_4
+    4300984: Cube_6_4
+    4300986: Cube_5_4
+    4300988: Cube_4_4
+    4300990: Cube_3_4
+    4300992: Cube_2_8
+    4300994: Cube_1_4
+    4300996: Cylinder_1_10
+    4300998: Cylinder_9_33
+    4301000: Cylinder_8_33
+    4301002: Cylinder_7_32
+    4301004: Cylinder_6_33
+    4301006: Cylinder_5_42
+    4301008: Cylinder_4_54
+    4301010: Cylinder_1_11
+    4301012: Cylinder_9_34
+    4301014: Cylinder_8_34
+    4301016: Cylinder_7_33
+    4301018: Cylinder_6_34
+    4301020: Cylinder_5_43
+    4301022: Cylinder_4_55
+    4301024: Oil_Tank_1_28
+    4301026: Cylinder_15_7
+    4301028: Cylinder_9_35
+    4301030: Cylinder_8_35
+    4301032: Cylinder_7_34
+    4301034: Cylinder_6_35
+    4301036: Cylinder_5_44
+    4301038: Cylinder_4_56
+    4301040: Oil_Tank_1_29
+    4301042: Cylinder_4_57
+    4301044: Cylinder_9_36
+    4301046: Cylinder_8_36
+    4301048: Cylinder_7_35
+    4301050: Cylinder_6_36
+    4301052: Cylinder_5_45
+    4301054: Cylinder_4_58
+    4301056: Oil_Tank_1_30
+    4301058: Cylinder_4_59
+    4301060: Cylinder_9_37
+    4301062: Cylinder_8_37
+    4301064: Cylinder_7_36
+    4301066: Cylinder_6_37
+    4301068: Cylinder_5_46
+    4301070: Cylinder_4_60
+    4301072: Cylinder_16_7
+    4301074: Oil_Tank_1_31
+    4301076: Cylinder_20_2
+    4301078: Cylinder_19_10
+    4301080: Tube_13
+    4301082: Cylinder_19_11
+    4301084: Capsule_6_5
+    4301086: Cube_2_9
+    4301088: Cylinder_18_7
+    4301090: Cylinder_17_7
+    4301092: Cylinder_16_8
+    4301094: Cylinder_15_8
+    4301096: Cylinder_7_37
+    4301098: Cylinder_6_38
+    4301100: Cylinder_5_47
+    4301102: Cylinder_4_61
+    4301104: Cylinder_14_8
+    4301106: Cylinder_13_9
+    4301108: Cylinder_12_9
+    4301110: Cylinder_11_8
+    4301112: Cylinder_10_8
+    4301114: Capsule_5_6
+    4301116: Torus_5
+    4301118: Cylinder_8_38
+    4301120: Cylinder_9_38
+    4301122: Capsule_4_6
+    4301124: Capsule_3_6
+    4301126: Capsule_2_6
+    4301128: Capsule_1_5
+    4301130: Capsule_6_6
+    4301132: Cylinder_19_12
+    4301134: Cylinder_17_8
+    4301136: Cylinder_16_9
+    4301138: Cylinder_15_9
+    4301140: Cylinder_14_9
+    4301142: Cylinder_12_10
+    4301144: Cylinder_18_8
+    4301146: Cylinder_13_10
+    4301148: Cylinder_5_48
+    4301150: Cylinder_5_49
+    4301152: Cylinder_5_50
+    4301154: Cylinder_5_51
+    4301156: Cylinder_5_52
+    4301158: Cylinder_5_53
+    4301160: Cylinder_2_7
+    4301162: Cylinder_5_54
+    4301164: Cube_8_5
+    4301166: Cube_7_5
+    4301168: Sphere_7_2
+    4301170: Sphere_6_2
+    4301172: Cylinder_7_38
+    4301174: Cylinder_17_9
+    4301176: Cylinder_16_10
+    4301178: Cylinder_15_10
+    4301180: Cylinder_14_10
+    4301182: Cylinder_17_10
+    4301184: Cylinder_1_12
+    4301186: Cylinder_2_8
+    4301188: Cylinder_3_4
+    4301190: Cylinder_4_62
+    4301192: Cylinder_5_55
+    4301194: Cylinder_6_39
+    4301196: Cylinder_9_39
+    4301198: Cylinder_8_39
+    4301200: Cylinder_10_9
+    4301202: Cylinder_11_9
+    4301204: Cylinder_12_11
+    4301206: Cylinder_13_11
+    4301208: Cylinder_18_9
+    4301210: Cylinder_19_13
+    4301212: Oil_Tank_7_5
+    4301214: Oil_Tank_6_5
+    4301216: Oil_Tank_5_5
+    4301218: Oil_Tank_4_5
+    4301220: Oil_Tank_3_5
+    4301222: Oil_Tank_2_5
+    4301224: Oil_Tank_1_32
+    4301226: Oil_Tank_7_6
+    4301228: Oil_Tank_6_6
+    4301230: Oil_Tank_5_6
+    4301232: Oil_Tank_4_6
+    4301234: Oil_Tank_3_6
+    4301236: Oil_Tank_2_6
+    4301238: Oil_Tank_1_33
+    4301240: Oil_Tank_7_7
+    4301242: Oil_Tank_6_7
+    4301244: Oil_Tank_5_7
+    4301246: Oil_Tank_4_7
+    4301248: Oil_Tank_3_7
+    4301250: Oil_Tank_2_7
+    4301252: Oil_Tank_1_34
+    4301254: Cylinder_13_12
+    4301256: Cylinder_12_12
+    4301258: Cylinder_11_10
+    4301260: Cylinder_10_10
+    4301262: Cylinder_9_40
+    4301264: Cylinder_8_40
+    4301266: Cylinder_7_39
+    4301268: Cylinder_6_40
+    4301270: Cylinder_5_56
+    4301272: Cylinder_4_63
+    4301274: Cylinder_1_13
+    4301276: Cylinder_9_41
+    4301278: Cylinder_8_41
+    4301280: Cylinder_7_40
+    4301282: Cylinder_6_41
+    4301284: Cylinder_5_57
+    4301286: Cylinder_4_64
+    4301288: Oil_Tank_1_35
+    4301290: Cylinder_18_10
+    4301292: Cylinder_9_42
+    4301294: Cylinder_8_42
+    4301296: Cylinder_7_41
+    4301298: Cylinder_6_42
+    4301300: Cylinder_5_58
+    4301302: Cylinder_4_65
+    4301304: Oil_Tank_1_36
+    4301306: Cylinder_4_66
+    4301308: Cylinder_9_43
+    4301310: Cylinder_8_43
+    4301312: Cylinder_7_42
+    4301314: Cylinder_6_43
+    4301316: Cylinder_5_59
+    4301318: Cylinder_4_67
+    4301320: Oil_Tank_1_37
+    4301322: Cylinder_4_68
+    4301324: Cylinder_9_44
+    4301326: Cylinder_8_44
+    4301328: Cylinder_7_43
+    4301330: Cylinder_6_44
+    4301332: Cylinder_5_60
+    4301334: Cylinder_4_69
+    4301336: Cylinder_19_14
+    4301338: Oil_Tank_1_38
+    4301340: Cube_6_5
+    4301342: Cube_5_5
+    4301344: Capsule_7
+    4301346: Tube_14
+    4301348: Cylinder_4_70
+    4301350: Oil_Tank_11
+    4301352: Tube_15
+    4301354: Cylinder_4_71
+    4301356: Oil_Tank_12
+    4301358: Cube_4_5
+    4301360: Cube_2_10
+    4301362: Tube_16
+    4301364: Cylinder_4_72
+    4301366: Oil_Tank_13
+    4301368: Tube_17
+    4301370: Cylinder_4_73
+    4301372: Tube_18
+    4301374: Cylinder_4_74
+    4301376: Oil_Tank_14
+    4301378: Tube_19
+    4301380: Cylinder_4_75
+    4301382: Oil_Tank_15
+    4301384: Cube_3_5
+    4301386: Oil_Tank_16
+    4301388: Cylinder_20_3
+    4301390: Oil_Tank_17
+    4301392: Sphere_2_4
+    4301394: Cylinder_4_76
+    4301396: Cylinder_9_45
+    4301398: Cylinder_8_45
+    4301400: Cylinder_7_44
+    4301402: Cylinder_6_45
+    4301404: Cylinder_5_61
+    4301406: Cylinder_4_77
+    4301408: Cylinder_21
+    4301410: Oil_Tank_1_39
+    4301412: Cylinder_4_78
+    4301414: Cylinder_9_46
+    4301416: Cylinder_8_46
+    4301418: Cylinder_7_45
+    4301420: Cylinder_6_46
+    4301422: Cylinder_5_62
+    4301424: Cylinder_4_79
+    4301426: Oil_Tank_1_40
+    4301428: Cylinder_22
+    4301430: Cylinder_9_47
+    4301432: Cylinder_8_47
+    4301434: Cylinder_7_46
+    4301436: Cylinder_6_47
+    4301438: Cylinder_5_63
+    4301440: Cylinder_4_80
+    4301442: Oil_Tank_1_41
+    4301444: Cylinder_1_14
+    4301446: Cylinder_9_48
+    4301448: Cylinder_8_48
+    4301450: Cylinder_7_47
+    4301452: Cylinder_6_48
+    4301454: Cylinder_5_64
+    4301456: Cylinder_4_81
+    4301458: Oil_Tank_1_42
+    4301460: Cylinder_1_15
+    4301462: Cylinder_9_49
+    4301464: Cylinder_8_49
+    4301466: Cylinder_7_48
+    4301468: Cylinder_6_49
+    4301470: Cylinder_5_65
+    4301472: Cylinder_4_82
+    4301474: Oil_Tank_1_43
+    4301476: Cylinder_23
+    4301478: Cylinder_9_50
+    4301480: Cylinder_8_50
+    4301482: Cylinder_7_49
+    4301484: Cylinder_6_50
+    4301486: Cylinder_5_66
+    4301488: Cylinder_4_83
+    4301490: Oil_Tank_1_44
+    4301492: Cylinder_4_84
+    4301494: Cylinder_9_51
+    4301496: Cylinder_8_51
+    4301498: Cylinder_7_50
+    4301500: Cylinder_6_51
+    4301502: Cylinder_5_67
+    4301504: Cylinder_4_85
+    4301506: Oil_Tank_1_45
+    4301508: Cylinder_4_86
+    4301510: Cylinder_9_52
+    4301512: Cylinder_8_52
+    4301514: Cylinder_7_51
+    4301516: Cylinder_6_52
+    4301518: Cylinder_5_68
+    4301520: Cylinder_4_87
+    4301522: Cylinder_24
+    4301524: Oil_Tank_1_46
+    4301526: Tube_20
+    4301528: Cylinder_4_88
+    4301530: Oil_Tank_18
+    4301532: Tube_21
+    4301534: Cylinder_4_89
+    4301536: Oil_Tank_19
+    4301538: Tube_22
+    4301540: Cylinder_4_90
+    4301542: Oil_Tank_20
+    4301544: Cylinder_14_11
+    4301546: Cylinder_13_13
+    4301548: Cylinder_12_13
+    4301550: Cylinder_11_11
+    4301552: Cylinder_10_11
+    4301554: Capsule_5_7
+    4301556: Torus_6
+    4301558: Cylinder_8_53
+    4301560: Cylinder_9_53
+    4301562: Capsule_4_7
+    4301564: Capsule_3_7
+    4301566: Capsule_2_7
+    4301568: Capsule_1_6
+    4301570: Capsule_8
+    4301572: Cylinder_19_15
+    4301574: Tube_23
+    4301576: Cylinder_19_16
+    4301578: Capsule_6_7
+    4301580: Cube_2_11
+    4301582: Cylinder_18_11
+    4301584: Cylinder_17_11
+    4301586: Cylinder_16_11
+    4301588: Cylinder_15_11
+    4301590: Cylinder_6_53
+    4301592: Cylinder_5_69
+    4301594: Cylinder_4_91
+    4301596: Cylinder_14_12
+    4301598: Cylinder_13_14
+    4301600: Cylinder_12_14
+    4301602: Cylinder_11_12
+    4301604: Cylinder_10_12
+    4301606: Capsule_5_8
+    4301608: Torus_7
+    4301610: Cylinder_8_54
+    4301612: Cylinder_9_54
+    4301614: Capsule_4_8
+    4301616: Capsule_3_8
+    4301618: Capsule_2_8
+    4301620: Capsule_1_7
+    4301622: Capsule_9
+    4301624: Cylinder_5_70
+    4301626: Cylinder_19_17
+    4301628: Tube_24
+    4301630: Cylinder_19_18
+    4301632: Capsule_6_8
+    4301634: Cube_2_12
+    4301636: Cylinder_18_12
+    4301638: Cylinder_17_12
+    4301640: Cylinder_16_12
+    4301642: Cylinder_15_12
+    4301644: Cylinder_7_52
+    4301646: Cylinder_6_54
+    4301648: Cylinder_4_92
+    4301650: Cylinder_14_13
+    4301652: Cylinder_13_15
+    4301654: Cylinder_12_15
+    4301656: Cylinder_11_13
+    4301658: Cylinder_10_13
+    4301660: Capsule_5_9
+    4301662: Torus_8
+    4301664: Cylinder_8_55
+    4301666: Cylinder_9_55
+    4301668: Capsule_4_9
+    4301670: Capsule_3_9
+    4301672: Capsule_2_9
+    4301674: Capsule_1_8
+    4301676: Capsule_10
+    4301678: Cylinder_19_19
+    4301680: Capsule_6_9
+    4301682: Cube_2_13
+    4301684: Cylinder_18_13
+    4301686: Cylinder_17_13
+    4301688: Cylinder_16_13
+    4301690: Cylinder_15_13
+    4301692: Cylinder_7_53
+    4301694: Cylinder_6_55
+    4301696: Cylinder_5_71
+    4301698: Cylinder_4_93
+    4301700: Sphere_5_2
+    4301702: Sphere_4_2
+    4301704: Sphere_3_2
+    4301706: Cylinder_2_9
+    4301708: Cube_1_5
+    4301710: Cylinder_2_10
+    4301712: Cylinder_5_72
+    4301714: Cylinder_2_11
+    4301716: Cylinder_5_73
+    4301718: Cube_15_4
+    4301720: Cube_14_4
+    4301722: Cube_13_4
+    4301724: Cube_12_4
+    4301726: Cube_11_4
+    4301728: Cube_10_4
+    4301730: Cube_9_4
+    4301732: Cube_8_6
+    4301734: Cube_7_6
+    4301736: Cube_6_6
+    4301738: Cube_5_6
+    4301740: Cube_4_6
+    4301742: Cube_3_6
+    4301744: Cube_2_14
+    4301746: Cube_1_6
+    4301748: Cube_2_15
+    4301750: Cylinder_3_5
+    4301752: Cylinder_1_16
+    4301754: Sphere_10_2
+    4301756: Sphere_9_2
+    4301758: Sphere_8_2
+    4301760: Sphere_11_2
+    4301762: Sphere_2_5
+    4301764: Sphere_2_6
+    4301766: Sphere_12_2
+    4301768: Sphere_2_7
+    4301770: Sphere_1_2
+    4301772: Line015_2
+    4301774: Line014_2
+    4301776: Line07_2
+    4301778: L_Ext05_2
+    4301780: Box15_2
+    4301782: Box06_2
+    4301784: Box017_2
+    4301786: Box018_2
+    4301788: Box019_2
+    4301790: Object235_2
+    4301792: Box020_2
+    4301794: Box021_2
+    4301796: Box022_2
+    4301798: Box023_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Null
+        weight: 1
+      - path: Null/Box06
+        weight: 1
+      - path: Null/Box15
+        weight: 1
+      - path: Null/Box017
+        weight: 1
+      - path: Null/Box018
+        weight: 1
+      - path: Null/Box019
+        weight: 1
+      - path: Null/Box020
+        weight: 1
+      - path: Null/Box021
+        weight: 1
+      - path: Null/Box022
+        weight: 1
+      - path: Null/Box023
+        weight: 1
+      - path: Null/Button
+        weight: 1
+      - path: Null/Button/Cube_1_3
+        weight: 1
+      - path: Null/Button/Cube_2_7
+        weight: 1
+      - path: Null/Button/Cube_3_3
+        weight: 1
+      - path: Null/Button/Cube_4_3
+        weight: 1
+      - path: Null/Button/Cube_5_3
+        weight: 1
+      - path: Null/Button/Cube_6_3
+        weight: 1
+      - path: Null/Button/Cube_7_3
+        weight: 1
+      - path: Null/Button/Cube_8_3
+        weight: 1
+      - path: Null/Button/Cube_9_2
+        weight: 1
+      - path: Null/Button/Cube_10_2
+        weight: 1
+      - path: Null/Button/Cube_11_2
+        weight: 1
+      - path: Null/Button/Cube_12_2
+        weight: 1
+      - path: Null/Button/Cube_13_2
+        weight: 1
+      - path: Null/Button/Cube_14_2
+        weight: 1
+      - path: Null/Button/Cube_15_2
+        weight: 1
+      - path: Null/Button_1
+        weight: 1
+      - path: Null/Button_1/Cube_1
+        weight: 1
+      - path: Null/Button_1/Cube_2
+        weight: 1
+      - path: Null/Button_1/Cube_3
+        weight: 1
+      - path: Null/Button_1/Cube_4
+        weight: 1
+      - path: Null/Button_1/Cube_5
+        weight: 1
+      - path: Null/Button_1/Cube_6
+        weight: 1
+      - path: Null/Button_1/Cube_7
+        weight: 1
+      - path: Null/Button_1/Cube_8
+        weight: 1
+      - path: Null/Button_1/Cube_9
+        weight: 1
+      - path: Null/Button_1/Cube_10
+        weight: 1
+      - path: Null/Button_1/Cube_11
+        weight: 1
+      - path: Null/Button_1/Cube_12
+        weight: 1
+      - path: Null/Button_1/Cube_13
+        weight: 1
+      - path: Null/Button_1/Cube_14
+        weight: 1
+      - path: Null/Button_1/Cube_15
+        weight: 1
+      - path: Null/Capsule_2_2
+        weight: 1
+      - path: Null/Cube
+        weight: 1
+      - path: Null/Cube_1_2
+        weight: 1
+      - path: Null/Cube_2_3
+        weight: 1
+      - path: Null/Cube_4_2
+        weight: 1
+      - path: Null/Cube_5_2
+        weight: 1
+      - path: Null/Cube_6_2
+        weight: 1
+      - path: Null/Cube_7_2
+        weight: 1
+      - path: Null/Cube_8_2
+        weight: 1
+      - path: Null/Cylinder_1_8
+        weight: 1
+      - path: Null/Cylinder_2_4
+        weight: 1
+      - path: Null/Cylinder_3_3
+        weight: 1
+      - path: Null/Cylinder_4_17
+        weight: 1
+      - path: Null/Cylinder_5_20
+        weight: 1
+      - path: Null/Cylinder_6_12
+        weight: 1
+      - path: Null/Cylinder_7_12
+        weight: 1
+      - path: Null/Cylinder_8_12
+        weight: 1
+      - path: Null/Cylinder_9_12
+        weight: 1
+      - path: Null/Cylinder_10_3
+        weight: 1
+      - path: Null/Cylinder_11_3
+        weight: 1
+      - path: Null/Cylinder_12_2
+        weight: 1
+      - path: Null/Cylinder_12_4
+        weight: 1
+      - path: Null/Cylinder_13_2
+        weight: 1
+      - path: Null/Cylinder_13_4
+        weight: 1
+      - path: Null/Cylinder_14_2
+        weight: 1
+      - path: Null/Cylinder_15_2
+        weight: 1
+      - path: Null/Cylinder_16_2
+        weight: 1
+      - path: Null/Cylinder_17_2
+        weight: 1
+      - path: Null/Cylinder_18_2
+        weight: 1
+      - path: Null/Cylinder_19_3
+        weight: 1
+      - path: Null/Cylinder_20
+        weight: 1
+      - path: Null/ect
+        weight: 1
+      - path: Null/ect/Cylinder_4_44
+        weight: 1
+      - path: Null/ect/Oil_Tank_10
+        weight: 1
+      - path: Null/ect/Tube_10
+        weight: 1
+      - path: Null/ect1
+        weight: 1
+      - path: Null/ect1/Cylinder_4_43
+        weight: 1
+      - path: Null/ect1/Oil_Tank_9
+        weight: 1
+      - path: Null/ect1/Tube_9
+        weight: 1
+      - path: Null/ect2
+        weight: 1
+      - path: Null/ect2/Cylinder_4_42
+        weight: 1
+      - path: Null/ect2/Oil_Tank_8
+        weight: 1
+      - path: Null/ect2/Tube_8
+        weight: 1
+      - path: Null/ect2_1
+        weight: 1
+      - path: Null/ect2_1/Cylinder_4_25
+        weight: 1
+      - path: Null/ect2_1/Oil_Tank_2_4
+        weight: 1
+      - path: Null/ect2_1/Tube_3
+        weight: 1
+      - path: Null/ect2_2
+        weight: 1
+      - path: Null/ect2_2/Cylinder_4_24
+        weight: 1
+      - path: Null/ect2_2/Oil_Tank
+        weight: 1
+      - path: Null/ect2_2/Tube_2
+        weight: 1
+      - path: Null/L_Ext05
+        weight: 1
+      - path: Null/Line07
+        weight: 1
+      - path: Null/Line014
+        weight: 1
+      - path: Null/Line015
+        weight: 1
+      - path: Null/Null_1
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_1_10
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_2_2
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_3_2
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_4_2
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_5_2
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_6_2
+        weight: 1
+      - path: Null/Null_1/Oil_Tank_7_2
+        weight: 1
+      - path: Null/Null_2_2
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_1_9
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_2
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_3
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_4
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_5
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_6
+        weight: 1
+      - path: Null/Null_2_2/Oil_Tank_7
+        weight: 1
+      - path: Null/Null_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_1_4
+        weight: 1
+      - path: Null/Null_3/Cylinder_2_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_3_2
+        weight: 1
+      - path: Null/Null_3/Cylinder_4_16
+        weight: 1
+      - path: Null/Null_3/Cylinder_5_18
+        weight: 1
+      - path: Null/Null_3/Cylinder_5_19
+        weight: 1
+      - path: Null/Null_3/Cylinder_6_11
+        weight: 1
+      - path: Null/Null_3/Cylinder_7_11
+        weight: 1
+      - path: Null/Null_3/Cylinder_8_11
+        weight: 1
+      - path: Null/Null_3/Cylinder_9_11
+        weight: 1
+      - path: Null/Null_3/Cylinder_10_2
+        weight: 1
+      - path: Null/Null_3/Cylinder_11_2
+        weight: 1
+      - path: Null/Null_3/Cylinder_12_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_13_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_14_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_15_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_16_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_17_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_18_3
+        weight: 1
+      - path: Null/Null_3/Cylinder_19_4
+        weight: 1
+      - path: Null/Null_3_2
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_1_11
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_2_3
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_3_3
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_4_3
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_5_3
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_6_3
+        weight: 1
+      - path: Null/Null_3_2/Oil_Tank_7_3
+        weight: 1
+      - path: Null/Null_4
+        weight: 1
+      - path: Null/Null_4/Cube_3_2
+        weight: 1
+      - path: Null/Null_4/Cylinder_8_17
+        weight: 1
+      - path: Null/Null_4/ect2_3
+        weight: 1
+      - path: Null/Null_4/ect2_3/Cylinder_4_29
+        weight: 1
+      - path: Null/Null_4/ect2_3/Oil_Tank_5_4
+        weight: 1
+      - path: Null/Null_4/ect2_3/Tube_7
+        weight: 1
+      - path: Null/Null_4/ect2_4
+        weight: 1
+      - path: Null/Null_4/ect2_4/Cylinder_4_28
+        weight: 1
+      - path: Null/Null_4/ect2_4/Oil_Tank_4_4
+        weight: 1
+      - path: Null/Null_4/ect2_4/Tube_6
+        weight: 1
+      - path: Null/Null_4/ect2_5
+        weight: 1
+      - path: Null/Null_4/ect2_5/Cylinder_4_27
+        weight: 1
+      - path: Null/Null_4/ect2_5/Tube_5
+        weight: 1
+      - path: Null/Null_4/ect2_6
+        weight: 1
+      - path: Null/Null_4/ect2_6/Cylinder_4_26
+        weight: 1
+      - path: Null/Null_4/ect2_6/Oil_Tank_3_4
+        weight: 1
+      - path: Null/Null_4/ect2_6/Tube_4
+        weight: 1
+      - path: Null/Null_4/Oil_Tank_6_4
+        weight: 1
+      - path: Null/Null_4/Oil_Tank_7_4
+        weight: 1
+      - path: Null/Null_4/Sphere
+        weight: 1
+      - path: Null/Object235
+        weight: 1
+      - path: Null/Pipe
+        weight: 1
+      - path: Null/Pipe/Cylinder_2_6
+        weight: 1
+      - path: Null/Pipe/Cylinder_5_37
+        weight: 1
+      - path: Null/Pipe_1
+        weight: 1
+      - path: Null/Pipe_1/Cylinder_2_5
+        weight: 1
+      - path: Null/Pipe_1/Cylinder_5_36
+        weight: 1
+      - path: Null/Pipe_2
+        weight: 1
+      - path: Null/Pipe_2/Cylinder_2_2
+        weight: 1
+      - path: Null/Pipe_2/Cylinder_5_17
+        weight: 1
+      - path: Null/Pipe_3
+        weight: 1
+      - path: Null/Pipe_3/Cylinder_5_15
+        weight: 1
+      - path: Null/Pipe_3/Cylinder_5_16
+        weight: 1
+      - path: Null/Pipe_4
+        weight: 1
+      - path: Null/Pipe_4/Cylinder_5_14
+        weight: 1
+      - path: Null/Pipe_5
+        weight: 1
+      - path: Null/Pipe_5/Cylinder_5_13
+        weight: 1
+      - path: Null/Pipe_6
+        weight: 1
+      - path: Null/Pipe_6/Cylinder_5_12
+        weight: 1
+      - path: Null/Pipe_7
+        weight: 1
+      - path: Null/Pipe_7/Cylinder_5_11
+        weight: 1
+      - path: Null/screw
+        weight: 1
+      - path: Null/screw/Cylinder_4_40
+        weight: 1
+      - path: Null/screw/Cylinder_4_41
+        weight: 1
+      - path: Null/screw/Cylinder_5_32
+        weight: 1
+      - path: Null/screw/Cylinder_6_25
+        weight: 1
+      - path: Null/screw/Cylinder_7_25
+        weight: 1
+      - path: Null/screw/Cylinder_8_25
+        weight: 1
+      - path: Null/screw/Cylinder_9_25
+        weight: 1
+      - path: Null/screw/Cylinder_12_5
+        weight: 1
+      - path: Null/screw/Oil_Tank_1_23
+        weight: 1
+      - path: Null/screw_1
+        weight: 1
+      - path: Null/screw_1/Cylinder_4_38
+        weight: 1
+      - path: Null/screw_1/Cylinder_4_39
+        weight: 1
+      - path: Null/screw_1/Cylinder_5_31
+        weight: 1
+      - path: Null/screw_1/Cylinder_6_24
+        weight: 1
+      - path: Null/screw_1/Cylinder_7_24
+        weight: 1
+      - path: Null/screw_1/Cylinder_8_24
+        weight: 1
+      - path: Null/screw_1/Cylinder_9_24
+        weight: 1
+      - path: Null/screw_1/Oil_Tank_1_22
+        weight: 1
+      - path: Null/screw_2
+        weight: 1
+      - path: Null/screw_2/Cylinder_4_37
+        weight: 1
+      - path: Null/screw_2/Cylinder_5_30
+        weight: 1
+      - path: Null/screw_2/Cylinder_6_23
+        weight: 1
+      - path: Null/screw_2/Cylinder_7_23
+        weight: 1
+      - path: Null/screw_2/Cylinder_8_23
+        weight: 1
+      - path: Null/screw_2/Cylinder_9_23
+        weight: 1
+      - path: Null/screw_2/Cylinder_11_4
+        weight: 1
+      - path: Null/screw_2/Oil_Tank_1_21
+        weight: 1
+      - path: Null/screw_3
+        weight: 1
+      - path: Null/screw_3/Cylinder_1_7
+        weight: 1
+      - path: Null/screw_3/Cylinder_4_36
+        weight: 1
+      - path: Null/screw_3/Cylinder_5_29
+        weight: 1
+      - path: Null/screw_3/Cylinder_6_22
+        weight: 1
+      - path: Null/screw_3/Cylinder_7_22
+        weight: 1
+      - path: Null/screw_3/Cylinder_8_22
+        weight: 1
+      - path: Null/screw_3/Cylinder_9_22
+        weight: 1
+      - path: Null/screw_3/Oil_Tank_1_20
+        weight: 1
+      - path: Null/screw_4
+        weight: 1
+      - path: Null/screw_4/Cylinder_1_6
+        weight: 1
+      - path: Null/screw_4/Cylinder_4_35
+        weight: 1
+      - path: Null/screw_4/Cylinder_5_28
+        weight: 1
+      - path: Null/screw_4/Cylinder_6_21
+        weight: 1
+      - path: Null/screw_4/Cylinder_7_21
+        weight: 1
+      - path: Null/screw_4/Cylinder_8_21
+        weight: 1
+      - path: Null/screw_4/Cylinder_9_21
+        weight: 1
+      - path: Null/screw_4/Oil_Tank_1_19
+        weight: 1
+      - path: Null/screw_5
+        weight: 1
+      - path: Null/screw_5/Cylinder_4_34
+        weight: 1
+      - path: Null/screw_5/Cylinder_5_27
+        weight: 1
+      - path: Null/screw_5/Cylinder_6_20
+        weight: 1
+      - path: Null/screw_5/Cylinder_7_20
+        weight: 1
+      - path: Null/screw_5/Cylinder_8_20
+        weight: 1
+      - path: Null/screw_5/Cylinder_9_20
+        weight: 1
+      - path: Null/screw_5/Cylinder_10_4
+        weight: 1
+      - path: Null/screw_5/Oil_Tank_1_18
+        weight: 1
+      - path: Null/screw_6
+        weight: 1
+      - path: Null/screw_6/Cylinder_4_32
+        weight: 1
+      - path: Null/screw_6/Cylinder_4_33
+        weight: 1
+      - path: Null/screw_6/Cylinder_5_26
+        weight: 1
+      - path: Null/screw_6/Cylinder_6_19
+        weight: 1
+      - path: Null/screw_6/Cylinder_7_19
+        weight: 1
+      - path: Null/screw_6/Cylinder_8_19
+        weight: 1
+      - path: Null/screw_6/Cylinder_9_19
+        weight: 1
+      - path: Null/screw_6/Oil_Tank_1_17
+        weight: 1
+      - path: Null/screw_7
+        weight: 1
+      - path: Null/screw_7/Cylinder_4_30
+        weight: 1
+      - path: Null/screw_7/Cylinder_4_31
+        weight: 1
+      - path: Null/screw_7/Cylinder_5_25
+        weight: 1
+      - path: Null/screw_7/Cylinder_6_18
+        weight: 1
+      - path: Null/screw_7/Cylinder_7_18
+        weight: 1
+      - path: Null/screw_7/Cylinder_8_18
+        weight: 1
+      - path: Null/screw_7/Cylinder_9_17
+        weight: 1
+      - path: Null/screw_7/Cylinder_9_18
+        weight: 1
+      - path: Null/screw_7/Oil_Tank_1_16
+        weight: 1
+      - path: Null/screw_8
+        weight: 1
+      - path: Null/screw_8/Cylinder_4_22
+        weight: 1
+      - path: Null/screw_8/Cylinder_4_23
+        weight: 1
+      - path: Null/screw_8/Cylinder_5_24
+        weight: 1
+      - path: Null/screw_8/Cylinder_6_17
+        weight: 1
+      - path: Null/screw_8/Cylinder_7_16
+        weight: 1
+      - path: Null/screw_8/Cylinder_7_17
+        weight: 1
+      - path: Null/screw_8/Cylinder_8_16
+        weight: 1
+      - path: Null/screw_8/Cylinder_9_16
+        weight: 1
+      - path: Null/screw_8/Oil_Tank_1_15
+        weight: 1
+      - path: Null/screw_9
+        weight: 1
+      - path: Null/screw_9/Cylinder_4_20
+        weight: 1
+      - path: Null/screw_9/Cylinder_4_21
+        weight: 1
+      - path: Null/screw_9/Cylinder_5_23
+        weight: 1
+      - path: Null/screw_9/Cylinder_6_16
+        weight: 1
+      - path: Null/screw_9/Cylinder_7_15
+        weight: 1
+      - path: Null/screw_9/Cylinder_8_15
+        weight: 1
+      - path: Null/screw_9/Cylinder_9_15
+        weight: 1
+      - path: Null/screw_9/Oil_Tank_1_14
+        weight: 1
+      - path: Null/screw_10
+        weight: 1
+      - path: Null/screw_10/Cylinder_4_19
+        weight: 1
+      - path: Null/screw_10/Cylinder_5_22
+        weight: 1
+      - path: Null/screw_10/Cylinder_6_14
+        weight: 1
+      - path: Null/screw_10/Cylinder_6_15
+        weight: 1
+      - path: Null/screw_10/Cylinder_7_14
+        weight: 1
+      - path: Null/screw_10/Cylinder_8_14
+        weight: 1
+      - path: Null/screw_10/Cylinder_9_14
+        weight: 1
+      - path: Null/screw_10/Oil_Tank_1_13
+        weight: 1
+      - path: Null/screw_11
+        weight: 1
+      - path: Null/screw_11/Cylinder_1_5
+        weight: 1
+      - path: Null/screw_11/Cylinder_4_18
+        weight: 1
+      - path: Null/screw_11/Cylinder_5_21
+        weight: 1
+      - path: Null/screw_11/Cylinder_6_13
+        weight: 1
+      - path: Null/screw_11/Cylinder_7_13
+        weight: 1
+      - path: Null/screw_11/Cylinder_8_13
+        weight: 1
+      - path: Null/screw_11/Cylinder_9_13
+        weight: 1
+      - path: Null/screw_11/Oil_Tank_1_12
+        weight: 1
+      - path: Null/screw_12
+        weight: 1
+      - path: Null/screw_12/Cylinder_4_12
+        weight: 1
+      - path: Null/screw_12/Cylinder_4_13
+        weight: 1
+      - path: Null/screw_12/Cylinder_4_14
+        weight: 1
+      - path: Null/screw_12/Cylinder_5_9
+        weight: 1
+      - path: Null/screw_12/Cylinder_6_9
+        weight: 1
+      - path: Null/screw_12/Cylinder_7_9
+        weight: 1
+      - path: Null/screw_12/Cylinder_8_9
+        weight: 1
+      - path: Null/screw_12/Cylinder_9_9
+        weight: 1
+      - path: Null/screw_12/Oil_Tank_1_8
+        weight: 1
+      - path: Null/screw_13
+        weight: 1
+      - path: Null/screw_13/Cylinder_4_10
+        weight: 1
+      - path: Null/screw_13/Cylinder_4_11
+        weight: 1
+      - path: Null/screw_13/Cylinder_5_8
+        weight: 1
+      - path: Null/screw_13/Cylinder_6_8
+        weight: 1
+      - path: Null/screw_13/Cylinder_7_8
+        weight: 1
+      - path: Null/screw_13/Cylinder_8_8
+        weight: 1
+      - path: Null/screw_13/Cylinder_9_8
+        weight: 1
+      - path: Null/screw_13/Oil_Tank_1_7
+        weight: 1
+      - path: Null/screw_14
+        weight: 1
+      - path: Null/screw_14/Cylinder_3
+        weight: 1
+      - path: Null/screw_14/Cylinder_4_9
+        weight: 1
+      - path: Null/screw_14/Cylinder_5_7
+        weight: 1
+      - path: Null/screw_14/Cylinder_6_7
+        weight: 1
+      - path: Null/screw_14/Cylinder_7_7
+        weight: 1
+      - path: Null/screw_14/Cylinder_8_7
+        weight: 1
+      - path: Null/screw_14/Cylinder_9_7
+        weight: 1
+      - path: Null/screw_14/Oil_Tank_1_6
+        weight: 1
+      - path: Null/screw_15
+        weight: 1
+      - path: Null/screw_15/Cylinder_1_3
+        weight: 1
+      - path: Null/screw_15/Cylinder_4_8
+        weight: 1
+      - path: Null/screw_15/Cylinder_5_6
+        weight: 1
+      - path: Null/screw_15/Cylinder_6_6
+        weight: 1
+      - path: Null/screw_15/Cylinder_7_6
+        weight: 1
+      - path: Null/screw_15/Cylinder_8_6
+        weight: 1
+      - path: Null/screw_15/Cylinder_9_6
+        weight: 1
+      - path: Null/screw_15/Oil_Tank_1_5
+        weight: 1
+      - path: Null/screw_16
+        weight: 1
+      - path: Null/screw_16/Cylinder_1_2
+        weight: 1
+      - path: Null/screw_16/Cylinder_4_7
+        weight: 1
+      - path: Null/screw_16/Cylinder_5_5
+        weight: 1
+      - path: Null/screw_16/Cylinder_6_5
+        weight: 1
+      - path: Null/screw_16/Cylinder_7_5
+        weight: 1
+      - path: Null/screw_16/Cylinder_8_5
+        weight: 1
+      - path: Null/screw_16/Cylinder_9_5
+        weight: 1
+      - path: Null/screw_17
+        weight: 1
+      - path: Null/screw_17/Cylinder_1
+        weight: 1
+      - path: Null/screw_17/Cylinder_4_6
+        weight: 1
+      - path: Null/screw_17/Cylinder_5_4
+        weight: 1
+      - path: Null/screw_17/Cylinder_6_4
+        weight: 1
+      - path: Null/screw_17/Cylinder_7_4
+        weight: 1
+      - path: Null/screw_17/Cylinder_8_4
+        weight: 1
+      - path: Null/screw_17/Cylinder_9_4
+        weight: 1
+      - path: Null/screw_17/Oil_Tank_1_4
+        weight: 1
+      - path: Null/screw_18
+        weight: 1
+      - path: Null/screw_18/Cylinder_2
+        weight: 1
+      - path: Null/screw_18/Cylinder_4_5
+        weight: 1
+      - path: Null/screw_18/Cylinder_5_3
+        weight: 1
+      - path: Null/screw_18/Cylinder_6_3
+        weight: 1
+      - path: Null/screw_18/Cylinder_7_3
+        weight: 1
+      - path: Null/screw_18/Cylinder_8_3
+        weight: 1
+      - path: Null/screw_18/Cylinder_9_3
+        weight: 1
+      - path: Null/screw_18/Oil_Tank_1_3
+        weight: 1
+      - path: Null/screw_19
+        weight: 1
+      - path: Null/screw_19/Cylinder_4_3
+        weight: 1
+      - path: Null/screw_19/Cylinder_4_4
+        weight: 1
+      - path: Null/screw_19/Cylinder_5_2
+        weight: 1
+      - path: Null/screw_19/Cylinder_6_2
+        weight: 1
+      - path: Null/screw_19/Cylinder_7_2
+        weight: 1
+      - path: Null/screw_19/Cylinder_8_2
+        weight: 1
+      - path: Null/screw_19/Cylinder_9_2
+        weight: 1
+      - path: Null/screw_19/Oil_Tank_1_2
+        weight: 1
+      - path: Null/screw_20
+        weight: 1
+      - path: Null/screw_20/Cylinder
+        weight: 1
+      - path: Null/screw_20/Cylinder_4
+        weight: 1
+      - path: Null/screw_20/Cylinder_4_2
+        weight: 1
+      - path: Null/screw_20/Cylinder_5
+        weight: 1
+      - path: Null/screw_20/Cylinder_6
+        weight: 1
+      - path: Null/screw_20/Cylinder_7
+        weight: 1
+      - path: Null/screw_20/Cylinder_8
+        weight: 1
+      - path: Null/screw_20/Cylinder_9
+        weight: 1
+      - path: Null/screw_20/Oil_Tank_1
+        weight: 1
+      - path: Null/Sphere_1
+        weight: 1
+      - path: Null/Sphere_2
+        weight: 1
+      - path: Null/Sphere_2_2
+        weight: 1
+      - path: Null/Sphere_2_3
+        weight: 1
+      - path: Null/Sphere_3
+        weight: 1
+      - path: Null/Sphere_4
+        weight: 1
+      - path: Null/Sphere_5
+        weight: 1
+      - path: Null/Sphere_6
+        weight: 1
+      - path: Null/Sphere_7
+        weight: 1
+      - path: Null/Sphere_8
+        weight: 1
+      - path: Null/Sphere_9
+        weight: 1
+      - path: Null/Sphere_10
+        weight: 1
+      - path: Null/Sphere_11
+        weight: 1
+      - path: Null/Sphere_12
+        weight: 1
+      - path: Null/valve
+        weight: 1
+      - path: Null/valve/Capsule_6_4
+        weight: 1
+      - path: Null/valve/Cube_2_6
+        weight: 1
+      - path: Null/valve/Cylinder_4_47
+        weight: 1
+      - path: Null/valve/Cylinder_5_35
+        weight: 1
+      - path: Null/valve/Cylinder_6_28
+        weight: 1
+      - path: Null/valve/Cylinder_7_27
+        weight: 1
+      - path: Null/valve/Cylinder_15_6
+        weight: 1
+      - path: Null/valve/Cylinder_16_6
+        weight: 1
+      - path: Null/valve/Cylinder_17_6
+        weight: 1
+      - path: Null/valve/Cylinder_18_6
+        weight: 1
+      - path: Null/valve/Cylinder_19_9
+        weight: 1
+      - path: Null/valve/Null_4_4
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_1_4
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_2_5
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_3_5
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_4_5
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_5_4
+        weight: 1
+      - path: Null/valve/Null_4_4/Capsule_5_5
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_8_28
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_9_28
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_10_7
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_11_7
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_12_8
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_13_7
+        weight: 1
+      - path: Null/valve/Null_4_4/Cylinder_14_6
+        weight: 1
+      - path: Null/valve/Null_4_4/Torus_4
+        weight: 1
+      - path: Null/valve_1
+        weight: 1
+      - path: Null/valve_1/Capsule_6_3
+        weight: 1
+      - path: Null/valve_1/Cube_2_5
+        weight: 1
+      - path: Null/valve_1/Cylinder_4_46
+        weight: 1
+      - path: Null/valve_1/Cylinder_5_34
+        weight: 1
+      - path: Null/valve_1/Cylinder_6_27
+        weight: 1
+      - path: Null/valve_1/Cylinder_7_26
+        weight: 1
+      - path: Null/valve_1/Cylinder_15_5
+        weight: 1
+      - path: Null/valve_1/Cylinder_16_5
+        weight: 1
+      - path: Null/valve_1/Cylinder_17_5
+        weight: 1
+      - path: Null/valve_1/Cylinder_18_5
+        weight: 1
+      - path: Null/valve_1/Cylinder_19_7
+        weight: 1
+      - path: Null/valve_1/Cylinder_19_8
+        weight: 1
+      - path: Null/valve_1/Null_4_3
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_1_3
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_2_4
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_3_4
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_4_3
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_4_4
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Capsule_5_3
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_8_27
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_9_27
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_10_6
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_11_6
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_12_7
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_13_6
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Cylinder_14_5
+        weight: 1
+      - path: Null/valve_1/Null_4_3/Torus_3
+        weight: 1
+      - path: Null/valve_1/Tube_12
+        weight: 1
+      - path: Null/valve_2
+        weight: 1
+      - path: Null/valve_2/Capsule_6_2
+        weight: 1
+      - path: Null/valve_2/Cube_2_4
+        weight: 1
+      - path: Null/valve_2/Cylinder_4_45
+        weight: 1
+      - path: Null/valve_2/Cylinder_5_33
+        weight: 1
+      - path: Null/valve_2/Cylinder_6_26
+        weight: 1
+      - path: Null/valve_2/Cylinder_15_4
+        weight: 1
+      - path: Null/valve_2/Cylinder_16_4
+        weight: 1
+      - path: Null/valve_2/Cylinder_17_4
+        weight: 1
+      - path: Null/valve_2/Cylinder_18_4
+        weight: 1
+      - path: Null/valve_2/Cylinder_19_5
+        weight: 1
+      - path: Null/valve_2/Cylinder_19_6
+        weight: 1
+      - path: Null/valve_2/Null_4_2
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_1_2
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_2_3
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_3_2
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_3_3
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_4_2
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Capsule_5_2
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_8_26
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_9_26
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_10_5
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_11_5
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_12_6
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_13_5
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Cylinder_14_4
+        weight: 1
+      - path: Null/valve_2/Null_4_2/Torus_2
+        weight: 1
+      - path: Null/valve_2/Tube_11
+        weight: 1
+      - path: Null/valve_3
+        weight: 1
+      - path: Null/valve_3/Capsule_6
+        weight: 1
+      - path: Null/valve_3/Cube_2_2
+        weight: 1
+      - path: Null/valve_3/Cylinder_4_15
+        weight: 1
+      - path: Null/valve_3/Cylinder_5_10
+        weight: 1
+      - path: Null/valve_3/Cylinder_6_10
+        weight: 1
+      - path: Null/valve_3/Cylinder_7_10
+        weight: 1
+      - path: Null/valve_3/Cylinder_15
+        weight: 1
+      - path: Null/valve_3/Cylinder_16
+        weight: 1
+      - path: Null/valve_3/Cylinder_17
+        weight: 1
+      - path: Null/valve_3/Cylinder_18
+        weight: 1
+      - path: Null/valve_3/Cylinder_19
+        weight: 1
+      - path: Null/valve_3/Cylinder_19_2
+        weight: 1
+      - path: Null/valve_3/Null_2
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule_1
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule_2
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule_3
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule_4
+        weight: 1
+      - path: Null/valve_3/Null_2/Capsule_5
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_8_10
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_9_10
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_10
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_11
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_12
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_13
+        weight: 1
+      - path: Null/valve_3/Null_2/Cylinder_14
+        weight: 1
+      - path: Null/valve_3/Null_2/Torus
+        weight: 1
+      - path: Null/valve_3/Tube
+        weight: 1
+      - path: Null_4_5
+        weight: 1
+      - path: Null_4_5/Box06_2
+        weight: 1
+      - path: Null_4_5/Box15_2
+        weight: 1
+      - path: Null_4_5/Box017_2
+        weight: 1
+      - path: Null_4_5/Box018_2
+        weight: 1
+      - path: Null_4_5/Box019_2
+        weight: 1
+      - path: Null_4_5/Box020_2
+        weight: 1
+      - path: Null_4_5/Box021_2
+        weight: 1
+      - path: Null_4_5/Box022_2
+        weight: 1
+      - path: Null_4_5/Box023_2
+        weight: 1
+      - path: Null_4_5/Button_1_2
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_1_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_2_8
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_3_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_4_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_5_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_6_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_7_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_8_4
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_9_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_10_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_11_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_12_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_13_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_14_3
+        weight: 1
+      - path: Null_4_5/Button_1_2/Cube_15_3
+        weight: 1
+      - path: Null_4_5/Button_2
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_1_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_2_14
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_3_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_4_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_5_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_6_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_7_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_8_6
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_9_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_10_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_11_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_12_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_13_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_14_4
+        weight: 1
+      - path: Null_4_5/Button_2/Cube_15_4
+        weight: 1
+      - path: Null_4_5/Capsule_7
+        weight: 1
+      - path: Null_4_5/Cube_1_5
+        weight: 1
+      - path: Null_4_5/Cube_2_10
+        weight: 1
+      - path: Null_4_5/Cube_2_15
+        weight: 1
+      - path: Null_4_5/Cube_4_5
+        weight: 1
+      - path: Null_4_5/Cube_5_5
+        weight: 1
+      - path: Null_4_5/Cube_6_5
+        weight: 1
+      - path: Null_4_5/Cube_7_5
+        weight: 1
+      - path: Null_4_5/Cube_8_5
+        weight: 1
+      - path: Null_4_5/Cylinder_1_16
+        weight: 1
+      - path: Null_4_5/Cylinder_2_9
+        weight: 1
+      - path: Null_4_5/Cylinder_3_5
+        weight: 1
+      - path: Null_4_5/Cylinder_4_63
+        weight: 1
+      - path: Null_4_5/Cylinder_5_56
+        weight: 1
+      - path: Null_4_5/Cylinder_6_40
+        weight: 1
+      - path: Null_4_5/Cylinder_7_39
+        weight: 1
+      - path: Null_4_5/Cylinder_8_40
+        weight: 1
+      - path: Null_4_5/Cylinder_9_40
+        weight: 1
+      - path: Null_4_5/Cylinder_10_10
+        weight: 1
+      - path: Null_4_5/Cylinder_11_10
+        weight: 1
+      - path: Null_4_5/Cylinder_12_10
+        weight: 1
+      - path: Null_4_5/Cylinder_12_12
+        weight: 1
+      - path: Null_4_5/Cylinder_13_10
+        weight: 1
+      - path: Null_4_5/Cylinder_13_12
+        weight: 1
+      - path: Null_4_5/Cylinder_14_9
+        weight: 1
+      - path: Null_4_5/Cylinder_15_9
+        weight: 1
+      - path: Null_4_5/Cylinder_16_9
+        weight: 1
+      - path: Null_4_5/Cylinder_17_8
+        weight: 1
+      - path: Null_4_5/Cylinder_18_8
+        weight: 1
+      - path: Null_4_5/Cylinder_19_12
+        weight: 1
+      - path: Null_4_5/Cylinder_20_2
+        weight: 1
+      - path: Null_4_5/ect1_2
+        weight: 1
+      - path: Null_4_5/ect1_2/Cylinder_4_89
+        weight: 1
+      - path: Null_4_5/ect1_2/Oil_Tank_19
+        weight: 1
+      - path: Null_4_5/ect1_2/Tube_21
+        weight: 1
+      - path: Null_4_5/ect2_1_2
+        weight: 1
+      - path: Null_4_5/ect2_1_2/Cylinder_4_71
+        weight: 1
+      - path: Null_4_5/ect2_1_2/Oil_Tank_12
+        weight: 1
+      - path: Null_4_5/ect2_1_2/Tube_15
+        weight: 1
+      - path: Null_4_5/ect2_2_2
+        weight: 1
+      - path: Null_4_5/ect2_2_2/Cylinder_4_70
+        weight: 1
+      - path: Null_4_5/ect2_2_2/Oil_Tank_11
+        weight: 1
+      - path: Null_4_5/ect2_2_2/Tube_14
+        weight: 1
+      - path: Null_4_5/ect2_2_3
+        weight: 1
+      - path: Null_4_5/ect2_2_3/Cylinder_4_88
+        weight: 1
+      - path: Null_4_5/ect2_2_3/Oil_Tank_18
+        weight: 1
+      - path: Null_4_5/ect2_2_3/Tube_20
+        weight: 1
+      - path: Null_4_5/ect_2
+        weight: 1
+      - path: Null_4_5/ect_2/Cylinder_4_90
+        weight: 1
+      - path: Null_4_5/ect_2/Oil_Tank_20
+        weight: 1
+      - path: Null_4_5/ect_2/Tube_22
+        weight: 1
+      - path: Null_4_5/L_Ext05_2
+        weight: 1
+      - path: Null_4_5/Line07_2
+        weight: 1
+      - path: Null_4_5/Line014_2
+        weight: 1
+      - path: Null_4_5/Line015_2
+        weight: 1
+      - path: Null_4_5/Null_1_2
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_1_33
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_2_6
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_3_6
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_4_6
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_5_6
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_6_6
+        weight: 1
+      - path: Null_4_5/Null_1_2/Oil_Tank_7_6
+        weight: 1
+      - path: Null_4_5/Null_2_3
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_1_32
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_2_5
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_3_5
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_4_5
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_5_5
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_6_5
+        weight: 1
+      - path: Null_4_5/Null_2_3/Oil_Tank_7_5
+        weight: 1
+      - path: Null_4_5/Null_3_3
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_1_12
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_2_8
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_3_4
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_4_62
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_5_55
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_6_39
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_7_38
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_8_39
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_9_39
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_10_9
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_11_9
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_12_11
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_13_11
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_14_10
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_15_10
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_16_10
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_17_9
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_17_10
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_18_9
+        weight: 1
+      - path: Null_4_5/Null_3_3/Cylinder_19_13
+        weight: 1
+      - path: Null_4_5/Null_6
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_1_34
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_2_7
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_3_7
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_4_7
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_5_7
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_6_7
+        weight: 1
+      - path: Null_4_5/Null_6/Oil_Tank_7_7
+        weight: 1
+      - path: Null_4_5/Null_7
+        weight: 1
+      - path: Null_4_5/Null_7/Cube_3_5
+        weight: 1
+      - path: Null_4_5/Null_7/Cylinder_20_3
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_3_2
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_3_2/Cylinder_4_75
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_3_2/Oil_Tank_15
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_3_2/Tube_19
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_4_2
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_4_2/Cylinder_4_74
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_4_2/Oil_Tank_14
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_4_2/Tube_18
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_5_2
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_5_2/Cylinder_4_73
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_5_2/Tube_17
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_6_2
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_6_2/Cylinder_4_72
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_6_2/Oil_Tank_13
+        weight: 1
+      - path: Null_4_5/Null_7/ect2_6_2/Tube_16
+        weight: 1
+      - path: Null_4_5/Null_7/Oil_Tank_16
+        weight: 1
+      - path: Null_4_5/Null_7/Oil_Tank_17
+        weight: 1
+      - path: Null_4_5/Null_7/Sphere_2_4
+        weight: 1
+      - path: Null_4_5/Object235_2
+        weight: 1
+      - path: Null_4_5/Pipe_1_2
+        weight: 1
+      - path: Null_4_5/Pipe_1_2/Cylinder_2_10
+        weight: 1
+      - path: Null_4_5/Pipe_1_2/Cylinder_5_72
+        weight: 1
+      - path: Null_4_5/Pipe_2_2
+        weight: 1
+      - path: Null_4_5/Pipe_2_2/Cylinder_2_7
+        weight: 1
+      - path: Null_4_5/Pipe_2_2/Cylinder_5_54
+        weight: 1
+      - path: Null_4_5/Pipe_2_3
+        weight: 1
+      - path: Null_4_5/Pipe_2_3/Cylinder_2_11
+        weight: 1
+      - path: Null_4_5/Pipe_2_3/Cylinder_5_73
+        weight: 1
+      - path: Null_4_5/Pipe_3_2
+        weight: 1
+      - path: Null_4_5/Pipe_3_2/Cylinder_5_52
+        weight: 1
+      - path: Null_4_5/Pipe_3_2/Cylinder_5_53
+        weight: 1
+      - path: Null_4_5/Pipe_4_2
+        weight: 1
+      - path: Null_4_5/Pipe_4_2/Cylinder_5_51
+        weight: 1
+      - path: Null_4_5/Pipe_5_2
+        weight: 1
+      - path: Null_4_5/Pipe_5_2/Cylinder_5_50
+        weight: 1
+      - path: Null_4_5/Pipe_6_2
+        weight: 1
+      - path: Null_4_5/Pipe_6_2/Cylinder_5_49
+        weight: 1
+      - path: Null_4_5/Pipe_7_2
+        weight: 1
+      - path: Null_4_5/Pipe_7_2/Cylinder_5_48
+        weight: 1
+      - path: Null_4_5/screw_1_2
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_4_84
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_4_85
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_5_67
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_6_51
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_7_50
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_8_51
+        weight: 1
+      - path: Null_4_5/screw_1_2/Cylinder_9_51
+        weight: 1
+      - path: Null_4_5/screw_1_2/Oil_Tank_1_45
+        weight: 1
+      - path: Null_4_5/screw_2_2
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_4_83
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_5_66
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_6_50
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_7_49
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_8_50
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_9_50
+        weight: 1
+      - path: Null_4_5/screw_2_2/Cylinder_23
+        weight: 1
+      - path: Null_4_5/screw_2_2/Oil_Tank_1_44
+        weight: 1
+      - path: Null_4_5/screw_2_3
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_4_86
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_4_87
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_5_68
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_6_52
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_7_51
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_8_52
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_9_52
+        weight: 1
+      - path: Null_4_5/screw_2_3/Cylinder_24
+        weight: 1
+      - path: Null_4_5/screw_2_3/Oil_Tank_1_46
+        weight: 1
+      - path: Null_4_5/screw_3_2
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_1_15
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_4_82
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_5_65
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_6_49
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_7_48
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_8_49
+        weight: 1
+      - path: Null_4_5/screw_3_2/Cylinder_9_49
+        weight: 1
+      - path: Null_4_5/screw_3_2/Oil_Tank_1_43
+        weight: 1
+      - path: Null_4_5/screw_4_2
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_1_14
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_4_81
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_5_64
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_6_48
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_7_47
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_8_48
+        weight: 1
+      - path: Null_4_5/screw_4_2/Cylinder_9_48
+        weight: 1
+      - path: Null_4_5/screw_4_2/Oil_Tank_1_42
+        weight: 1
+      - path: Null_4_5/screw_5_2
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_4_80
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_5_63
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_6_47
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_7_46
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_8_47
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_9_47
+        weight: 1
+      - path: Null_4_5/screw_5_2/Cylinder_22
+        weight: 1
+      - path: Null_4_5/screw_5_2/Oil_Tank_1_41
+        weight: 1
+      - path: Null_4_5/screw_6_2
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_4_78
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_4_79
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_5_62
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_6_46
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_7_45
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_8_46
+        weight: 1
+      - path: Null_4_5/screw_6_2/Cylinder_9_46
+        weight: 1
+      - path: Null_4_5/screw_6_2/Oil_Tank_1_40
+        weight: 1
+      - path: Null_4_5/screw_7_2
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_4_76
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_4_77
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_5_61
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_6_45
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_7_44
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_8_45
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_9_45
+        weight: 1
+      - path: Null_4_5/screw_7_2/Cylinder_21
+        weight: 1
+      - path: Null_4_5/screw_7_2/Oil_Tank_1_39
+        weight: 1
+      - path: Null_4_5/screw_8_2
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_4_68
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_4_69
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_5_60
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_6_44
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_7_43
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_8_44
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_9_44
+        weight: 1
+      - path: Null_4_5/screw_8_2/Cylinder_19_14
+        weight: 1
+      - path: Null_4_5/screw_8_2/Oil_Tank_1_38
+        weight: 1
+      - path: Null_4_5/screw_9_2
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_4_66
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_4_67
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_5_59
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_6_43
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_7_42
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_8_43
+        weight: 1
+      - path: Null_4_5/screw_9_2/Cylinder_9_43
+        weight: 1
+      - path: Null_4_5/screw_9_2/Oil_Tank_1_37
+        weight: 1
+      - path: Null_4_5/screw_10_2
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_4_65
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_5_58
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_6_42
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_7_41
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_8_42
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_9_42
+        weight: 1
+      - path: Null_4_5/screw_10_2/Cylinder_18_10
+        weight: 1
+      - path: Null_4_5/screw_10_2/Oil_Tank_1_36
+        weight: 1
+      - path: Null_4_5/screw_11_2
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_1_13
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_4_64
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_5_57
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_6_41
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_7_40
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_8_41
+        weight: 1
+      - path: Null_4_5/screw_11_2/Cylinder_9_41
+        weight: 1
+      - path: Null_4_5/screw_11_2/Oil_Tank_1_35
+        weight: 1
+      - path: Null_4_5/screw_12_2
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_4_59
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_4_60
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_5_46
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_6_37
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_7_36
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_8_37
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_9_37
+        weight: 1
+      - path: Null_4_5/screw_12_2/Cylinder_16_7
+        weight: 1
+      - path: Null_4_5/screw_12_2/Oil_Tank_1_31
+        weight: 1
+      - path: Null_4_5/screw_13_2
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_4_57
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_4_58
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_5_45
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_6_36
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_7_35
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_8_36
+        weight: 1
+      - path: Null_4_5/screw_13_2/Cylinder_9_36
+        weight: 1
+      - path: Null_4_5/screw_13_2/Oil_Tank_1_30
+        weight: 1
+      - path: Null_4_5/screw_14_2
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_4_56
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_5_44
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_6_35
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_7_34
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_8_35
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_9_35
+        weight: 1
+      - path: Null_4_5/screw_14_2/Cylinder_15_7
+        weight: 1
+      - path: Null_4_5/screw_14_2/Oil_Tank_1_29
+        weight: 1
+      - path: Null_4_5/screw_15_2
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_1_11
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_4_55
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_5_43
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_6_34
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_7_33
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_8_34
+        weight: 1
+      - path: Null_4_5/screw_15_2/Cylinder_9_34
+        weight: 1
+      - path: Null_4_5/screw_15_2/Oil_Tank_1_28
+        weight: 1
+      - path: Null_4_5/screw_16_2
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_1_10
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_4_54
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_5_42
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_6_33
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_7_32
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_8_33
+        weight: 1
+      - path: Null_4_5/screw_16_2/Cylinder_9_33
+        weight: 1
+      - path: Null_4_5/screw_17_2
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_1_9
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_4_53
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_5_41
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_6_32
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_7_31
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_8_32
+        weight: 1
+      - path: Null_4_5/screw_17_2/Cylinder_9_32
+        weight: 1
+      - path: Null_4_5/screw_17_2/Oil_Tank_1_27
+        weight: 1
+      - path: Null_4_5/screw_18_2
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_4_52
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_5_40
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_6_31
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_7_30
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_8_31
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_9_31
+        weight: 1
+      - path: Null_4_5/screw_18_2/Cylinder_14_7
+        weight: 1
+      - path: Null_4_5/screw_18_2/Oil_Tank_1_26
+        weight: 1
+      - path: Null_4_5/screw_19_2
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_4_50
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_4_51
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_5_39
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_6_30
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_7_29
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_8_30
+        weight: 1
+      - path: Null_4_5/screw_19_2/Cylinder_9_30
+        weight: 1
+      - path: Null_4_5/screw_19_2/Oil_Tank_1_25
+        weight: 1
+      - path: Null_4_5/screw_20_2
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_4_48
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_4_49
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_5_38
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_6_29
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_7_28
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_8_29
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_9_29
+        weight: 1
+      - path: Null_4_5/screw_20_2/Cylinder_13_8
+        weight: 1
+      - path: Null_4_5/screw_20_2/Oil_Tank_1_24
+        weight: 1
+      - path: Null_4_5/Sphere_1_2
+        weight: 1
+      - path: Null_4_5/Sphere_2_5
+        weight: 1
+      - path: Null_4_5/Sphere_2_6
+        weight: 1
+      - path: Null_4_5/Sphere_2_7
+        weight: 1
+      - path: Null_4_5/Sphere_3_2
+        weight: 1
+      - path: Null_4_5/Sphere_4_2
+        weight: 1
+      - path: Null_4_5/Sphere_5_2
+        weight: 1
+      - path: Null_4_5/Sphere_6_2
+        weight: 1
+      - path: Null_4_5/Sphere_7_2
+        weight: 1
+      - path: Null_4_5/Sphere_8_2
+        weight: 1
+      - path: Null_4_5/Sphere_9_2
+        weight: 1
+      - path: Null_4_5/Sphere_10_2
+        weight: 1
+      - path: Null_4_5/Sphere_11_2
+        weight: 1
+      - path: Null_4_5/Sphere_12_2
+        weight: 1
+      - path: Null_4_5/valve_1_2
+        weight: 1
+      - path: Null_4_5/valve_1_2/Capsule_6_8
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cube_2_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_4_92
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_5_70
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_6_54
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_7_52
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_15_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_16_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_17_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_18_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_19_17
+        weight: 1
+      - path: Null_4_5/valve_1_2/Cylinder_19_18
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_1_7
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_2_8
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_3_8
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_4_8
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_5_8
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Capsule_9
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_8_54
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_9_54
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_10_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_11_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_12_14
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_13_14
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Cylinder_14_12
+        weight: 1
+      - path: Null_4_5/valve_1_2/Null_4_7/Torus_7
+        weight: 1
+      - path: Null_4_5/valve_1_2/Tube_24
+        weight: 1
+      - path: Null_4_5/valve_2_2
+        weight: 1
+      - path: Null_4_5/valve_2_2/Capsule_6_7
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cube_2_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_4_91
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_5_69
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_6_53
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_15_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_16_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_17_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_18_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_19_15
+        weight: 1
+      - path: Null_4_5/valve_2_2/Cylinder_19_16
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_1_6
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_2_7
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_3_7
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_4_7
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_5_7
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Capsule_8
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_8_53
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_9_53
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_10_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_11_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_12_13
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_13_13
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Cylinder_14_11
+        weight: 1
+      - path: Null_4_5/valve_2_2/Null_4_6/Torus_6
+        weight: 1
+      - path: Null_4_5/valve_2_2/Tube_23
+        weight: 1
+      - path: Null_4_5/valve_2_3
+        weight: 1
+      - path: Null_4_5/valve_2_3/Capsule_6_9
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cube_2_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_4_93
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_5_71
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_6_55
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_7_53
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_15_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_16_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_17_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_18_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Cylinder_19_19
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_1_8
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_2_9
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_3_9
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_4_9
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_5_9
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Capsule_10
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_8_55
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_9_55
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_10_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_11_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_12_15
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_13_15
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Cylinder_14_13
+        weight: 1
+      - path: Null_4_5/valve_2_3/Null_4_8/Torus_8
+        weight: 1
+      - path: Null_4_5/valve_3_2
+        weight: 1
+      - path: Null_4_5/valve_3_2/Capsule_6_5
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cube_2_9
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_4_61
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_5_47
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_6_38
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_7_37
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_15_8
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_16_8
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_17_7
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_18_7
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_19_10
+        weight: 1
+      - path: Null_4_5/valve_3_2/Cylinder_19_11
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_1_5
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_2_6
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_3_6
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_4_6
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_5_6
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Capsule_6_6
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_8_38
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_9_38
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_10_8
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_11_8
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_12_9
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_13_9
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Cylinder_14_8
+        weight: 1
+      - path: Null_4_5/valve_3_2/Null_5/Torus_5
+        weight: 1
+      - path: Null_4_5/valve_3_2/Tube_13
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

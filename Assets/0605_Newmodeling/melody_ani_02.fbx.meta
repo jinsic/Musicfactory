@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: bdeeab5d56e8b43b8ad5d488a9e3b974
+timeCreated: 1496644428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Background
+    100002: big_button
+    100004: Bottom_cube
+    100006: bridge1
+    100008: bridge2
+    100010: bridge3
+    100012: button01
+    100014: button02
+    100016: button03
+    100018: button04
+    100020: Cap_1
+    100022: Cap_1_2
+    100024: Cap_1_3
+    100026: Cap_1_4
+    100028: Cap_1_5
+    100030: Cap_1_6
+    100032: Cap_1_7
+    100034: Cap_1_8
+    100036: Cap_2
+    100038: Cap_2_2
+    100040: Cap_2_3
+    100042: Cap_2_4
+    100044: Cap_2_5
+    100046: Cap_2_6
+    100048: Cap_2_7
+    100050: Cap_2_8
+    100052: CINEMA_4D_Editor
+    100054: computer
+    100056: Cube
+    100058: Cube_1
+    100060: Cube_2
+    100062: Cube_2_2
+    100064: Cube_3
+    100066: Cube_3_2
+    100068: Cube_4
+    100070: Cylinder
+    100072: Cylinder_1
+    100074: Cylinder_1_2
+    100076: Cylinder_1_3
+    100078: Cylinder_1_4
+    100080: Cylinder_1_5
+    100082: Cylinder_1_6
+    100084: Cylinder_1_7
+    100086: Cylinder_1_8
+    100088: Cylinder_2
+    100090: Cylinder_2_2
+    100092: Cylinder_2_3
+    100094: Cylinder_3
+    100096: Cylinder_3_2
+    100098: Cylinder_3_3
+    100100: Cylinder_3_4
+    100102: Cylinder_4
+    100104: Cylinder_4_2
+    100106: Cylinder_4_3
+    100108: Cylinder_4_4
+    100110: Cylinder_5
+    100112: Cylinder_5_2
+    100114: Cylinder_5_3
+    100116: Cylinder_6
+    100118: Cylinder_6_2
+    100120: Cylinder_6_3
+    100122: Cylinder_7
+    100124: Cylinder_7_2
+    100126: Cylinder_8
+    100128: Cylinder_8_2
+    100130: deco_pipe01
+    100132: deco_pipe02
+    100134: fake_cylinder
+    100136: fake_cylinder_1
+    100138: handle
+    100140: Hole_bottom_1
+    100142: Hole_cylinder
+    100144: Key
+    100146: Key_10
+    100148: Key_11
+    100150: Key_12
+    100152: Key_2
+    100154: Key_3
+    100156: Key_4
+    100158: Key_5
+    100160: Key_6
+    100162: Key_7
+    100164: Key_8
+    100166: Key_9
+    100168: Key_Position
+    100170: Key_Position_10
+    100172: Key_Position_11
+    100174: Key_Position_12
+    100176: Key_Position_2
+    100178: Key_Position_3
+    100180: Key_Position_4
+    100182: Key_Position_5
+    100184: Key_Position_6
+    100186: Key_Position_7
+    100188: Key_Position_8
+    100190: Key_Position_9
+    100192: Key_Rotation_1
+    100194: Key_Rotation_10
+    100196: Key_Rotation_11
+    100198: Key_Rotation_12
+    100200: Key_Rotation_2
+    100202: Key_Rotation_3
+    100204: Key_Rotation_4
+    100206: Key_Rotation_5
+    100208: Key_Rotation_6
+    100210: Key_Rotation_7
+    100212: Key_Rotation_8
+    100214: Key_Rotation_9
+    100216: keys
+    100218: Line
+    100220: Line01_cylinder
+    100222: Line01_cylinder_10
+    100224: Line01_cylinder_11
+    100226: Line01_cylinder_12
+    100228: Line01_cylinder_2
+    100230: Line01_cylinder_3
+    100232: Line01_cylinder_4
+    100234: Line01_cylinder_5
+    100236: Line01_cylinder_6
+    100238: Line01_cylinder_7
+    100240: Line01_cylinder_8
+    100242: Line01_cylinder_9
+    100244: Line_10
+    100246: Line_11
+    100248: Line_12
+    100250: Line_2
+    100252: Line_3
+    100254: Line_4
+    100256: Line_5
+    100258: Line_6
+    100260: Line_7
+    100262: Line_8
+    100264: Line_9
+    100266: Line_Back
+    100268: Line_Back_10
+    100270: Line_Back_11
+    100272: Line_Back_12
+    100274: Line_Back_13
+    100276: Line_Back_14
+    100278: Line_Back_15
+    100280: Line_Back_16
+    100282: Line_Back_17
+    100284: Line_Back_18
+    100286: Line_Back_19
+    100288: Line_Back_2
+    100290: Line_Back_20
+    100292: Line_Back_21
+    100294: Line_Back_22
+    100296: Line_Back_23
+    100298: Line_Back_24
+    100300: Line_Back_3
+    100302: Line_Back_4
+    100304: Line_Back_5
+    100306: Line_Back_6
+    100308: Line_Back_7
+    100310: Line_Back_8
+    100312: Line_Back_9
+    100314: Line_Back_cylinder
+    100316: Line_Back_cylinder_10
+    100318: Line_Back_cylinder_11
+    100320: Line_Back_cylinder_12
+    100322: Line_Back_cylinder_2
+    100324: Line_Back_cylinder_3
+    100326: Line_Back_cylinder_4
+    100328: Line_Back_cylinder_5
+    100330: Line_Back_cylinder_6
+    100332: Line_Back_cylinder_7
+    100334: Line_Back_cylinder_8
+    100336: Line_Back_cylinder_9
+    100338: //RootNode
+    100340: mid_cylinder
+    100342: mid_line
+    100344: minimachine
+    100346: Null
+    100348: Null_2
+    100350: pipe01
+    100352: pipe02
+    100354: pipe03
+    100356: pipe04
+    100358: pipe05
+    100360: pipe06
+    100362: plane
+    100364: small_sphere
+    100366: Sphere
+    100368: Sphere_0
+    100370: Sphere_1
+    100372: Sphere_10
+    100374: Sphere_11
+    100376: Sphere_12
+    100378: Sphere_13
+    100380: Sphere_14
+    100382: Sphere_15
+    100384: Sphere_16
+    100386: Sphere_17
+    100388: Sphere_18
+    100390: Sphere_19
+    100392: Sphere_2
+    100394: Sphere_20
+    100396: Sphere_21
+    100398: Sphere_22
+    100400: Sphere_23
+    100402: Sphere_3
+    100404: Sphere_4
+    100406: Sphere_5
+    100408: Sphere_6
+    100410: Sphere_7
+    100412: Sphere_8
+    100414: Sphere_9
+    100416: Subdivision_Surface
+    100418: Subdivision_Surface_1
+    100420: Subdivision_Surface_1_10
+    100422: Subdivision_Surface_1_11
+    100424: Subdivision_Surface_1_2
+    100426: Subdivision_Surface_1_3
+    100428: Subdivision_Surface_1_4
+    100430: Subdivision_Surface_1_5
+    100432: Subdivision_Surface_1_6
+    100434: Subdivision_Surface_1_7
+    100436: Subdivision_Surface_1_8
+    100438: Subdivision_Surface_1_9
+    100440: Sweep
+    100442: Sweep_2
+    100444: Sweep_3
+    100446: Sweep_4
+    100448: Sweep_5
+    100450: Sweep_6
+    100452: Top
+    100454: top_cylinder
+    100456: top_main
+    100458: top_main_2
+    100460: top_sphere
+    100462: Torus
+    100464: Torus_1
+    100466: Torus_2
+    100468: wind
+    100470: wind01
+    100472: wind02
+    100474: wind03
+    100476: window01
+    100478: window02
+    400000: Background
+    400002: big_button
+    400004: Bottom_cube
+    400006: bridge1
+    400008: bridge2
+    400010: bridge3
+    400012: button01
+    400014: button02
+    400016: button03
+    400018: button04
+    400020: Cap_1
+    400022: Cap_1_2
+    400024: Cap_1_3
+    400026: Cap_1_4
+    400028: Cap_1_5
+    400030: Cap_1_6
+    400032: Cap_1_7
+    400034: Cap_1_8
+    400036: Cap_2
+    400038: Cap_2_2
+    400040: Cap_2_3
+    400042: Cap_2_4
+    400044: Cap_2_5
+    400046: Cap_2_6
+    400048: Cap_2_7
+    400050: Cap_2_8
+    400052: CINEMA_4D_Editor
+    400054: computer
+    400056: Cube
+    400058: Cube_1
+    400060: Cube_2
+    400062: Cube_2_2
+    400064: Cube_3
+    400066: Cube_3_2
+    400068: Cube_4
+    400070: Cylinder
+    400072: Cylinder_1
+    400074: Cylinder_1_2
+    400076: Cylinder_1_3
+    400078: Cylinder_1_4
+    400080: Cylinder_1_5
+    400082: Cylinder_1_6
+    400084: Cylinder_1_7
+    400086: Cylinder_1_8
+    400088: Cylinder_2
+    400090: Cylinder_2_2
+    400092: Cylinder_2_3
+    400094: Cylinder_3
+    400096: Cylinder_3_2
+    400098: Cylinder_3_3
+    400100: Cylinder_3_4
+    400102: Cylinder_4
+    400104: Cylinder_4_2
+    400106: Cylinder_4_3
+    400108: Cylinder_4_4
+    400110: Cylinder_5
+    400112: Cylinder_5_2
+    400114: Cylinder_5_3
+    400116: Cylinder_6
+    400118: Cylinder_6_2
+    400120: Cylinder_6_3
+    400122: Cylinder_7
+    400124: Cylinder_7_2
+    400126: Cylinder_8
+    400128: Cylinder_8_2
+    400130: deco_pipe01
+    400132: deco_pipe02
+    400134: fake_cylinder
+    400136: fake_cylinder_1
+    400138: handle
+    400140: Hole_bottom_1
+    400142: Hole_cylinder
+    400144: Key
+    400146: Key_10
+    400148: Key_11
+    400150: Key_12
+    400152: Key_2
+    400154: Key_3
+    400156: Key_4
+    400158: Key_5
+    400160: Key_6
+    400162: Key_7
+    400164: Key_8
+    400166: Key_9
+    400168: Key_Position
+    400170: Key_Position_10
+    400172: Key_Position_11
+    400174: Key_Position_12
+    400176: Key_Position_2
+    400178: Key_Position_3
+    400180: Key_Position_4
+    400182: Key_Position_5
+    400184: Key_Position_6
+    400186: Key_Position_7
+    400188: Key_Position_8
+    400190: Key_Position_9
+    400192: Key_Rotation_1
+    400194: Key_Rotation_10
+    400196: Key_Rotation_11
+    400198: Key_Rotation_12
+    400200: Key_Rotation_2
+    400202: Key_Rotation_3
+    400204: Key_Rotation_4
+    400206: Key_Rotation_5
+    400208: Key_Rotation_6
+    400210: Key_Rotation_7
+    400212: Key_Rotation_8
+    400214: Key_Rotation_9
+    400216: keys
+    400218: Line
+    400220: Line01_cylinder
+    400222: Line01_cylinder_10
+    400224: Line01_cylinder_11
+    400226: Line01_cylinder_12
+    400228: Line01_cylinder_2
+    400230: Line01_cylinder_3
+    400232: Line01_cylinder_4
+    400234: Line01_cylinder_5
+    400236: Line01_cylinder_6
+    400238: Line01_cylinder_7
+    400240: Line01_cylinder_8
+    400242: Line01_cylinder_9
+    400244: Line_10
+    400246: Line_11
+    400248: Line_12
+    400250: Line_2
+    400252: Line_3
+    400254: Line_4
+    400256: Line_5
+    400258: Line_6
+    400260: Line_7
+    400262: Line_8
+    400264: Line_9
+    400266: Line_Back
+    400268: Line_Back_10
+    400270: Line_Back_11
+    400272: Line_Back_12
+    400274: Line_Back_13
+    400276: Line_Back_14
+    400278: Line_Back_15
+    400280: Line_Back_16
+    400282: Line_Back_17
+    400284: Line_Back_18
+    400286: Line_Back_19
+    400288: Line_Back_2
+    400290: Line_Back_20
+    400292: Line_Back_21
+    400294: Line_Back_22
+    400296: Line_Back_23
+    400298: Line_Back_24
+    400300: Line_Back_3
+    400302: Line_Back_4
+    400304: Line_Back_5
+    400306: Line_Back_6
+    400308: Line_Back_7
+    400310: Line_Back_8
+    400312: Line_Back_9
+    400314: Line_Back_cylinder
+    400316: Line_Back_cylinder_10
+    400318: Line_Back_cylinder_11
+    400320: Line_Back_cylinder_12
+    400322: Line_Back_cylinder_2
+    400324: Line_Back_cylinder_3
+    400326: Line_Back_cylinder_4
+    400328: Line_Back_cylinder_5
+    400330: Line_Back_cylinder_6
+    400332: Line_Back_cylinder_7
+    400334: Line_Back_cylinder_8
+    400336: Line_Back_cylinder_9
+    400338: //RootNode
+    400340: mid_cylinder
+    400342: mid_line
+    400344: minimachine
+    400346: Null
+    400348: Null_2
+    400350: pipe01
+    400352: pipe02
+    400354: pipe03
+    400356: pipe04
+    400358: pipe05
+    400360: pipe06
+    400362: plane
+    400364: small_sphere
+    400366: Sphere
+    400368: Sphere_0
+    400370: Sphere_1
+    400372: Sphere_10
+    400374: Sphere_11
+    400376: Sphere_12
+    400378: Sphere_13
+    400380: Sphere_14
+    400382: Sphere_15
+    400384: Sphere_16
+    400386: Sphere_17
+    400388: Sphere_18
+    400390: Sphere_19
+    400392: Sphere_2
+    400394: Sphere_20
+    400396: Sphere_21
+    400398: Sphere_22
+    400400: Sphere_23
+    400402: Sphere_3
+    400404: Sphere_4
+    400406: Sphere_5
+    400408: Sphere_6
+    400410: Sphere_7
+    400412: Sphere_8
+    400414: Sphere_9
+    400416: Subdivision_Surface
+    400418: Subdivision_Surface_1
+    400420: Subdivision_Surface_1_10
+    400422: Subdivision_Surface_1_11
+    400424: Subdivision_Surface_1_2
+    400426: Subdivision_Surface_1_3
+    400428: Subdivision_Surface_1_4
+    400430: Subdivision_Surface_1_5
+    400432: Subdivision_Surface_1_6
+    400434: Subdivision_Surface_1_7
+    400436: Subdivision_Surface_1_8
+    400438: Subdivision_Surface_1_9
+    400440: Sweep
+    400442: Sweep_2
+    400444: Sweep_3
+    400446: Sweep_4
+    400448: Sweep_5
+    400450: Sweep_6
+    400452: Top
+    400454: top_cylinder
+    400456: top_main
+    400458: top_main_2
+    400460: top_sphere
+    400462: Torus
+    400464: Torus_1
+    400466: Torus_2
+    400468: wind
+    400470: wind01
+    400472: wind02
+    400474: wind03
+    400476: window01
+    400478: window02
+    2300000: big_button
+    2300002: bridge1
+    2300004: bridge2
+    2300006: bridge3
+    2300008: button01
+    2300010: button02
+    2300012: button03
+    2300014: button04
+    2300016: Cap_1
+    2300018: Cap_1_2
+    2300020: Cap_1_3
+    2300022: Cap_1_4
+    2300024: Cap_1_5
+    2300026: Cap_1_6
+    2300028: Cap_1_7
+    2300030: Cap_1_8
+    2300032: Cap_2
+    2300034: Cap_2_2
+    2300036: Cap_2_3
+    2300038: Cap_2_4
+    2300040: Cap_2_5
+    2300042: Cap_2_6
+    2300044: Cap_2_7
+    2300046: Cap_2_8
+    2300048: Cube
+    2300050: Cube_1
+    2300052: Cube_2
+    2300054: Cube_2_2
+    2300056: Cube_3
+    2300058: Cube_3_2
+    2300060: Cube_4
+    2300062: Cylinder
+    2300064: Cylinder_1
+    2300066: Cylinder_1_2
+    2300068: Cylinder_1_3
+    2300070: Cylinder_1_4
+    2300072: Cylinder_1_5
+    2300074: Cylinder_1_6
+    2300076: Cylinder_1_7
+    2300078: Cylinder_1_8
+    2300080: Cylinder_2
+    2300082: Cylinder_2_2
+    2300084: Cylinder_2_3
+    2300086: Cylinder_3
+    2300088: Cylinder_3_2
+    2300090: Cylinder_3_3
+    2300092: Cylinder_3_4
+    2300094: Cylinder_4
+    2300096: Cylinder_4_2
+    2300098: Cylinder_4_3
+    2300100: Cylinder_4_4
+    2300102: Cylinder_5
+    2300104: Cylinder_5_2
+    2300106: Cylinder_5_3
+    2300108: Cylinder_6
+    2300110: Cylinder_6_2
+    2300112: Cylinder_6_3
+    2300114: Cylinder_7
+    2300116: Cylinder_7_2
+    2300118: Cylinder_8
+    2300120: Cylinder_8_2
+    2300122: deco_pipe01
+    2300124: deco_pipe02
+    2300126: fake_cylinder
+    2300128: fake_cylinder_1
+    2300130: Hole_bottom_1
+    2300132: Hole_cylinder
+    2300134: Key
+    2300136: Key_10
+    2300138: Key_11
+    2300140: Key_12
+    2300142: Key_2
+    2300144: Key_3
+    2300146: Key_4
+    2300148: Key_5
+    2300150: Key_6
+    2300152: Key_7
+    2300154: Key_8
+    2300156: Key_9
+    2300158: Line
+    2300160: Line01_cylinder
+    2300162: Line01_cylinder_10
+    2300164: Line01_cylinder_11
+    2300166: Line01_cylinder_12
+    2300168: Line01_cylinder_2
+    2300170: Line01_cylinder_3
+    2300172: Line01_cylinder_4
+    2300174: Line01_cylinder_5
+    2300176: Line01_cylinder_6
+    2300178: Line01_cylinder_7
+    2300180: Line01_cylinder_8
+    2300182: Line01_cylinder_9
+    2300184: Line_10
+    2300186: Line_11
+    2300188: Line_12
+    2300190: Line_2
+    2300192: Line_3
+    2300194: Line_4
+    2300196: Line_5
+    2300198: Line_6
+    2300200: Line_7
+    2300202: Line_8
+    2300204: Line_9
+    2300206: Line_Back_10
+    2300208: Line_Back_12
+    2300210: Line_Back_14
+    2300212: Line_Back_16
+    2300214: Line_Back_18
+    2300216: Line_Back_2
+    2300218: Line_Back_20
+    2300220: Line_Back_22
+    2300222: Line_Back_24
+    2300224: Line_Back_4
+    2300226: Line_Back_6
+    2300228: Line_Back_8
+    2300230: Line_Back_cylinder
+    2300232: Line_Back_cylinder_10
+    2300234: Line_Back_cylinder_11
+    2300236: Line_Back_cylinder_12
+    2300238: Line_Back_cylinder_2
+    2300240: Line_Back_cylinder_3
+    2300242: Line_Back_cylinder_4
+    2300244: Line_Back_cylinder_5
+    2300246: Line_Back_cylinder_6
+    2300248: Line_Back_cylinder_7
+    2300250: Line_Back_cylinder_8
+    2300252: Line_Back_cylinder_9
+    2300254: mid_line
+    2300256: plane
+    2300258: Sphere
+    2300260: Sphere_0
+    2300262: Sphere_1
+    2300264: Sphere_10
+    2300266: Sphere_11
+    2300268: Sphere_12
+    2300270: Sphere_13
+    2300272: Sphere_14
+    2300274: Sphere_15
+    2300276: Sphere_16
+    2300278: Sphere_17
+    2300280: Sphere_18
+    2300282: Sphere_19
+    2300284: Sphere_2
+    2300286: Sphere_20
+    2300288: Sphere_21
+    2300290: Sphere_22
+    2300292: Sphere_23
+    2300294: Sphere_3
+    2300296: Sphere_4
+    2300298: Sphere_5
+    2300300: Sphere_6
+    2300302: Sphere_7
+    2300304: Sphere_8
+    2300306: Sphere_9
+    2300308: Subdivision_Surface
+    2300310: Subdivision_Surface_1
+    2300312: Subdivision_Surface_1_10
+    2300314: Subdivision_Surface_1_11
+    2300316: Subdivision_Surface_1_2
+    2300318: Subdivision_Surface_1_3
+    2300320: Subdivision_Surface_1_4
+    2300322: Subdivision_Surface_1_5
+    2300324: Subdivision_Surface_1_6
+    2300326: Subdivision_Surface_1_7
+    2300328: Subdivision_Surface_1_8
+    2300330: Subdivision_Surface_1_9
+    2300332: Sweep
+    2300334: Sweep_2
+    2300336: Sweep_3
+    2300338: Sweep_4
+    2300340: Sweep_5
+    2300342: Sweep_6
+    2300344: top_cylinder
+    2300346: top_main
+    2300348: top_main_2
+    2300350: top_sphere
+    2300352: Torus
+    2300354: Torus_1
+    2300356: Torus_2
+    2300358: wind01
+    2300360: wind02
+    2300362: wind03
+    2300364: window01
+    2300366: window02
+    3300000: big_button
+    3300002: bridge1
+    3300004: bridge2
+    3300006: bridge3
+    3300008: button01
+    3300010: button02
+    3300012: button03
+    3300014: button04
+    3300016: Cap_1
+    3300018: Cap_1_2
+    3300020: Cap_1_3
+    3300022: Cap_1_4
+    3300024: Cap_1_5
+    3300026: Cap_1_6
+    3300028: Cap_1_7
+    3300030: Cap_1_8
+    3300032: Cap_2
+    3300034: Cap_2_2
+    3300036: Cap_2_3
+    3300038: Cap_2_4
+    3300040: Cap_2_5
+    3300042: Cap_2_6
+    3300044: Cap_2_7
+    3300046: Cap_2_8
+    3300048: Cube
+    3300050: Cube_1
+    3300052: Cube_2
+    3300054: Cube_2_2
+    3300056: Cube_3
+    3300058: Cube_3_2
+    3300060: Cube_4
+    3300062: Cylinder
+    3300064: Cylinder_1
+    3300066: Cylinder_1_2
+    3300068: Cylinder_1_3
+    3300070: Cylinder_1_4
+    3300072: Cylinder_1_5
+    3300074: Cylinder_1_6
+    3300076: Cylinder_1_7
+    3300078: Cylinder_1_8
+    3300080: Cylinder_2
+    3300082: Cylinder_2_2
+    3300084: Cylinder_2_3
+    3300086: Cylinder_3
+    3300088: Cylinder_3_2
+    3300090: Cylinder_3_3
+    3300092: Cylinder_3_4
+    3300094: Cylinder_4
+    3300096: Cylinder_4_2
+    3300098: Cylinder_4_3
+    3300100: Cylinder_4_4
+    3300102: Cylinder_5
+    3300104: Cylinder_5_2
+    3300106: Cylinder_5_3
+    3300108: Cylinder_6
+    3300110: Cylinder_6_2
+    3300112: Cylinder_6_3
+    3300114: Cylinder_7
+    3300116: Cylinder_7_2
+    3300118: Cylinder_8
+    3300120: Cylinder_8_2
+    3300122: deco_pipe01
+    3300124: deco_pipe02
+    3300126: fake_cylinder
+    3300128: fake_cylinder_1
+    3300130: Hole_bottom_1
+    3300132: Hole_cylinder
+    3300134: Key
+    3300136: Key_10
+    3300138: Key_11
+    3300140: Key_12
+    3300142: Key_2
+    3300144: Key_3
+    3300146: Key_4
+    3300148: Key_5
+    3300150: Key_6
+    3300152: Key_7
+    3300154: Key_8
+    3300156: Key_9
+    3300158: Line
+    3300160: Line01_cylinder
+    3300162: Line01_cylinder_10
+    3300164: Line01_cylinder_11
+    3300166: Line01_cylinder_12
+    3300168: Line01_cylinder_2
+    3300170: Line01_cylinder_3
+    3300172: Line01_cylinder_4
+    3300174: Line01_cylinder_5
+    3300176: Line01_cylinder_6
+    3300178: Line01_cylinder_7
+    3300180: Line01_cylinder_8
+    3300182: Line01_cylinder_9
+    3300184: Line_10
+    3300186: Line_11
+    3300188: Line_12
+    3300190: Line_2
+    3300192: Line_3
+    3300194: Line_4
+    3300196: Line_5
+    3300198: Line_6
+    3300200: Line_7
+    3300202: Line_8
+    3300204: Line_9
+    3300206: Line_Back_10
+    3300208: Line_Back_12
+    3300210: Line_Back_14
+    3300212: Line_Back_16
+    3300214: Line_Back_18
+    3300216: Line_Back_2
+    3300218: Line_Back_20
+    3300220: Line_Back_22
+    3300222: Line_Back_24
+    3300224: Line_Back_4
+    3300226: Line_Back_6
+    3300228: Line_Back_8
+    3300230: Line_Back_cylinder
+    3300232: Line_Back_cylinder_10
+    3300234: Line_Back_cylinder_11
+    3300236: Line_Back_cylinder_12
+    3300238: Line_Back_cylinder_2
+    3300240: Line_Back_cylinder_3
+    3300242: Line_Back_cylinder_4
+    3300244: Line_Back_cylinder_5
+    3300246: Line_Back_cylinder_6
+    3300248: Line_Back_cylinder_7
+    3300250: Line_Back_cylinder_8
+    3300252: Line_Back_cylinder_9
+    3300254: mid_line
+    3300256: plane
+    3300258: Sphere
+    3300260: Sphere_0
+    3300262: Sphere_1
+    3300264: Sphere_10
+    3300266: Sphere_11
+    3300268: Sphere_12
+    3300270: Sphere_13
+    3300272: Sphere_14
+    3300274: Sphere_15
+    3300276: Sphere_16
+    3300278: Sphere_17
+    3300280: Sphere_18
+    3300282: Sphere_19
+    3300284: Sphere_2
+    3300286: Sphere_20
+    3300288: Sphere_21
+    3300290: Sphere_22
+    3300292: Sphere_23
+    3300294: Sphere_3
+    3300296: Sphere_4
+    3300298: Sphere_5
+    3300300: Sphere_6
+    3300302: Sphere_7
+    3300304: Sphere_8
+    3300306: Sphere_9
+    3300308: Subdivision_Surface
+    3300310: Subdivision_Surface_1
+    3300312: Subdivision_Surface_1_10
+    3300314: Subdivision_Surface_1_11
+    3300316: Subdivision_Surface_1_2
+    3300318: Subdivision_Surface_1_3
+    3300320: Subdivision_Surface_1_4
+    3300322: Subdivision_Surface_1_5
+    3300324: Subdivision_Surface_1_6
+    3300326: Subdivision_Surface_1_7
+    3300328: Subdivision_Surface_1_8
+    3300330: Subdivision_Surface_1_9
+    3300332: Sweep
+    3300334: Sweep_2
+    3300336: Sweep_3
+    3300338: Sweep_4
+    3300340: Sweep_5
+    3300342: Sweep_6
+    3300344: top_cylinder
+    3300346: top_main
+    3300348: top_main_2
+    3300350: top_sphere
+    3300352: Torus
+    3300354: Torus_1
+    3300356: Torus_2
+    3300358: wind01
+    3300360: wind02
+    3300362: wind03
+    3300364: window01
+    3300366: window02
+    4300000: Cylinder_3
+    4300002: Cylinder_2
+    4300004: Cylinder_1
+    4300006: Cylinder
+    4300008: Torus_1
+    4300010: Torus
+    4300012: Cylinder_4
+    4300014: Cylinder_3_2
+    4300016: button04
+    4300018: button03
+    4300020: button02
+    4300022: button01
+    4300024: big_button
+    4300026: plane
+    4300028: bridge3
+    4300030: bridge2
+    4300032: bridge1
+    4300034: Sphere
+    4300036: Subdivision_Surface
+    4300038: Torus_2
+    4300040: Cube_3
+    4300042: Cube_2
+    4300044: Cube_1
+    4300046: Cube
+    4300048: Cylinder_1_2
+    4300050: Cube_2_2
+    4300052: Cube_4
+    4300054: Cylinder_7
+    4300056: Cylinder_8
+    4300058: Cylinder_5
+    4300060: Cylinder_6
+    4300062: Cylinder_3_3
+    4300064: Cylinder_4_2
+    4300066: Cylinder_2_2
+    4300068: Cylinder_2_3
+    4300070: Sweep
+    4300072: Cap_1
+    4300074: Cap_2
+    4300076: Cylinder_3_4
+    4300078: Cylinder_1_3
+    4300080: Sweep_2
+    4300082: Cap_1_2
+    4300084: Cap_2_2
+    4300086: Cylinder_4_3
+    4300088: Cylinder_1_4
+    4300090: Sweep_3
+    4300092: Cap_1_3
+    4300094: Cap_2_3
+    4300096: Cylinder_5_2
+    4300098: Cylinder_1_5
+    4300100: Sweep_4
+    4300102: Cap_1_4
+    4300104: Cap_2_4
+    4300106: Cylinder_6_2
+    4300108: Cylinder_1_6
+    4300110: Sweep_5
+    4300112: Cap_1_5
+    4300114: Cap_2_5
+    4300116: Cylinder_7_2
+    4300118: Cylinder_1_7
+    4300120: Sweep_6
+    4300122: Cap_1_6
+    4300124: Cap_2_6
+    4300126: Cylinder_8_2
+    4300128: Cylinder_1_8
+    4300130: Key
+    4300132: Line
+    4300134: Line01_cylinder
+    4300136: Subdivision_Surface_1
+    4300138: Line_Back_2
+    4300140: Line_Back_cylinder
+    4300142: Key_2
+    4300144: Line_2
+    4300146: Line01_cylinder_2
+    4300148: Subdivision_Surface_1_2
+    4300150: Line_Back_4
+    4300152: Line_Back_cylinder_2
+    4300154: Key_3
+    4300156: Line_3
+    4300158: Line01_cylinder_3
+    4300160: Subdivision_Surface_1_3
+    4300162: Line_Back_6
+    4300164: Line_Back_cylinder_3
+    4300166: Key_4
+    4300168: Line_4
+    4300170: Line01_cylinder_4
+    4300172: Subdivision_Surface_1_4
+    4300174: Line_Back_8
+    4300176: Line_Back_cylinder_4
+    4300178: Key_5
+    4300180: Line_5
+    4300182: Line01_cylinder_5
+    4300184: Subdivision_Surface_1_5
+    4300186: Line_Back_10
+    4300188: Line_Back_cylinder_5
+    4300190: Key_6
+    4300192: Line_6
+    4300194: Line01_cylinder_6
+    4300196: Subdivision_Surface_1_6
+    4300198: Line_Back_12
+    4300200: Line_Back_cylinder_6
+    4300202: Key_7
+    4300204: Line_7
+    4300206: Line01_cylinder_7
+    4300208: Subdivision_Surface_1_7
+    4300210: Line_Back_14
+    4300212: Line_Back_cylinder_7
+    4300214: Key_8
+    4300216: Line_8
+    4300218: Line01_cylinder_8
+    4300220: Subdivision_Surface_1_8
+    4300222: Line_Back_16
+    4300224: Line_Back_cylinder_8
+    4300226: Key_9
+    4300228: Line_9
+    4300230: Line01_cylinder_9
+    4300232: Subdivision_Surface_1_9
+    4300234: Line_Back_18
+    4300236: Line_Back_cylinder_9
+    4300238: Key_10
+    4300240: Line_10
+    4300242: Line01_cylinder_10
+    4300244: Subdivision_Surface_1_10
+    4300246: Line_Back_20
+    4300248: Line_Back_cylinder_10
+    4300250: Key_11
+    4300252: Line_11
+    4300254: Line01_cylinder_11
+    4300256: Subdivision_Surface_1_11
+    4300258: Line_Back_22
+    4300260: Line_Back_cylinder_11
+    4300262: Key_12
+    4300264: Line_12
+    4300266: Line01_cylinder_12
+    4300268: mid_line
+    4300270: Line_Back_24
+    4300272: Line_Back_cylinder_12
+    4300274: Cylinder_6_3
+    4300276: wind01
+    4300278: wind02
+    4300280: wind03
+    4300282: Cylinder_5_3
+    4300284: Cylinder_4_4
+    4300286: top_sphere
+    4300288: top_cylinder
+    4300290: top_main
+    4300292: top_main_2
+    4300294: window02
+    4300296: window01
+    4300298: deco_pipe02
+    4300300: Cap_1_7
+    4300302: Cap_2_7
+    4300304: deco_pipe01
+    4300306: Cap_1_8
+    4300308: Cap_2_8
+    4300310: Sphere_0
+    4300312: Sphere_1
+    4300314: Sphere_2
+    4300316: Sphere_3
+    4300318: Sphere_4
+    4300320: Sphere_5
+    4300322: Sphere_6
+    4300324: Sphere_7
+    4300326: Sphere_8
+    4300328: Sphere_9
+    4300330: Sphere_10
+    4300332: Sphere_11
+    4300334: Sphere_12
+    4300336: Sphere_13
+    4300338: Sphere_14
+    4300340: Sphere_15
+    4300342: Sphere_16
+    4300344: Sphere_17
+    4300346: Sphere_18
+    4300348: Sphere_19
+    4300350: Sphere_20
+    4300352: Sphere_21
+    4300354: Sphere_22
+    4300356: Sphere_23
+    4300358: fake_cylinder_1
+    4300360: fake_cylinder
+    4300362: Hole_bottom_1
+    4300364: Hole_cylinder
+    4300366: Cube_3_2
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Background
+        weight: 1
+      - path: Bottom_cube
+        weight: 1
+      - path: Bottom_cube/Cube_3_2
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: computer
+        weight: 1
+      - path: computer/big_button
+        weight: 1
+      - path: computer/button01
+        weight: 1
+      - path: computer/button02
+        weight: 1
+      - path: computer/button03
+        weight: 1
+      - path: computer/button04
+        weight: 1
+      - path: computer/Cylinder_3_2
+        weight: 1
+      - path: computer/Cylinder_4
+        weight: 1
+      - path: computer/plane
+        weight: 1
+      - path: computer/Torus
+        weight: 1
+      - path: computer/Torus_1
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_1
+        weight: 1
+      - path: Cylinder_2
+        weight: 1
+      - path: Cylinder_3
+        weight: 1
+      - path: keys
+        weight: 1
+      - path: keys/Key_Rotation_1
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Key_12
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Key_12/Line01_cylinder_12
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Key_12/Line_12
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Key_12/mid_line
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Line_Back_23
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Line_Back_23/Line_Back_24
+        weight: 1
+      - path: keys/Key_Rotation_1/Key_Position_12/Line_Back_23/Line_Back_cylinder_12
+        weight: 1
+      - path: keys/Key_Rotation_2
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Key_11
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Key_11/Line01_cylinder_11
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Key_11/Line_11
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Key_11/Subdivision_Surface_1_11
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Line_Back_21
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Line_Back_21/Line_Back_22
+        weight: 1
+      - path: keys/Key_Rotation_2/Key_Position_11/Line_Back_21/Line_Back_cylinder_11
+        weight: 1
+      - path: keys/Key_Rotation_3
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Key_10
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Key_10/Line01_cylinder_10
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Key_10/Line_10
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Key_10/Subdivision_Surface_1_10
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Line_Back_19
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Line_Back_19/Line_Back_20
+        weight: 1
+      - path: keys/Key_Rotation_3/Key_Position_10/Line_Back_19/Line_Back_cylinder_10
+        weight: 1
+      - path: keys/Key_Rotation_4
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Key_9
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Key_9/Line01_cylinder_9
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Key_9/Line_9
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Key_9/Subdivision_Surface_1_9
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Line_Back_17
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Line_Back_17/Line_Back_18
+        weight: 1
+      - path: keys/Key_Rotation_4/Key_Position_9/Line_Back_17/Line_Back_cylinder_9
+        weight: 1
+      - path: keys/Key_Rotation_5
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Key_8
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Key_8/Line01_cylinder_8
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Key_8/Line_8
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Key_8/Subdivision_Surface_1_8
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Line_Back_15
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Line_Back_15/Line_Back_16
+        weight: 1
+      - path: keys/Key_Rotation_5/Key_Position_8/Line_Back_15/Line_Back_cylinder_8
+        weight: 1
+      - path: keys/Key_Rotation_6
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Key_7
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Key_7/Line01_cylinder_7
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Key_7/Line_7
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Key_7/Subdivision_Surface_1_7
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Line_Back_13
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Line_Back_13/Line_Back_14
+        weight: 1
+      - path: keys/Key_Rotation_6/Key_Position_7/Line_Back_13/Line_Back_cylinder_7
+        weight: 1
+      - path: keys/Key_Rotation_7
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Key_6
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Key_6/Line01_cylinder_6
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Key_6/Line_6
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Key_6/Subdivision_Surface_1_6
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Line_Back_11
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Line_Back_11/Line_Back_12
+        weight: 1
+      - path: keys/Key_Rotation_7/Key_Position_6/Line_Back_11/Line_Back_cylinder_6
+        weight: 1
+      - path: keys/Key_Rotation_8
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Key_5
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Key_5/Line01_cylinder_5
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Key_5/Line_5
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Key_5/Subdivision_Surface_1_5
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Line_Back_9
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Line_Back_9/Line_Back_10
+        weight: 1
+      - path: keys/Key_Rotation_8/Key_Position_5/Line_Back_9/Line_Back_cylinder_5
+        weight: 1
+      - path: keys/Key_Rotation_9
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Key_4
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Key_4/Line01_cylinder_4
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Key_4/Line_4
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Key_4/Subdivision_Surface_1_4
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Line_Back_7
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Line_Back_7/Line_Back_8
+        weight: 1
+      - path: keys/Key_Rotation_9/Key_Position_4/Line_Back_7/Line_Back_cylinder_4
+        weight: 1
+      - path: keys/Key_Rotation_10
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Key_3
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Key_3/Line01_cylinder_3
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Key_3/Line_3
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Key_3/Subdivision_Surface_1_3
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Line_Back_5
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Line_Back_5/Line_Back_6
+        weight: 1
+      - path: keys/Key_Rotation_10/Key_Position_3/Line_Back_5/Line_Back_cylinder_3
+        weight: 1
+      - path: keys/Key_Rotation_11
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Key_2
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Key_2/Line01_cylinder_2
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Key_2/Line_2
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Key_2/Subdivision_Surface_1_2
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Line_Back_3
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Line_Back_3/Line_Back_4
+        weight: 1
+      - path: keys/Key_Rotation_11/Key_Position_2/Line_Back_3/Line_Back_cylinder_2
+        weight: 1
+      - path: keys/Key_Rotation_12
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Key
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Key/Line
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Key/Line01_cylinder
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Key/Subdivision_Surface_1
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Line_Back
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Line_Back/Line_Back_2
+        weight: 1
+      - path: keys/Key_Rotation_12/Key_Position/Line_Back/Line_Back_cylinder
+        weight: 1
+      - path: mid_cylinder
+        weight: 1
+      - path: mid_cylinder/fake_cylinder
+        weight: 1
+      - path: mid_cylinder/fake_cylinder_1
+        weight: 1
+      - path: mid_cylinder/Null_2
+        weight: 1
+      - path: mid_cylinder/Null_2/Hole_bottom_1
+        weight: 1
+      - path: mid_cylinder/Null_2/Hole_cylinder
+        weight: 1
+      - path: minimachine
+        weight: 1
+      - path: minimachine/bridge1
+        weight: 1
+      - path: minimachine/bridge2
+        weight: 1
+      - path: minimachine/bridge3
+        weight: 1
+      - path: minimachine/Cube
+        weight: 1
+      - path: minimachine/Cube_1
+        weight: 1
+      - path: minimachine/Cube_2
+        weight: 1
+      - path: minimachine/Cube_2_2
+        weight: 1
+      - path: minimachine/Cube_3
+        weight: 1
+      - path: minimachine/Cube_4
+        weight: 1
+      - path: minimachine/Cylinder_1_2
+        weight: 1
+      - path: minimachine/Cylinder_2_2
+        weight: 1
+      - path: minimachine/Cylinder_2_3
+        weight: 1
+      - path: minimachine/Cylinder_3_3
+        weight: 1
+      - path: minimachine/Cylinder_4_2
+        weight: 1
+      - path: minimachine/Cylinder_5
+        weight: 1
+      - path: minimachine/Cylinder_6
+        weight: 1
+      - path: minimachine/Cylinder_7
+        weight: 1
+      - path: minimachine/Cylinder_8
+        weight: 1
+      - path: minimachine/handle
+        weight: 1
+      - path: minimachine/handle/Sphere
+        weight: 1
+      - path: minimachine/handle/Subdivision_Surface
+        weight: 1
+      - path: minimachine/Torus_2
+        weight: 1
+      - path: pipe01
+        weight: 1
+      - path: pipe01/Cylinder_1_3
+        weight: 1
+      - path: pipe01/Cylinder_3_4
+        weight: 1
+      - path: pipe01/Sweep
+        weight: 1
+      - path: pipe01/Sweep/Cap_1
+        weight: 1
+      - path: pipe01/Sweep/Cap_2
+        weight: 1
+      - path: pipe02
+        weight: 1
+      - path: pipe02/Cylinder_1_4
+        weight: 1
+      - path: pipe02/Cylinder_4_3
+        weight: 1
+      - path: pipe02/Sweep_2
+        weight: 1
+      - path: pipe02/Sweep_2/Cap_1_2
+        weight: 1
+      - path: pipe02/Sweep_2/Cap_2_2
+        weight: 1
+      - path: pipe03
+        weight: 1
+      - path: pipe03/Cylinder_1_5
+        weight: 1
+      - path: pipe03/Cylinder_5_2
+        weight: 1
+      - path: pipe03/Sweep_3
+        weight: 1
+      - path: pipe03/Sweep_3/Cap_1_3
+        weight: 1
+      - path: pipe03/Sweep_3/Cap_2_3
+        weight: 1
+      - path: pipe04
+        weight: 1
+      - path: pipe04/Cylinder_1_6
+        weight: 1
+      - path: pipe04/Cylinder_6_2
+        weight: 1
+      - path: pipe04/Sweep_4
+        weight: 1
+      - path: pipe04/Sweep_4/Cap_1_4
+        weight: 1
+      - path: pipe04/Sweep_4/Cap_2_4
+        weight: 1
+      - path: pipe05
+        weight: 1
+      - path: pipe05/Cylinder_1_7
+        weight: 1
+      - path: pipe05/Cylinder_7_2
+        weight: 1
+      - path: pipe05/Sweep_5
+        weight: 1
+      - path: pipe05/Sweep_5/Cap_1_5
+        weight: 1
+      - path: pipe05/Sweep_5/Cap_2_5
+        weight: 1
+      - path: pipe06
+        weight: 1
+      - path: pipe06/Cylinder_1_8
+        weight: 1
+      - path: pipe06/Cylinder_8_2
+        weight: 1
+      - path: pipe06/Sweep_6
+        weight: 1
+      - path: pipe06/Sweep_6/Cap_1_6
+        weight: 1
+      - path: pipe06/Sweep_6/Cap_2_6
+        weight: 1
+      - path: small_sphere
+        weight: 1
+      - path: small_sphere/Sphere_0
+        weight: 1
+      - path: small_sphere/Sphere_1
+        weight: 1
+      - path: small_sphere/Sphere_2
+        weight: 1
+      - path: small_sphere/Sphere_3
+        weight: 1
+      - path: small_sphere/Sphere_4
+        weight: 1
+      - path: small_sphere/Sphere_5
+        weight: 1
+      - path: small_sphere/Sphere_6
+        weight: 1
+      - path: small_sphere/Sphere_7
+        weight: 1
+      - path: small_sphere/Sphere_8
+        weight: 1
+      - path: small_sphere/Sphere_9
+        weight: 1
+      - path: small_sphere/Sphere_10
+        weight: 1
+      - path: small_sphere/Sphere_11
+        weight: 1
+      - path: small_sphere/Sphere_12
+        weight: 1
+      - path: small_sphere/Sphere_13
+        weight: 1
+      - path: small_sphere/Sphere_14
+        weight: 1
+      - path: small_sphere/Sphere_15
+        weight: 1
+      - path: small_sphere/Sphere_16
+        weight: 1
+      - path: small_sphere/Sphere_17
+        weight: 1
+      - path: small_sphere/Sphere_18
+        weight: 1
+      - path: small_sphere/Sphere_19
+        weight: 1
+      - path: small_sphere/Sphere_20
+        weight: 1
+      - path: small_sphere/Sphere_21
+        weight: 1
+      - path: small_sphere/Sphere_22
+        weight: 1
+      - path: small_sphere/Sphere_23
+        weight: 1
+      - path: Top
+        weight: 1
+      - path: Top/deco_pipe01
+        weight: 1
+      - path: Top/deco_pipe01/Cap_1_8
+        weight: 1
+      - path: Top/deco_pipe01/Cap_2_8
+        weight: 1
+      - path: Top/deco_pipe02
+        weight: 1
+      - path: Top/deco_pipe02/Cap_1_7
+        weight: 1
+      - path: Top/deco_pipe02/Cap_2_7
+        weight: 1
+      - path: Top/Null
+        weight: 1
+      - path: Top/Null/Cylinder_4_4
+        weight: 1
+      - path: Top/Null/Cylinder_5_3
+        weight: 1
+      - path: Top/Null/top_cylinder
+        weight: 1
+      - path: Top/Null/top_main
+        weight: 1
+      - path: Top/Null/top_main_2
+        weight: 1
+      - path: Top/Null/top_sphere
+        weight: 1
+      - path: Top/Null/wind
+        weight: 1
+      - path: Top/Null/wind/Cylinder_6_3
+        weight: 1
+      - path: Top/Null/wind/wind01
+        weight: 1
+      - path: Top/Null/wind/wind02
+        weight: 1
+      - path: Top/Null/wind/wind03
+        weight: 1
+      - path: Top/Null/window01
+        weight: 1
+      - path: Top/Null/window02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
