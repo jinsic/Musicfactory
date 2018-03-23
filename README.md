@@ -1,6 +1,4 @@
 # Musicfactory
-#Unity #oculus #Cshape
-
 
 Projects using Unity
 Applied the event listener script to each of four instruments
